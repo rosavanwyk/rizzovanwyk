@@ -40,8 +40,14 @@
     },
     {
       "image": {
-        "src": "/media/audi/audi-8-result.webp",
         "alt": "Audi 8 result"
+      },
+      "_template": "oneImage"
+    },
+    {
+      "image": {
+        "src": "/media/media/Audi_colours.webm",
+        "alt": "Audi 36 result"
       },
       "_template": "oneImage"
     },
@@ -210,13 +216,6 @@
       "image": {
         "src": "/media/audi/audio-woman-red-result.webp",
         "alt": "audio woman red result"
-      },
-      "_template": "oneImage"
-    },
-    {
-      "image": {
-        "src": "/media/audi/audi-36-result.webp",
-        "alt": "Audi 36 result"
       },
       "_template": "oneImage"
     },
