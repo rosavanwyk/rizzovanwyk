@@ -22,17 +22,21 @@ const field = (object: Json | null | undefined, name?: string, index?: number) =
   }
 }
 
+/** Inside the editor, Tina serves media from its CDN (https://assets.tina.io/<id>/media/...). */
+const localPath = (src: string) => src.replace(/^https?:\/\/assets\.tina\.io\/[^/]+(?=\/)/, '')
+
 function toMedia(value: Json | string | null | undefined, dims: Dimensions, marker?: string): PopulatedMedia | null {
   const src = typeof value === 'string' ? value : value?.src
   if (!src) return null
+  const key = localPath(src)
   const fallbackSrc = typeof value === 'object' ? value?.mp4Fallback : null
   return {
     id: src,
     url: src,
     alt: typeof value === 'object' ? value?.alt : null,
     mimeType: mimeOf(src),
-    width: dims[src]?.width ?? null,
-    height: dims[src]?.height ?? null,
+    width: dims[key]?.width ?? null,
+    height: dims[key]?.height ?? null,
     mp4Fallback: fallbackSrc ? { id: fallbackSrc, url: fallbackSrc, mimeType: mimeOf(fallbackSrc) } : null,
     tinaField: marker,
   }

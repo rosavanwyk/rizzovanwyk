@@ -252,7 +252,8 @@ function LazyNavigationLogo({ media }: { media: PopulatedMedia }) {
         }
       },
       () => {
-        if (isCurrent) setSource(null)
+        // Couldn't inline the SVG (e.g. served from another domain): show it as a plain image.
+        if (isCurrent) setSource(media.url)
       },
     )
 
