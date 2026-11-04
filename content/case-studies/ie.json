@@ -1,0 +1,422 @@
+{
+  "title": "IE",
+  "category": "Education",
+  "draft": false,
+  "navigationLogo": "/media/ie/ie.svg",
+  "heroImage": {
+    "src": "/media/ie/ie-1.webp",
+    "alt": "Ie 1"
+  },
+  "intro": {
+    "copy": "A university is never just one thing. Different schools, programmes and audiences need room to express themselves, without losing their connection to the institution. For IE University, we developed a system built around six shared brand principles, including a circle derived from the letterforms of the logo. These common elements create consistency while leaving space for each school to establish its own character. One recognisable institution, with the flexibility to speak in many voices.",
+    "title": "IE University",
+    "subtitle": "Many voices. One circle."
+  },
+  "blocks": [
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-2.webp",
+        "alt": "Ie 2"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-3.webp",
+        "alt": "Ie 3"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-4.webp",
+        "alt": "Ie 4"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/ie/ie-5.webp",
+          "alt": "Ie 5"
+        },
+        {
+          "src": "/media/ie/ie-6.webp",
+          "alt": "Ie 6"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-7.webp",
+        "alt": "Ie 7"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-8.webp",
+        "alt": "Ie 8"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/ie/ie-9.webp",
+          "alt": "Ie 9"
+        },
+        {
+          "src": "/media/ie/ie-10.webp",
+          "alt": "Ie 10"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-11.webp",
+        "alt": "Ie 11"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-12.webp",
+        "alt": "Ie 12"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-13.webp",
+        "alt": "Ie 13"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-14.webp",
+        "alt": "Ie 14"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-15.webp",
+        "alt": "Ie 15"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-16.webp",
+        "alt": "Ie 16"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-17.webp",
+        "alt": "Ie 17"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-18.webp",
+        "alt": "Ie 18"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/ie/ie-19.webp",
+          "alt": "Ie 19"
+        },
+        {
+          "src": "/media/ie/ie-20.webp",
+          "alt": "Ie 20"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-21.webp",
+        "alt": "Ie 21"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-22.webp",
+        "alt": "Ie 22"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-23.webp",
+        "alt": "Ie 23"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-24.webp",
+        "alt": "Ie 24"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-25.webp",
+        "alt": "Ie 25"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-26.webp",
+        "alt": "Ie 26"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-27.webp",
+        "alt": "Ie 27"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-29.webp",
+        "alt": "Ie 29"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/ie/ie-31.webp",
+          "alt": "Ie 31"
+        },
+        {
+          "src": "/media/ie/ie-30.webp",
+          "alt": "Ie 30"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/ie/ie-33.webp",
+          "alt": "Ie 33"
+        },
+        {
+          "src": "/media/ie/ie-32.webp",
+          "alt": "Ie 32"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/ie/ie-35.webp",
+          "alt": "Ie 35"
+        },
+        {
+          "src": "/media/ie/ie-34.webp",
+          "alt": "Ie 34"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/ie/ie-36.webp",
+          "alt": "Ie 36"
+        },
+        {
+          "src": "/media/ie/ie-37.webp",
+          "alt": "Ie 37"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-38.webp",
+        "alt": "Ie 38"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-39.webp",
+        "alt": "Ie 39"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-40.webp",
+        "alt": "Ie 40"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-41.webp",
+        "alt": "Ie 41"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-42.webp",
+        "alt": "Ie 42"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-43.webp",
+        "alt": "Ie 43"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-43-2.webp",
+        "alt": "Ie 43"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-42-2.webp",
+        "alt": "Ie 42"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-41-2.webp",
+        "alt": "Ie 41"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-40-2.webp",
+        "alt": "Ie 40"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-39-2.webp",
+        "alt": "Ie 39"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-38-2.webp",
+        "alt": "Ie 38"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/ie/ie-37-2.webp",
+          "alt": "Ie 37"
+        },
+        {
+          "src": "/media/ie/ie-36-2.webp",
+          "alt": "Ie 36"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/ie/ie-35-2.webp",
+          "alt": "Ie 35"
+        },
+        {
+          "src": "/media/ie/ie-34-2.webp",
+          "alt": "Ie 34"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/ie/ie-33-2.webp",
+          "alt": "Ie 33"
+        },
+        {
+          "src": "/media/ie/ie-32-2.webp",
+          "alt": "Ie 32"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/ie/ie-31-2.webp",
+          "alt": "Ie 31"
+        },
+        {
+          "src": "/media/ie/ie-30-2.webp",
+          "alt": "Ie 30"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/ie/ie-29-2.webp",
+        "alt": "Ie 29"
+      }
+    }
+  ],
+  "credits": [
+    {
+      "name": "Martin Rizzo",
+      "roles": [
+        "Brand Evolution",
+        "Visual Identity System",
+        "Art Direction",
+        "Design Director"
+      ]
+    },
+    {
+      "name": "Denis Paladin",
+      "roles": [
+        "3D Assets"
+      ]
+    },
+    {
+      "name": "Crowdland",
+      "roles": [
+        "Brand Strategy",
+        "Design System"
+      ]
+    }
+  ]
+}

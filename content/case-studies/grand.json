@@ -1,0 +1,296 @@
+{
+  "title": "Grand",
+  "category": "AI & Fintech",
+  "draft": false,
+  "navigationLogo": "/media/grand/grand.svg",
+  "heroImage": {
+    "src": "/media/grand/01.webp",
+    "alt": "Grand case study panel 01"
+  },
+  "intro": {
+    "copy": "Grand set out to rethink credit risk using AI. But turning sophisticated technology into a viable business takes more than a clever product. Working with the 20VC-backed startup from its earliest stages, we helped define the proposition, understand its market and build the brand and digital experience around it. From research with construction businesses and merchants to product definition and launch, the work connected real customer needs with commercial ambition. Within 12 months, Grand had secured its first enterprise client.",
+    "title": "Grand",
+    "subtitle": "An AI startup, from idea to launch."
+  },
+  "blocks": [
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/02.webp",
+        "alt": "Grand case study panel 02"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/grand/grand-construccion-01.webm",
+          "alt": "Grand construccion 01",
+          "mp4Fallback": "/media/grand/grand-construccion-01.mp4"
+        },
+        {
+          "src": "/media/grand/04.webp",
+          "alt": "Grand case study panel 04"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/grand/05.webp",
+          "alt": "Grand case study panel 05"
+        },
+        {
+          "src": "/media/grand/06.webp",
+          "alt": "Grand case study panel 06"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/07.webp",
+        "alt": "Grand case study panel 07"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/08.webp",
+        "alt": "Grand case study panel 08"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/grand/09.webp",
+          "alt": "Grand case study panel 09"
+        },
+        {
+          "src": "/media/grand/10.webp",
+          "alt": "Grand case study panel 10"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/11.webp",
+        "alt": "Grand case study panel 11"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/12.webp",
+        "alt": "Grand case study panel 12"
+      }
+    },
+    {
+      "_template": "imageTextRight",
+      "title": "Grand",
+      "subtitle": "Corporate Layout",
+      "copy": "Grand's applications range from typography to photography. The logo remains fixed as an anchor, while other elements are added progressively, ensuring consistency and varying visual density without losing clarity."
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/grand/14.webp",
+          "alt": "Grand case study panel 14"
+        },
+        {
+          "src": "/media/grand/14b.webp",
+          "alt": "Grand case study panel 14b"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/a20.webp",
+        "alt": "Grand case study panel A20"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/a21.webp",
+        "alt": "Grand case study panel A21"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/grand/a22.webp",
+          "alt": "Grand case study panel A22"
+        },
+        {
+          "src": "/media/grand/a23.webp",
+          "alt": "Grand case study panel A23"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/a24.webp",
+        "alt": "Grand case study panel A24"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/a25.webp",
+        "alt": "Grand case study panel A25"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/a26.webp",
+        "alt": "Grand case study panel A26"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/a27.webp",
+        "alt": "Grand case study panel A27"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/grand/a28.webp",
+          "alt": "Grand case study panel A28"
+        },
+        {
+          "src": "/media/grand/a29.webp",
+          "alt": "Grand case study panel A29"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/a30.webp",
+        "alt": "Grand case study panel A30"
+      }
+    },
+    {
+      "_template": "imageTextLeft",
+      "title": "Grand",
+      "subtitle": "Layout Blocks",
+      "copy": "Add case study text here."
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/a33.webp",
+        "alt": "Grand case study panel A33"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/a34.webp",
+        "alt": "Grand case study panel A34"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/a35.webp",
+        "alt": "Grand case study panel A35"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/a36.webp",
+        "alt": "Grand case study panel A36"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/grand/a37.webp",
+          "alt": "Grand case study panel A37"
+        },
+        {
+          "src": "/media/grand/a38.webp",
+          "alt": "Grand case study panel A38"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/grand/a39.webp",
+          "alt": "Grand case study panel A39"
+        },
+        {
+          "src": "/media/grand/a40.webp",
+          "alt": "Grand case study panel A40"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/grand/a41.webp",
+          "alt": "Grand case study panel A41"
+        },
+        {
+          "src": "/media/grand/a42.webp",
+          "alt": "Grand case study panel A42"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/a43.webp",
+        "alt": "Grand case study panel A43"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/a44.webp",
+        "alt": "Grand case study panel A44"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/a46.webp",
+        "alt": "Grand case study panel A46"
+      }
+    }
+  ],
+  "credits": [
+    {
+      "name": "Martin Rizzo",
+      "roles": [
+        "Creative Direction & Design",
+        "Brand Identity"
+      ]
+    },
+    {
+      "name": "Rosa van Wyk",
+      "roles": [
+        "Product & UX Design",
+        "Behavioural Insights"
+      ]
+    }
+  ]
+}

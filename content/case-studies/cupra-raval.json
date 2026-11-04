@@ -1,0 +1,216 @@
+{
+  "title": "Cupra Raval",
+  "category": "Automotive",
+  "draft": false,
+  "navigationLogo": "/media/cupra-raval/9f4d4.svg",
+  "heroImage": {
+    "src": "/media/cupra-raval/raval-1.webp",
+    "alt": "Raval 1"
+  },
+  "intro": {
+    "copy": "Barcelona's Raval is a collision of cultures, languages and identities. Naming a car after it called for something more interesting than a conventional automotive campaign.\n\nWe created a typographic language where every letter has a different personality, reflecting the diversity of the streets that inspired it. The identity shifts between expressive and minimal, analogue and digital, always grounded in the raw energy of the neighbourhood.",
+    "title": "Cupra Raval",
+    "subtitle": "A car with a character of its own."
+  },
+  "blocks": [
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/07-cupra-raval-007.webm",
+        "alt": "07 Cupra Raval 007",
+        "mp4Fallback": "/media/cupra-raval/07-cupra-raval-007-1.mp4"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-2.webp",
+        "alt": "Raval 2"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-3.webp",
+        "alt": "Raval 3"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-4.webp",
+        "alt": "Raval 4"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-5.webp",
+        "alt": "Raval 5"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-6.webp",
+        "alt": "Raval 6"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-7.webp",
+        "alt": "Raval 7"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-8.webp",
+        "alt": "Raval 8"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-9.webp",
+        "alt": "Raval 9"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-10.webp",
+        "alt": "Raval 10"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-11.webp",
+        "alt": "Raval 11"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-12.webp",
+        "alt": "Raval 12"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-13.webp",
+        "alt": "Raval 13"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-14.webp",
+        "alt": "Raval 14"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-15.webp",
+        "alt": "Raval 15"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-16.webp",
+        "alt": "Raval 16"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-17.webp",
+        "alt": "Raval 17"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-18.webp",
+        "alt": "Raval 18"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-19.webp",
+        "alt": "Raval 19"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-20.webp",
+        "alt": "Raval 20"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-21.webp",
+        "alt": "Raval 21"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-22.webp",
+        "alt": "Raval 22"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-23.webp",
+        "alt": "Raval 23"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-24.webp",
+        "alt": "Raval 24"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-25.webp",
+        "alt": "Raval 25"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra-raval/raval-26.webp",
+        "alt": "Raval 26"
+      }
+    }
+  ],
+  "credits": [
+    {
+      "name": "Martin Rizzo",
+      "roles": [
+        "Creative Direction & Design",
+        "Brand Identity"
+      ]
+    },
+    {
+      "name": "Rosa van Wyk",
+      "roles": [
+        "Brand Strategy",
+        "Product & UX Design"
+      ]
+    }
+  ]
+}

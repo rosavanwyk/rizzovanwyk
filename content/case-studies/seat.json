@@ -1,0 +1,222 @@
+{
+  "title": "Seat",
+  "category": "Automotive",
+  "draft": false,
+  "navigationLogo": "/media/seat/8ff6b.svg",
+  "heroImage": {
+    "src": "/media/seat/seat-1-result.webp",
+    "alt": "Seat 1 result"
+  },
+  "intro": {
+    "copy": "A car brand should never stand still. SEAT needed a consistent identity that could work across markets, campaigns and increasingly digital experiences. By reducing the existing logo to a single continuous outline, we created a mark that could draw, animate and reinvent itself. A flexible colour system, drawn from campaign photography, gave every execution its own character while keeping the brand unmistakably SEAT.",
+    "title": "SEAT",
+    "subtitle": "An identity built to move."
+  },
+  "blocks": [
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/seat/seat-2-result.webp",
+          "alt": "Seat 2 result"
+        },
+        {
+          "src": "/media/seat/seat-3-result.webp",
+          "alt": "Seat 3 result"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/seat/seat-4-result.webp",
+        "alt": "Seat 4 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/seat/seat-5-result.webp",
+        "alt": "Seat 5 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/seat/01-seat.webm",
+        "alt": "01 SEAT",
+        "mp4Fallback": "/media/seat/01-seat.mp4"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/seat/seat-7-result.webp",
+          "alt": "Seat 7 result"
+        },
+        {
+          "src": "/media/seat/seat-8-result.webp",
+          "alt": "Seat 8 result"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/seat/seat-9-result.webp",
+        "alt": "Seat 9 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/seat/seat-10-result.webp",
+        "alt": "Seat 10 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/seat/seat-11-result.webp",
+        "alt": "Seat 11 result"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/seat/seat-12-result.webp",
+          "alt": "Seat 12 result"
+        },
+        {
+          "src": "/media/seat/seat-13-result.webp",
+          "alt": "Seat 13 result"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/seat/seat-14-result.webp",
+        "alt": "Seat 14 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/seat/seat-15-result.webp",
+        "alt": "Seat 15 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/seat/seat-16-result.webp",
+        "alt": "Seat 16 result"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/seat/seat-17-result.webp",
+          "alt": "Seat 17 result"
+        },
+        {
+          "src": "/media/seat/seat-18-result.webp",
+          "alt": "Seat 18 result"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/seat/seat-19-result.webp",
+          "alt": "Seat 19 result"
+        },
+        {
+          "src": "/media/seat/seat-20-result.webp",
+          "alt": "Seat 20 result"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/seat/seat-21-result.webp",
+          "alt": "Seat 21 result"
+        },
+        {
+          "src": "/media/seat/seat-22-result.webp",
+          "alt": "Seat 22 result"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/seat/seat-23-result.webp",
+          "alt": "Seat 23 result"
+        },
+        {
+          "src": "/media/seat/seat-24-result.webp",
+          "alt": "Seat 24 result"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/seat/seat-25-result.webp",
+          "alt": "Seat 25 result"
+        },
+        {
+          "src": "/media/seat/seat-26-result.webp",
+          "alt": "Seat 26 result"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/seat/seat-27-result.webp",
+        "alt": "Seat 27 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/seat/seat-28-result.webp",
+        "alt": "Seat 28 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/seat/seat-29-result.webp",
+        "alt": "Seat 29 result"
+      }
+    }
+  ],
+  "credits": [
+    {
+      "name": "Martin Rizzo",
+      "roles": [
+        "Creative Direction & Design",
+        "Brand Identity"
+      ]
+    },
+    {
+      "name": "Rosa van Wyk",
+      "roles": [
+        "Brand Strategy",
+        "Product & UX Design"
+      ]
+    }
+  ]
+}

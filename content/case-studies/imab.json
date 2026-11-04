@@ -1,0 +1,280 @@
+{
+  "title": "Imab",
+  "category": "Architecture & Design",
+  "draft": false,
+  "navigationLogo": "/media/imab/imab.svg",
+  "heroImage": {
+    "src": "/media/imab/imab-1.webp",
+    "alt": "IMAB 1"
+  },
+  "intro": {
+    "copy": "The most interesting brand ideas are often hiding in plain sight. For Imab, a high-end architecture company, we found ours in the language of architectural drawings. Lines, circles and squares taken from floor plans became the foundations of the identity. Those same elements form patterns, compositions and a family of expressive characters, giving a precise architectural system an unexpectedly human personality.",
+    "title": "Imab",
+    "subtitle": "A brand drawn from floor plans."
+  },
+  "blocks": [
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-2.webp",
+        "alt": "IMAB 2"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-3.webp",
+        "alt": "IMAB 3"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-4.webp",
+        "alt": "IMAB 4"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/imab/imab-5.webp",
+          "alt": "IMAB 5"
+        },
+        {
+          "src": "/media/imab/imab-6.webp",
+          "alt": "IMAB 6"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/imab/imab-7.webp",
+          "alt": "IMAB 7"
+        },
+        {
+          "src": "/media/imab/imab-8.webp",
+          "alt": "IMAB 8"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/imab/imab-9.webp",
+          "alt": "IMAB 9"
+        },
+        {
+          "src": "/media/imab/imab-10.webp",
+          "alt": "IMAB 10"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-11.webp",
+        "alt": "IMAB 11"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-12.webp",
+        "alt": "IMAB 12"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/imab/imab-13.webp",
+          "alt": "IMAB 13"
+        },
+        {
+          "src": "/media/imab/imab-14.webp",
+          "alt": "IMAB 14"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-15.webp",
+        "alt": "IMAB 15"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-16.webp",
+        "alt": "IMAB 16"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/imab/imab-17.webp",
+          "alt": "IMAB 17"
+        },
+        {
+          "src": "/media/imab/imab-18.webp",
+          "alt": "IMAB 18"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-19.webp",
+        "alt": "IMAB 19"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-20.webp",
+        "alt": "IMAB 20"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-21.webp",
+        "alt": "IMAB 21"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-22.webp",
+        "alt": "IMAB 22"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-23.webp",
+        "alt": "IMAB 23"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-24.webp",
+        "alt": "IMAB 24"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-25.webp",
+        "alt": "IMAB 25"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-26.webp",
+        "alt": "IMAB 26"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-27.webp",
+        "alt": "IMAB 27"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/imab/imab-28.webp",
+          "alt": "IMAB 28"
+        },
+        {
+          "src": "/media/imab/imab-29.webp",
+          "alt": "IMAB 29"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-30.webp",
+        "alt": "IMAB 30"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-31.webp",
+        "alt": "IMAB 31"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-32.webp",
+        "alt": "IMAB 32"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-33.webp",
+        "alt": "IMAB 33"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-34.webp",
+        "alt": "IMAB 34"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-35.webp",
+        "alt": "IMAB 35"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imab/imab-36.webp",
+        "alt": "IMAB 36"
+      }
+    }
+  ],
+  "credits": [
+    {
+      "name": "Martin Rizzo",
+      "roles": [
+        "Creative Direction & Design",
+        "Brand Identity",
+        "Visual Identity System",
+        "Design Director"
+      ]
+    },
+    {
+      "name": "Mariano Pelaez",
+      "roles": [
+        "Web Design",
+        "UX/UI"
+      ]
+    },
+    {
+      "name": "Sunammers Agency",
+      "roles": [
+        "Brand Strategy"
+      ]
+    }
+  ]
+}

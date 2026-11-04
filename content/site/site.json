@@ -1,0 +1,85 @@
+{
+  "caseStudyOrder": [
+    {
+      "caseStudy": "content/case-studies/cupra.json"
+    },
+    {
+      "caseStudy": "content/case-studies/seat.json"
+    },
+    {
+      "caseStudy": "content/case-studies/mangopay.json"
+    },
+    {
+      "caseStudy": "content/case-studies/audi.json"
+    },
+    {
+      "caseStudy": "content/case-studies/albatross.json"
+    },
+    {
+      "caseStudy": "content/case-studies/cibc.json"
+    },
+    {
+      "caseStudy": "content/case-studies/cupra-raval.json"
+    },
+    {
+      "caseStudy": "content/case-studies/khamoro.json"
+    },
+    {
+      "caseStudy": "content/case-studies/imminent.json"
+    },
+    {
+      "caseStudy": "content/case-studies/grand.json"
+    },
+    {
+      "caseStudy": "content/case-studies/imab.json"
+    },
+    {
+      "caseStudy": "content/case-studies/bird.json"
+    },
+    {
+      "caseStudy": "content/case-studies/alpega.json"
+    },
+    {
+      "caseStudy": "content/case-studies/ie.json"
+    },
+    {
+      "caseStudy": "content/case-studies/commonsense.json"
+    },
+    {
+      "caseStudy": "content/case-studies/no-woman-no-spice.json"
+    },
+    {
+      "caseStudy": "content/case-studies/fichap.json"
+    },
+    {
+      "caseStudy": "content/case-studies/coptown.json"
+    }
+  ],
+  "about": {
+    "portraits": {
+      "src": "/media/about/portraits.webp",
+      "alt": "Rosa and Martin"
+    },
+    "navImage": "/media/about/about-us-nav.png",
+    "statementLine1": "BIG THINKING.",
+    "statementLine2": "BEAUTIFULLY MADE",
+    "aboutTitle": "About us",
+    "aboutParagraphs": [
+      "We bring together big-picture thinking and exceptional craft to build and evolve brands, products and experiences.",
+      "We approach creative challenges from different perspectives: Martin through brand, identity and visual culture; Rosa through product and human behaviour. Together, we take projects from strategy and positioning through to execution and launch."
+    ],
+    "servicesTitle": "Services",
+    "services": [
+      "Strategy & positioning",
+      "Brand thinking",
+      "Identity systems",
+      "Art direction",
+      "Environmental design",
+      "Concepts & prototypes",
+      "Behavioural insights",
+      "Product & UX design",
+      "AI & automation"
+    ],
+    "navTagline": "Full-stack Design Duo"
+  }
+}

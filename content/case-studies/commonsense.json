@@ -1,0 +1,170 @@
+{
+  "title": "Commonsense",
+  "category": "Fintech",
+  "draft": false,
+  "navigationLogo": "/media/commonsense/7bbe1.svg",
+  "heroImage": {
+    "src": "/media/commonsense/common-sense-1.webp",
+    "alt": "Common Sense 1"
+  },
+  "intro": {
+    "copy": "Crypto has no shortage of complexity, abstraction or technological promises. Commonsense, which builds cryptocurrency portfolios for private and institutional investors, needed a more grounded way to communicate. With the existing logo retained, we developed a visual identity around the idea of Roots of Trust. Honest portraits, natural objects and restrained compositions brought a human dimension to an often impersonal category. A more approachable expression of a sophisticated financial proposition.",
+    "title": "Commonsense",
+    "subtitle": "Crypto that makes common sense."
+  },
+  "blocks": [
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/common-sense-2.webp",
+        "alt": "Common Sense 2"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/commonsense/common-sense-3.webp",
+          "alt": "Common Sense 3"
+        },
+        {
+          "src": "/media/commonsense/common-sense-4.webp",
+          "alt": "Common Sense 4"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/common-sense-5.webp",
+        "alt": "Common Sense 5"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/common-sense-6.webp",
+        "alt": "Common Sense 6"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/common-sense-7.webp",
+        "alt": "Common Sense 7"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/common-sense-8.webp",
+        "alt": "Common Sense 8"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/common-sense-9.webp",
+        "alt": "Common Sense 9"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/common-sense-10.webp",
+        "alt": "Common Sense 10"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/common-sense-11.webp",
+        "alt": "Common Sense 11"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/commonsense/common-sense-12.webp",
+          "alt": "Common Sense 12"
+        },
+        {
+          "src": "/media/commonsense/common-sense-13.webp",
+          "alt": "Common Sense 13"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/commonsense/common-sense-14.webp",
+          "alt": "Common Sense 14"
+        },
+        {
+          "src": "/media/commonsense/common-sense-15.webp",
+          "alt": "Common Sense 15"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/common-sense-16.webp",
+        "alt": "Common Sense 16"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/common-sense-17.webp",
+        "alt": "Common Sense 17"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/common-sense-18.webp",
+        "alt": "Common Sense 18"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/common-sense-19.webp",
+        "alt": "Common Sense 19"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/common-sense-20.webp",
+        "alt": "Common Sense 20"
+      }
+    }
+  ],
+  "credits": [
+    {
+      "name": "Martin Rizzo",
+      "roles": [
+        "Brand Evolution",
+        "Visual Identity System",
+        "Art Direction",
+        "Design Director"
+      ]
+    },
+    {
+      "name": "Luciano Insua",
+      "roles": [
+        "Photography"
+      ]
+    },
+    {
+      "name": "Rosa van Wyk",
+      "roles": [
+        "Brand Strategy"
+      ]
+    }
+  ]
+}

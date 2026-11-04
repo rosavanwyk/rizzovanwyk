@@ -1,0 +1,18 @@
+{
+  "description": "Rizzo / van Wyk is a creative partnership specialising in brand strategy, visual identity, product design and digital experiences. Big thinking. Beautifully made.",
+  "language": "EN",
+  "icons": {
+    "icon": "/favicon.svg"
+  },
+  "openGraph": {
+    "image": "/social-image.png"
+  },
+  "analytics": {
+    "googleAnalyticsId": "G-ZB9XGEP8K9"
+  },
+  "customScripts": {},
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

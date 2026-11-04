@@ -1,0 +1,259 @@
+{
+  "title": "Audi",
+  "category": "Automotive",
+  "draft": false,
+  "navigationLogo": "/media/audi/17b90.svg",
+  "heroImage": {
+    "src": "/media/audi/audi-1-result.webp",
+    "alt": "Audi 1 result"
+  },
+  "intro": {
+    "copy": "Some brands are recognisable without saying their name. Audi is one of them. Built around the idea of Vorsprung — staying a step ahead — the campaign explored the relationship between typography and one of the world's most iconic automotive symbols. The circular forms of the Vanguard typeface allowed the four rings to emerge naturally from the words themselves. Even alongside model names like A5 and Q5, the symbol did all the talking.",
+    "title": "Audi",
+    "subtitle": "Letting the rings do the talking."
+  },
+  "blocks": [
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-vorsprung-03.webm",
+        "alt": "Audi Vorsprung 03",
+        "mp4Fallback": "/media/audi/audi-vorsprung-03.mp4"
+      }
+    },
+    {
+      "_template": "twoText",
+      "leftText": "Manifesto",
+      "rightText": "It is not a word. \nIt is a mindset.\nThe instinct to stay a few steps ahead.\nNot a destination you reach, but a direction you keep choosing.\nMoving without knowing what you are capable of. And discovering the magic that happens after.\nTo lead is to face whatever comes next. \nNo excuses. No looking down on others. Only beyond the horizon.\nProgress. Setting the pace. Failing forward. \nFollowing the light. Jumping into the unknown. Being bolder than bold.\nVorsprung has its own language. \nIts own place. Its own borders. Its own rules. Its own beauty.\nBeyond the expected, there is a place.\n\nWe will meet you there.\n\nAudi Vorsprung"
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/audi/audi-vorsprung-01.webm",
+          "alt": "Audi Vorsprung 01",
+          "mp4Fallback": "/media/audi/audi-vorsprung-01.mp4"
+        },
+        {
+          "src": "/media/audi/audi-vorsprung-02.webm",
+          "alt": "Audi Vorsprung 02",
+          "mp4Fallback": "/media/audi/audi-vorsprung-02.mp4"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-vorsprung-05.webm",
+        "alt": "Audi Vorsprung 05",
+        "mp4Fallback": "/media/audi/audi-vorsprung-05.mp4"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-8-result.webp",
+        "alt": "Audi 8 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-vorsprung-04.webm",
+        "alt": "Audi Vorsprung 04",
+        "mp4Fallback": "/media/audi/audi-vorsprung-04.mp4"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-11-result.webp",
+        "alt": "Audi 11 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-12-result.webp",
+        "alt": "Audi 12 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-13-result.webp",
+        "alt": "Audi 13 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-grouped-1.webp",
+        "alt": "AUDI GROUPED 1"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-grouped-2-result.webp",
+        "alt": "AUDI GROUPED 2 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-grouped-3-result.webp",
+        "alt": "AUDI GROUPED 3 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audio-woman-result.webp",
+        "alt": "audio woman result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-19-result.webp",
+        "alt": "Audi 19 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-20-result.webp",
+        "alt": "Audi 20 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-21-result.webp",
+        "alt": "Audi 21 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-22-result.webp",
+        "alt": "Audi 22 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-23-result.webp",
+        "alt": "Audi 23 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-24-result.webp",
+        "alt": "Audi 24 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-last-result.webp",
+        "alt": "audi last result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-26-result.webp",
+        "alt": "Audi 26 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-27-result.webp",
+        "alt": "Audi 27 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-28-result.webp",
+        "alt": "Audi 28 result"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/audi/audi-29-result.webp",
+          "alt": "Audi 29 result"
+        },
+        {
+          "src": "/media/audi/audi-30-result.webp",
+          "alt": "Audi 30 result"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-31-result.webp",
+        "alt": "Audi 31 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-grouped-8-result.webp",
+        "alt": "AUDI GROUPED 8 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-33-result.webp",
+        "alt": "Audi 33 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audio-woman-red-result.webp",
+        "alt": "audio woman red result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-36-result.webp",
+        "alt": "Audi 36 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-37-result.webp",
+        "alt": "Audi 37 result"
+      }
+    }
+  ],
+  "credits": [
+    {
+      "name": "Martin Rizzo",
+      "roles": [
+        "Brand Evolution",
+        "Visual Identity System",
+        "Art Direction",
+        "Design Director"
+      ]
+    },
+    {
+      "name": "DDB",
+      "roles": [
+        "Brand Strategy"
+      ]
+    }
+  ]
+}

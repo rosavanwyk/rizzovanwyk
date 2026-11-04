@@ -1,0 +1,286 @@
+{
+  "title": "Imminent",
+  "category": "Fashion",
+  "draft": false,
+  "navigationLogo": "/media/imminent/imminent-logos-original-1.svg",
+  "heroImage": {
+    "src": "/media/imminent/imminent-1.webp",
+    "alt": "Imminent 1"
+  },
+  "intro": {
+    "copy": "Imminent is a creative agency named after the moment just before something happens. We turned that sense of anticipation into the identity itself. Blur becomes a visual language of curiosity, controlling how much is revealed and how much remains just out of reach. Four distinct image treatments move between texture, obstruction and near-clarity. An identity that makes the act of discovery part of the experience.",
+    "title": "Imminent",
+    "subtitle": "Never fully revealed. Never fully hidden."
+  },
+  "blocks": [
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-2.webp",
+        "alt": "Imminent 2"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-3.webp",
+        "alt": "Imminent 3"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-4.webp",
+        "alt": "Imminent 4"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-5.webp",
+        "alt": "Imminent 5"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-6.webp",
+        "alt": "Imminent 6"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-7.webp",
+        "alt": "Imminent 7"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-8.webp",
+        "alt": "Imminent 8"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-9.webp",
+        "alt": "Imminent 9"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-10.webp",
+        "alt": "Imminent 10"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-11.webp",
+        "alt": "Imminent 11"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-12.webp",
+        "alt": "Imminent 12"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-13.webp",
+        "alt": "Imminent 13"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-14.webp",
+        "alt": "Imminent 14"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-15.webp",
+        "alt": "Imminent 15"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-16.webp",
+        "alt": "Imminent 16"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-17.webp",
+        "alt": "Imminent 17"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-18.webp",
+        "alt": "Imminent 18"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-19.webp",
+        "alt": "Imminent 19"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-20.webp",
+        "alt": "Imminent 20"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-21.webp",
+        "alt": "Imminent 21"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-22.webp",
+        "alt": "Imminent 22"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-23.webp",
+        "alt": "Imminent 23"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-24.webp",
+        "alt": "Imminent 24"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-25.webp",
+        "alt": "Imminent 25"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-26.webp",
+        "alt": "Imminent 26"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-27.webp",
+        "alt": "Imminent 27"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-28.webp",
+        "alt": "Imminent 28"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-29.webp",
+        "alt": "Imminent 29"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-30.webp",
+        "alt": "Imminent 30"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-31.webp",
+        "alt": "Imminent 31"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-32.webp",
+        "alt": "Imminent 32"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-33.webp",
+        "alt": "Imminent 33"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-34.webp",
+        "alt": "Imminent 34"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-35.webp",
+        "alt": "Imminent 35"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-36.webp",
+        "alt": "Imminent 36"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/imminent/imminent-37.webp",
+        "alt": "Imminent 37"
+      }
+    }
+  ],
+  "credits": [
+    {
+      "name": "Martin Rizzo",
+      "roles": [
+        "Creative Direction & Design",
+        "Brand Identity",
+        "Art Direction",
+        "Design Director"
+      ]
+    },
+    {
+      "name": "Love Your Mother",
+      "roles": [
+        "Brand Strategy"
+      ]
+    }
+  ]
+}

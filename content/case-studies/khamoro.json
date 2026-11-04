@@ -1,0 +1,611 @@
+{
+  "title": "Khamoro",
+  "category": "Arts & Culture",
+  "draft": false,
+  "navigationLogo": "/media/khamoro/khamoro.svg",
+  "heroImage": {
+    "src": "/media/khamoro/b1.webp",
+    "alt": "Khamoro case study panel B1"
+  },
+  "intro": {
+    "copy": "Khamoro means sun in Romani. For Prague's World Roma Festival, we wanted an identity that expressed the richness and movement of the culture itself. Inspired by the folds, forms and rhythm of traditional Romani dress, we redrew the festival's lettering into a distinctive visual language. Individual characters become patterns, compositions and bold graphic statements. A system that can change endlessly without losing its identity.",
+    "title": "Khamoro",
+    "subtitle": "An identity drawn from Romani dress."
+  },
+  "blocks": [
+    {
+      "_template": "imageTextRight",
+      "image": {
+        "src": "/media/khamoro/khamoro-2.webp",
+        "alt": "Khamoro 2"
+      },
+      "title": "Khamoro 2026",
+      "subtitle": "The Logotype",
+      "copy": "The Khamoro logotype takes inspiration from the movement, volume and flowing silhouettes found in Romani dress and performance. Folds and curves are abstracted into custom letterforms, connecting the identity to its cultural context without relying on literal symbols."
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/03.webp",
+        "alt": "03"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/04a.webp",
+          "alt": "04a"
+        },
+        {
+          "src": "/media/khamoro/04b.webp",
+          "alt": "04b"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/05a.webp",
+          "alt": "05a"
+        },
+        {
+          "src": "/media/khamoro/05b.webp",
+          "alt": "05b"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/06a.webp",
+          "alt": "06a"
+        },
+        {
+          "src": "/media/khamoro/06b.webp",
+          "alt": "06b"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/07a.webp",
+          "alt": "07a"
+        },
+        {
+          "src": "/media/khamoro/07b.webp",
+          "alt": "07b"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/08a.webp",
+          "alt": "08a"
+        },
+        {
+          "src": "/media/khamoro/08b.webp",
+          "alt": "08b"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/09.webp",
+        "alt": "09"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/10.webp",
+        "alt": "10"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/11a.webp",
+          "alt": "11a"
+        },
+        {
+          "src": "/media/khamoro/11b.webp",
+          "alt": "11b"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/12a.webp",
+          "alt": "12a"
+        },
+        {
+          "src": "/media/khamoro/12b.webp",
+          "alt": "12b"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/13.webp",
+        "alt": "13"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/14.webp",
+        "alt": "14"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/15a.webp",
+          "alt": "15a"
+        },
+        {
+          "src": "/media/khamoro/15b.webp",
+          "alt": "15b"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/16.webp",
+        "alt": "16"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/17.webp",
+        "alt": "17"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/18.webp",
+        "alt": "18"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/19.webp",
+        "alt": "19"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/20.webp",
+        "alt": "20"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/21.webp",
+        "alt": "21"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/22.webp",
+        "alt": "22"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/23.webp",
+        "alt": "23"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/24.webp",
+        "alt": "24"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/25a.webp",
+          "alt": "25a"
+        },
+        {
+          "src": "/media/khamoro/25b.webp",
+          "alt": "25b"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/26.webp",
+        "alt": "26"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/27.webp",
+        "alt": "27"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/28.webp",
+        "alt": "28"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/29.webp",
+        "alt": "29"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/30.webp",
+        "alt": "30"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/31.webp",
+        "alt": "31"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/32.webp",
+        "alt": "32"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/33a.webp",
+          "alt": "33a"
+        },
+        {
+          "src": "/media/khamoro/33b.webp",
+          "alt": "33b"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/34.webp",
+        "alt": "34"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/03-2.webp",
+        "alt": "03"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/04a-2.webp",
+          "alt": "04a"
+        },
+        {
+          "src": "/media/khamoro/04b-2.webp",
+          "alt": "04b"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/05a-2.webp",
+          "alt": "05a"
+        },
+        {
+          "src": "/media/khamoro/05b-2.webp",
+          "alt": "05b"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/06a-2.webp",
+          "alt": "06a"
+        },
+        {
+          "src": "/media/khamoro/06b-2.webp",
+          "alt": "06b"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/07a-2.webp",
+          "alt": "07a"
+        },
+        {
+          "src": "/media/khamoro/07b-2.webp",
+          "alt": "07b"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/08a-2.webp",
+          "alt": "08a"
+        },
+        {
+          "src": "/media/khamoro/08b-2.webp",
+          "alt": "08b"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/09-2.webp",
+        "alt": "09"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/10-2.webp",
+        "alt": "10"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/11a-2.webp",
+          "alt": "11a"
+        },
+        {
+          "src": "/media/khamoro/11b-2.webp",
+          "alt": "11b"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/12a-2.webp",
+          "alt": "12a"
+        },
+        {
+          "src": "/media/khamoro/12b-2.webp",
+          "alt": "12b"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/13-2.webp",
+        "alt": "13"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/14-2.webp",
+        "alt": "14"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/15a-2.webp",
+          "alt": "15a"
+        },
+        {
+          "src": "/media/khamoro/15b-2.webp",
+          "alt": "15b"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/16-2.webp",
+        "alt": "16"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/17-2.webp",
+        "alt": "17"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/18-2.webp",
+        "alt": "18"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/19-2.webp",
+        "alt": "19"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/20-2.webp",
+        "alt": "20"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/21-2.webp",
+        "alt": "21"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/22-2.webp",
+        "alt": "22"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/23-2.webp",
+        "alt": "23"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/24-2.webp",
+        "alt": "24"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/25a-2.webp",
+          "alt": "25a"
+        },
+        {
+          "src": "/media/khamoro/25b-2.webp",
+          "alt": "25b"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/26-2.webp",
+        "alt": "26"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/27-2.webp",
+        "alt": "27"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/28-2.webp",
+        "alt": "28"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/29-2.webp",
+        "alt": "29"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/30-2.webp",
+        "alt": "30"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/31-2.webp",
+        "alt": "31"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/32-2.webp",
+        "alt": "32"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/khamoro/33a-2.webp",
+          "alt": "33a"
+        },
+        {
+          "src": "/media/khamoro/33b-2.webp",
+          "alt": "33b"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/khamoro/34-2.webp",
+        "alt": "34"
+      }
+    }
+  ],
+  "credits": [
+    {
+      "name": "Martin Rizzo",
+      "roles": [
+        "Creative Direction & Design",
+        "Brand Identity"
+      ]
+    },
+    {
+      "name": "Rosa van Wyk",
+      "roles": [
+        "Brand Strategy",
+        "Digital & Environmental Applications"
+      ]
+    }
+  ]
+}

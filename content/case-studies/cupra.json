@@ -1,0 +1,295 @@
+{
+  "title": "Cupra",
+  "category": "Automotive",
+  "draft": false,
+  "navigationLogo": "/media/cupra/308d0.svg",
+  "heroImage": {
+    "src": "/media/cupra/cupra-1-result.webp",
+    "alt": "Cupra 1 result"
+  },
+  "intro": {
+    "copy": "A distinctive identity doesn't need endless elements. It needs one powerful idea. Hidden in the geometry of CUPRA's symbol, we found a triangle that could become the foundation for an entire visual language. From layouts and iconography to campaigns across markets, every element follows the same underlying principle. A simple shape with the power to hold a whole brand together.",
+    "title": "CUPRA",
+    "subtitle": "One symbol. An entire visual world."
+  },
+  "blocks": [
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-2-result.webp",
+        "alt": "Cupra 2 result"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/cupra/cupra-3-result.webp",
+          "alt": "Cupra 3 result"
+        },
+        {
+          "src": "/media/cupra/cupra-4-result.webp",
+          "alt": "Cupra 4 result"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/cupra/27-cupra-icon.gif",
+          "alt": "Cupra 5 result"
+        },
+        {
+          "src": "/media/cupra/cupra-6-result.webp",
+          "alt": "Cupra 6 result"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-7-result.webp",
+        "alt": "Cupra 7 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/26-cupra-tavascan.webm",
+        "alt": "26 Cupra Tavascan",
+        "mp4Fallback": "/media/cupra/26-cupra-tavascan-1.mp4"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-9-result.webp",
+        "alt": "Cupra 9 result"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/cupra/cupra-10-result.webp",
+          "alt": "Cupra 10 result"
+        },
+        {
+          "src": "/media/cupra/cupra-11-result.webp",
+          "alt": "Cupra 11 result"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/cupra/cupra-12-result.webp",
+          "alt": "Cupra 12 result"
+        },
+        {
+          "src": "/media/cupra/cupra-13-result.webp",
+          "alt": "Cupra 13 result"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/cupra/cupra-14-result.webp",
+          "alt": "Cupra 14 result"
+        },
+        {
+          "src": "/media/cupra/cupra-15-result.webp",
+          "alt": "Cupra 15 result"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-16-result.webp",
+        "alt": "Cupra 16 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-17-result.webp",
+        "alt": "Cupra 17 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-18-result.webp",
+        "alt": "Cupra 18 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-19-result.webp",
+        "alt": "Cupra 19 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-20-result.webp",
+        "alt": "Cupra 20 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-21-result.webp",
+        "alt": "Cupra 21 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-22-result.webp",
+        "alt": "Cupra 22 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-23-result.webp",
+        "alt": "Cupra 23 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-24-result.webp",
+        "alt": "Cupra 24 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-25-result.webp",
+        "alt": "Cupra 25 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-26-result.webp",
+        "alt": "Cupra 26 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-27-result.webp",
+        "alt": "Cupra 27 result"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/cupra/cupra-28-result.webp",
+          "alt": "Cupra 28 result"
+        },
+        {
+          "src": "/media/cupra/cupra-29-result.webp",
+          "alt": "Cupra 29 result"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-30-result.webp",
+        "alt": "Cupra 30 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-31-result.webp",
+        "alt": "Cupra 31 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-32-result.webp",
+        "alt": "Cupra 32 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-33-result.webp",
+        "alt": "Cupra 33 result"
+      }
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/cupra/cupra-34-result.webp",
+          "alt": "Cupra 34 result"
+        },
+        {
+          "src": "/media/cupra/cupra-35-result.webp",
+          "alt": "Cupra 35 result"
+        }
+      ]
+    },
+    {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/cupra/cupra-36-result.webp",
+          "alt": "Cupra 36 result"
+        },
+        {
+          "src": "/media/cupra/cupra-37-result.webp",
+          "alt": "Cupra 37 result"
+        }
+      ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-38-result.webp",
+        "alt": "Cupra 38 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cupra/cupra-39-result.webp",
+        "alt": "Cupra 39 result"
+      }
+    }
+  ],
+  "credits": [
+    {
+      "name": "CUPRA Visual Identity",
+      "roles": [
+        "Chief Creative Officer — José María Roca de Viñals",
+        "Executive Creative Director — Isa Espona",
+        "Head of Design — Denis Paladin",
+        "Graphic Designer — Martín Rizzo"
+      ]
+    },
+    {
+      "name": "CUPRA Tavascan Photography",
+      "roles": [
+        "Photography — He&Me",
+        "Video Production — Phocus Creators",
+        "Post-production — Trey Studio"
+      ]
+    }
+  ]
+}

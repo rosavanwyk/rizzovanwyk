@@ -1,0 +1,230 @@
+{
+  "title": "Alpega",
+  "category": "Logistics & Technology",
+  "draft": false,
+  "navigationLogo": "/media/alpega/alpega-original-1.svg",
+  "heroImage": {
+    "src": "/media/alpega/alpine-1.webp",
+    "alt": "Alpine 1"
+  },
+  "intro": {
+    "copy": "Not every brand needs to start again. Alpega already had a recognisable symbol; what it needed was a stronger visual language around it. We refined the existing mark and gave its triangular geometry a more active role. The triangle became a device for framing photography, structuring layouts and directing attention. A considered evolution that made more of what the brand already owned.",
+    "title": "Alpega",
+    "subtitle": "Same symbol, sharper brand."
+  },
+  "blocks": [
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-2.webp",
+        "alt": "Alpine 2"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-3.webp",
+        "alt": "Alpine 3"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-4.webp",
+        "alt": "Alpine 4"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-5.webp",
+        "alt": "Alpine 5"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-6.webp",
+        "alt": "Alpine 6"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-7.webp",
+        "alt": "Alpine 7"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-8.webp",
+        "alt": "Alpine 8"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-9.webp",
+        "alt": "Alpine 9"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-10.webp",
+        "alt": "Alpine 10"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-11.webp",
+        "alt": "Alpine 11"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-12.webp",
+        "alt": "Alpine 12"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-13.webp",
+        "alt": "Alpine 13"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-14.webp",
+        "alt": "Alpine 14"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-15.webp",
+        "alt": "Alpine 15"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-16.webp",
+        "alt": "Alpine 16"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-17.webp",
+        "alt": "Alpine 17"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-18.webp",
+        "alt": "Alpine 18"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-19.webp",
+        "alt": "Alpine 19"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-20.webp",
+        "alt": "Alpine 20"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-21.webp",
+        "alt": "Alpine 21"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-22.webp",
+        "alt": "Alpine 22"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-23.webp",
+        "alt": "Alpine 23"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-24.webp",
+        "alt": "Alpine 24"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-25.webp",
+        "alt": "Alpine 25"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-26.webp",
+        "alt": "Alpine 26"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-27.webp",
+        "alt": "Alpine 27"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-28.webp",
+        "alt": "Alpine 28"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/alpega/alpine-29.webp",
+        "alt": "Alpine 29"
+      }
+    }
+  ],
+  "credits": [
+    {
+      "name": "Martin Rizzo",
+      "roles": [
+        "Brand Evolution",
+        "Visual Identity System",
+        "Art Direction",
+        "Design Director"
+      ]
+    },
+    {
+      "name": "Paula Sabater",
+      "roles": [
+        "Brand Strategy"
+      ]
+    }
+  ]
+}
