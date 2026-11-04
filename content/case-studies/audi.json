@@ -15,9 +15,8 @@
   "blocks": [
     {
       "image": {
-        "src": "/media/audi/audi-vorsprung-03.webm",
-        "alt": "Audi Vorsprung 03",
-        "mp4Fallback": "/media/audi/audi-vorsprung-03.mp4"
+        "src": "/media/media/Audi_symbol_1920.webm",
+        "alt": "Audi Vorsprung 05"
       },
       "_template": "oneImage"
     },
@@ -38,13 +37,6 @@
         }
       ],
       "_template": "twoImages"
-    },
-    {
-      "image": {
-        "src": "/media/media/Audi_symbol_1920.webm",
-        "alt": "Audi Vorsprung 05"
-      },
-      "_template": "oneImage"
     },
     {
       "image": {
