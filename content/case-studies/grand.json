@@ -88,10 +88,9 @@
       }
     },
     {
-      "_template": "imageTextRight",
-      "title": "Grand",
-      "subtitle": "Corporate Layout",
-      "copy": "Grand's applications range from typography to photography. The logo remains fixed as an anchor, while other elements are added progressively, ensuring consistency and varying visual density without losing clarity."
+      "_template": "twoText",
+      "leftText": "Corporate layout",
+      "rightText": "Grand's applications range from typography to photography. The logo remains fixed as an anchor, while other elements are added progressively, ensuring consistency and varying visual density without losing clarity."
     },
     {
       "_template": "twoImages",
@@ -182,10 +181,9 @@
       }
     },
     {
-      "_template": "imageTextLeft",
-      "title": "Grand",
-      "subtitle": "Layout Blocks",
-      "copy": "Add case study text here."
+      "_template": "twoText",
+      "leftText": "Layout blocks",
+      "rightText": "Utility-driven design — clarity above all. Built from the same elements as the identity."
     },
     {
       "_template": "oneImage",
