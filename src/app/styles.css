@@ -909,10 +909,12 @@
   display: flex;
   width: 86%;
   flex-direction: column;
-  gap: 22px;
+  gap: 18px;
+  font-size: 88%;
+  line-height: 1.26;
+  text-wrap: pretty;
 }
 
-.panel-copy,
 .services-list {
   font-size: 95%;
 }
