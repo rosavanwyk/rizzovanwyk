@@ -215,7 +215,7 @@ function CmsMedia({
             unoptimized={preservesAnimation}
           />
         ))}
-      {(media.caption?.title || media.caption?.lines) && (
+      {(media.caption?.title || media.caption?.lines) && !isBoxCaption(media) && (
         <div
           className={`media-caption media-caption--${media.caption.position === 'middle' ? 'middle' : 'top'} media-caption--${media.caption.tone === 'dark' ? 'dark' : 'light'}`}
         >
@@ -226,6 +226,29 @@ function CmsMedia({
         </div>
       )}
     </figure>
+  )
+}
+
+function isBoxCaption(media: PopulatedMedia) {
+  const position = media.caption?.position
+  return Boolean((media.caption?.title || media.caption?.lines) && (position === 'above' || position === 'below'))
+}
+
+function CaptionBox({ media }: { media: PopulatedMedia }) {
+  const caption = media.caption
+  if (!caption) return null
+  const tone = caption.tone === 'dark' ? 'dark' : 'light'
+  return (
+    <article
+      className={`case-study-text-panel media-stack-text media-stack-text--${tone}`}
+      style={caption.background ? { background: caption.background } : undefined}
+      data-tina-field={media.tinaField}
+    >
+      <h2>
+        {caption.title && <strong>{caption.title}</strong>}
+        {caption.lines && <span>{caption.lines}</span>}
+      </h2>
+    </article>
   )
 }
 
@@ -447,14 +470,23 @@ function CaseStudyView({
               className={`grand-panel-group ${images.length === 2 ? 'grand-panel-group--split' : ''}`}
               key={block.id}
             >
-              {images.map((media, mediaIndex) => (
-                <CmsMedia
-                  media={media}
-                  sizes={images.length === 2 ? splitImageSizes : fullImageSizes}
-                  eager={eagerMedia && isFirstMediaBlock && mediaIndex === 0}
-                  key={`${media.id}-${mediaIndex}`}
-                />
-              ))}
+              {images.map((media, mediaIndex) => {
+                const item = (
+                  <CmsMedia
+                    media={media}
+                    sizes={images.length === 2 ? splitImageSizes : fullImageSizes}
+                    eager={eagerMedia && isFirstMediaBlock && mediaIndex === 0}
+                    key={`${media.id}-${mediaIndex}`}
+                  />
+                )
+                if (!isBoxCaption(media)) return item
+                const box = <CaptionBox media={media} key="box" />
+                return (
+                  <div className="media-stack" key={`${media.id}-${mediaIndex}`}>
+                    {media.caption?.position === 'below' ? [item, box] : [box, item]}
+                  </div>
+                )
+              })}
             </div>
           )
         }

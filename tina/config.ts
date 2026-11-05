@@ -42,6 +42,8 @@ const mediaFields = (folder: (values: Record<string, any>) => string): TinaField
         options: [
           { value: 'top', label: 'Top' },
           { value: 'middle', label: 'Middle' },
+          { value: 'above', label: 'Separate text box above the media' },
+          { value: 'below', label: 'Separate text box below the media' },
         ],
       },
       {
@@ -53,6 +55,7 @@ const mediaFields = (folder: (values: Record<string, any>) => string): TinaField
           { value: 'dark', label: 'Dark (for light images)' },
         ],
       },
+      { name: 'background', label: 'Text box background colour (for separate boxes, e.g. #e9e9e9)', type: 'string' },
     ],
   },
 ]

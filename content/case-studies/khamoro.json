@@ -57,13 +57,14 @@
       "_template": "twoImages",
       "images": [
         {
-          "src": "/media/khamoro/06a-clean.webp",
+          "src": "/media/khamoro/06a-graphic.webp",
           "alt": "Letter duplication",
           "caption": {
             "title": "Khamoro 2026",
             "lines": "Versatility and modern abstraction\n1 Letter / Duplication",
-            "position": "top",
-            "tone": "light"
+            "position": "above",
+            "tone": "light",
+            "background": "#141414"
           }
         },
         {
@@ -80,13 +81,14 @@
           "alt": ""
         },
         {
-          "src": "/media/khamoro/07b-clean.webp",
+          "src": "/media/khamoro/07b-graphic.webp",
           "alt": "Letter duplication",
           "caption": {
             "title": "Khamoro 2026",
             "lines": "Versatility and modern abstraction\n1 Letter / Duplication",
-            "position": "top",
-            "tone": "dark"
+            "position": "above",
+            "tone": "dark",
+            "background": "#e9e9e9"
           }
         }
       ]
@@ -95,13 +97,14 @@
       "_template": "twoImages",
       "images": [
         {
-          "src": "/media/khamoro/08a-clean.webp",
+          "src": "/media/khamoro/08a-graphic.webp",
           "alt": "Two-letter pattern",
           "caption": {
             "title": "Khamoro 2026",
             "lines": "Versatility and modern abstraction\n2 Letters / Duplication + Crop",
-            "position": "middle",
-            "tone": "dark"
+            "position": "below",
+            "tone": "dark",
+            "background": "#cac6c5"
           }
         },
         {

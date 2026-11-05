@@ -7,7 +7,7 @@ export type PopulatedMedia = {
   height?: number | null
   mp4Fallback?: PopulatedMedia | null
   /** Optional text laid over the media in the site's text style. */
-  caption?: { title?: string | null; lines?: string | null; position?: string | null; tone?: string | null } | null
+  caption?: { title?: string | null; lines?: string | null; position?: string | null; tone?: string | null; background?: string | null } | null
   /** Click-to-edit marker for the Tina editor. */
   tinaField?: string
 }

@@ -1519,3 +1519,29 @@
   font-family: 'Helvetica Now Display:Regular', Arial, sans-serif;
   font-weight: 400;
 }
+
+/* A media item with its text in a separate box above or below it */
+.media-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 0;
+}
+
+.media-stack > .media-stack-text {
+  flex: 1 1 auto;
+}
+
+.media-stack-text--dark,
+.light-mode .media-stack-text--dark {
+  color: #141414;
+}
+
+.media-stack-text--light,
+.light-mode .media-stack-text--light {
+  color: #f4f1ea;
+}
+
+.grand-panel-group--split > .media-stack {
+  align-self: stretch;
+}
