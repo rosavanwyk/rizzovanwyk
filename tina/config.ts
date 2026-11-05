@@ -116,7 +116,7 @@ const blockTemplates: Template[] = [
     ui: { itemProps: (item) => ({ label: `¶¶ ${(item?.leftText ?? 'Two text columns').slice(0, 40)}` }) },
     fields: [
       { name: 'leftText', label: 'Left text', type: 'string', required: true, ui: { component: 'textarea' } },
-      { name: 'rightText', label: 'Right text', type: 'string', required: true, ui: { component: 'textarea' } },
+      { name: 'rightText', label: 'Right text', type: 'string', ui: { component: 'textarea' } },
     ],
   },
 ]
