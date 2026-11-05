@@ -199,6 +199,18 @@
   "width": 52,
   "height": 43
  },
+ "/media/alpega/alpega-challenge.webp": {
+  "width": 1106,
+  "height": 1220
+ },
+ "/media/alpega/alpega-icons.webp": {
+  "width": 2232,
+  "height": 2900
+ },
+ "/media/alpega/alpega-logotype-motion.mp4": {
+  "width": 1920,
+  "height": 1080
+ },
  "/media/alpega/alpega-original-1.svg": {
   "width": 46,
   "height": 31
@@ -214,10 +226,6 @@
  "/media/alpega/alpine-11.webp": {
   "width": 2232,
   "height": 1300
- },
- "/media/alpega/alpine-12.webp": {
-  "width": 2232,
-  "height": 3694
  },
  "/media/alpega/alpine-13.webp": {
   "width": 2232,
@@ -242,10 +250,6 @@
  "/media/alpega/alpine-18.webp": {
   "width": 2232,
   "height": 1300
- },
- "/media/alpega/alpine-19.webp": {
-  "width": 2232,
-  "height": 2900
  },
  "/media/alpega/alpine-2.webp": {
   "width": 2232,
@@ -275,10 +279,6 @@
   "width": 2232,
   "height": 1300
  },
- "/media/alpega/alpine-26.webp": {
-  "width": 2232,
-  "height": 1300
- },
  "/media/alpega/alpine-27.webp": {
   "width": 2232,
   "height": 1300
@@ -298,10 +298,6 @@
  "/media/alpega/alpine-4.webp": {
   "width": 2232,
   "height": 1220
- },
- "/media/alpega/alpine-5.webp": {
-  "width": 2232,
-  "height": 1300
  },
  "/media/alpega/alpine-6.webp": {
   "width": 2232,

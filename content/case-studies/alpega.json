@@ -14,11 +14,26 @@
   },
   "blocks": [
     {
+      "_template": "imageTextLeft",
+      "image": {
+        "src": "/media/alpega/alpega-challenge.webp",
+        "alt": "Alpega brand before the evolution"
+      },
+      "title": "Alpega",
+      "subtitle": "The challenge",
+      "copy": "Alpega did not need another identity. It needed a sharper expression of the one it already had.\n\nThe challenge was to modernise the brand without losing recognition—and to move beyond the predictable visual codes of logistics.\n\nEvery change needed to create progress without erasing familiarity. New, but unmistakably Alpega."
+    },
+    {
       "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-2.webp",
         "alt": "Alpine 2"
       }
+    },
+    {
+      "_template": "twoText",
+      "leftText": "The solution",
+      "rightText": "The triangle was already central to Alpega. We gave it a more purposeful role.\n\nMoving beyond repetition and decorative collage, it became a system for framing imagery, shaping layouts and guiding attention. What was once a familiar motif became a sophisticated design principle—clearer, more distinctive and built to scale."
     },
     {
       "_template": "oneImage",
@@ -35,11 +50,9 @@
       }
     },
     {
-      "_template": "oneImage",
-      "image": {
-        "src": "/media/alpega/alpine-5.webp",
-        "alt": "Alpine 5"
-      }
+      "_template": "twoText",
+      "leftText": "A familiar shape became a flexible visual language.",
+      "rightText": ""
     },
     {
       "_template": "oneImage",
@@ -86,8 +99,8 @@
     {
       "_template": "oneImage",
       "image": {
-        "src": "/media/alpega/alpine-12.webp",
-        "alt": "Alpine 12"
+        "src": "/media/alpega/alpega-logotype-motion.mp4",
+        "alt": "Alpega logotype in motion"
       }
     },
     {
@@ -135,8 +148,8 @@
     {
       "_template": "oneImage",
       "image": {
-        "src": "/media/alpega/alpine-19.webp",
-        "alt": "Alpine 19"
+        "src": "/media/alpega/alpega-icons.webp",
+        "alt": "Alpega icon set"
       }
     },
     {
@@ -179,13 +192,6 @@
       "image": {
         "src": "/media/alpega/alpine-25.webp",
         "alt": "Alpine 25"
-      }
-    },
-    {
-      "_template": "oneImage",
-      "image": {
-        "src": "/media/alpega/alpine-26.webp",
-        "alt": "Alpine 26"
       }
     },
     {
