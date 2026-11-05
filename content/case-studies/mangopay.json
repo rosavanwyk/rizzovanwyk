@@ -2,7 +2,7 @@
   "title": "Mangopay",
   "category": "Payments",
   "draft": false,
-  "navigationLogo": "/media/mangopay/mangopay-logo-original-2.svg",
+  "navigationLogo": "/media/mangopay/nav-logo.svg",
   "heroImage": {
     "src": "/media/mangopay/mangopay-1.webp",
     "alt": "Mangopay 1"

@@ -2,7 +2,7 @@
   "title": "CIBC",
   "category": "Banking & Finance",
   "draft": false,
-  "navigationLogo": "/media/cibc/logo-cibc.svg",
+  "navigationLogo": "/media/cibc/nav-logo.svg",
   "heroImage": {
     "src": "/media/cibc/cibc-1-result.webp",
     "alt": "CIBC 1 result"

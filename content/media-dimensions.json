@@ -171,6 +171,10 @@
   "width": 2232,
   "height": 1278
  },
+ "/media/albatross/nav-logo.svg": {
+  "width": 52,
+  "height": 43
+ },
  "/media/alpega/alpega-original-1.svg": {
   "width": 46,
   "height": 31
@@ -290,6 +294,10 @@
  "/media/alpega/alpine-9.webp": {
   "width": 2232,
   "height": 1300
+ },
+ "/media/alpega/nav-logo.svg": {
+  "width": 52,
+  "height": 43
  },
  "/media/audi/17b90.svg": {
   "width": 52,
@@ -443,6 +451,10 @@
   "width": 2232,
   "height": 2142
  },
+ "/media/audi/nav-logo.svg": {
+  "width": 52,
+  "height": 43
+ },
  "/media/bird/bird-10.webp": {
   "width": 2232,
   "height": 1300
@@ -522,6 +534,10 @@
  "/media/bird/c1-result.webp": {
   "width": 2232,
   "height": 1300
+ },
+ "/media/bird/nav-logo.svg": {
+  "width": 52,
+  "height": 43
  },
  "/media/cibc/cibc-1-result.webp": {
   "width": 2232,
@@ -607,6 +623,10 @@
   "width": 34,
   "height": 29
  },
+ "/media/cibc/nav-logo.svg": {
+  "width": 52,
+  "height": 43
+ },
  "/media/commonsense/7bbe1.svg": {
   "width": 52,
   "height": 43
@@ -690,6 +710,10 @@
  "/media/commonsense/common-sense-9.webp": {
   "width": 2232,
   "height": 1256
+ },
+ "/media/commonsense/nav-logo.svg": {
+  "width": 52,
+  "height": 43
  },
  "/media/coptown/472de.svg": {
   "width": 52,
@@ -1043,6 +1067,10 @@
   "width": 1106,
   "height": 662
  },
+ "/media/coptown/nav-logo.svg": {
+  "width": 52,
+  "height": 43
+ },
  "/media/cupra/26-cupra-tavascan-1.mp4": {
   "height": 1080,
   "width": 1920
@@ -1207,6 +1235,10 @@
   "width": 2232,
   "height": 1300
  },
+ "/media/cupra/nav-logo.svg": {
+  "width": 52,
+  "height": 43
+ },
  "/media/cupra-raval/07-cupra-raval-007-1.mp4": {
   "height": 1080,
   "width": 1920
@@ -1216,6 +1248,10 @@
   "width": 1920
  },
  "/media/cupra-raval/9f4d4.svg": {
+  "width": 52,
+  "height": 43
+ },
+ "/media/cupra-raval/nav-logo.svg": {
   "width": 52,
   "height": 43
  },
@@ -1579,6 +1615,10 @@
   "width": 37,
   "height": 30
  },
+ "/media/fichap/nav-logo.svg": {
+  "width": 52,
+  "height": 43
+ },
  "/media/grand/01.webp": {
   "width": 2232,
   "height": 1300
@@ -1736,6 +1776,10 @@
   "width": 1080
  },
  "/media/grand/grand.svg": {
+  "width": 52,
+  "height": 43
+ },
+ "/media/grand/nav-logo.svg": {
   "width": 52,
   "height": 43
  },
@@ -1971,6 +2015,10 @@
   "width": 52,
   "height": 43
  },
+ "/media/ie/nav-logo.svg": {
+  "width": 52,
+  "height": 43
+ },
  "/media/imab/imab-1.webp": {
   "width": 2232,
   "height": 1278
@@ -2116,6 +2164,10 @@
   "height": 1520
  },
  "/media/imab/imab.svg": {
+  "width": 52,
+  "height": 43
+ },
+ "/media/imab/nav-logo.svg": {
   "width": 52,
   "height": 43
  },
@@ -2268,6 +2320,10 @@
   "height": 1300
  },
  "/media/imminent/imminent-logos-original-1.svg": {
+  "width": 53,
+  "height": 43
+ },
+ "/media/imminent/nav-logo.svg": {
   "width": 53,
   "height": 43
  },
@@ -2619,6 +2675,10 @@
   "width": 34,
   "height": 33
  },
+ "/media/khamoro/nav-logo.svg": {
+  "width": 52,
+  "height": 43
+ },
  "/media/mangopay/mangopay-1.webp": {
   "width": 2232,
   "height": 1424
@@ -2703,9 +2763,45 @@
   "width": 52,
   "height": 43
  },
+ "/media/mangopay/nav-logo.svg": {
+  "width": 52,
+  "height": 43
+ },
+ "/media/media/AUDI/ALBATROSS/Albatross_Brand.webm": {
+  "width": 1080,
+  "height": 1440
+ },
+ "/media/media/AUDI/ALBATROSS/Albatross_construction.webm": {
+  "width": 2212,
+  "height": 2600
+ },
+ "/media/media/AUDI/ALBATROSS/Albatross_construction_01.webm": {
+  "width": 2232,
+  "height": 1300
+ },
+ "/media/media/Audi_Vorsprung.webm": {
+  "width": 2212,
+  "height": 2400
+ },
+ "/media/media/Audi_colours.webm": {
+  "width": 2232,
+  "height": 1300
+ },
+ "/media/media/Audi_symbol_1920.webm": {
+  "width": 2232,
+  "height": 1300
+ },
+ "/media/media/Audi_symbol_square.webm": {
+  "width": 2212,
+  "height": 2400
+ },
  "/media/no-woman-no-spice/d1-result.webp": {
   "width": 2232,
   "height": 1300
+ },
+ "/media/no-woman-no-spice/nav-logo.svg": {
+  "width": 52,
+  "height": 43
  },
  "/media/no-woman-no-spice/nwns-10.webp": {
   "width": 2232,
@@ -2856,6 +2952,10 @@
   "width": 1400
  },
  "/media/seat/8ff6b.svg": {
+  "width": 52,
+  "height": 43
+ },
+ "/media/seat/nav-logo.svg": {
   "width": 52,
   "height": 43
  },

@@ -2,7 +2,7 @@
   "title": "IE",
   "category": "Education",
   "draft": false,
-  "navigationLogo": "/media/ie/ie.svg",
+  "navigationLogo": "/media/ie/nav-logo.svg",
   "heroImage": {
     "src": "/media/ie/ie-1.webp",
     "alt": "Ie 1"

@@ -2,7 +2,7 @@
   "title": "Bird",
   "category": "Product & Visual Design",
   "draft": false,
-  "navigationLogo": "/media/bird/bird.svg",
+  "navigationLogo": "/media/bird/nav-logo.svg",
   "heroImage": {
     "src": "/media/bird/c1-result.webp",
     "alt": "C1 result"
