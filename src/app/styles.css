@@ -1365,9 +1365,19 @@
     grid-template-columns: 1fr;
   }
 
+  /* On mobile, a pair of text panels reads as one box: no gap, natural heights */
   .case-study-intro {
     grid-template-columns: 1fr;
-    grid-auto-rows: 1fr;
+    grid-auto-rows: auto;
+    gap: 0;
+  }
+
+  .case-study-intro > .case-study-text-panel:first-child {
+    padding-bottom: 0;
+  }
+
+  .case-study-intro > .case-study-text-panel + .case-study-text-panel {
+    padding-top: 20px;
   }
 
   .case-study-text-panel--intro {

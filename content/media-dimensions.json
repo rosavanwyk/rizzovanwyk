@@ -1379,14 +1379,6 @@
   "width": 2232,
   "height": 1300
  },
- "/media/fichap/fichap-11-result.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/fichap/fichap-12-result.webp": {
-  "width": 2232,
-  "height": 1300
- },
  "/media/fichap/fichap-13-result.webp": {
   "width": 2232,
   "height": 1300
@@ -1571,10 +1563,6 @@
   "width": 2232,
   "height": 1300
  },
- "/media/fichap/fichap-55-result.webp": {
-  "width": 2232,
-  "height": 1300
- },
  "/media/fichap/fichap-56-result.webp": {
   "width": 2232,
   "height": 1300
@@ -1622,6 +1610,18 @@
  "/media/fichap/fichap-9-result.webp": {
   "width": 1106,
   "height": 1200
+ },
+ "/media/fichap/fichap-bars-graphics.webp": {
+  "width": 2232,
+  "height": 900
+ },
+ "/media/fichap/fichap-colour-variants.webp": {
+  "width": 2232,
+  "height": 760
+ },
+ "/media/fichap/fichap-gradients.webp": {
+  "width": 2232,
+  "height": 740
  },
  "/media/fichap/fichap-logo-transicion.mp4": {
   "width": 1920,

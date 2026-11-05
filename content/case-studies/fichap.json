@@ -4,8 +4,8 @@
   "draft": false,
   "navigationLogo": "/media/fichap/nav-logo.svg",
   "heroImage": {
-    "src": "/media/fichap/fichap-1-result.webp",
-    "alt": "Fichap 1 result"
+    "src": "/media/fichap/fichap-logo-transicion.mp4",
+    "alt": "Fichap logo animation"
   },
   "intro": {
     "copy": "Startups change. Their brands need to keep up. Having designed Fichap's identity through several stages of its development, Martin brought those iterations together into a more cohesive, mature visual system. A small dot within the symbol became the starting point for an adaptable graphic language, extending naturally across communications and the digital product. An identity built to support the business as it grows.",
@@ -73,17 +73,27 @@
       }
     },
     {
-      "_template": "oneImage",
-      "image": {
-        "src": "/media/fichap/fichap-11-result.webp",
-        "alt": "Fichap 11 result"
-      }
+      "_template": "twoText",
+      "leftText": "Colour variants",
+      "rightText": "Fichap's colour palette is designed to offer flexibility and cohesion across every brand application.\n\nEach core colour comes with primary, secondary, tertiary and quaternary shades, with lighter and darker tones at every level, keeping designs versatile without losing consistency."
     },
     {
       "_template": "oneImage",
       "image": {
-        "src": "/media/fichap/fichap-12-result.webp",
-        "alt": "Fichap 12 result"
+        "src": "/media/fichap/fichap-colour-variants.webp",
+        "alt": "Colour variants"
+      }
+    },
+    {
+      "_template": "twoText",
+      "leftText": "Gradients",
+      "rightText": "Our brand gradients are a subtle way to bring the identity's two visual principles to life: connection and dynamism. Used across communication design, they add depth, layering, emotion and a sense of transition."
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/fichap/fichap-gradients.webp",
+        "alt": "Gradients"
       }
     },
     {
@@ -376,10 +386,15 @@
       }
     },
     {
+      "_template": "twoText",
+      "leftText": "Bars and graphics",
+      "rightText": "Charts and data graphics are built from the same pieces as the identity: rounded bars, the brand palette and generous spacing. Dashboards, reports and campaign visuals all read as part of the Fichap world, turning workforce data into something clear and easy to act on."
+    },
+    {
       "_template": "oneImage",
       "image": {
-        "src": "/media/fichap/fichap-55-result.webp",
-        "alt": "Fichap 55 result"
+        "src": "/media/fichap/fichap-bars-graphics.webp",
+        "alt": "Bars and graphics"
       }
     },
     {
