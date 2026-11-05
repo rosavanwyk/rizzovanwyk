@@ -2703,6 +2703,14 @@
   "width": 52,
   "height": 43
  },
+ "/media/mangopay/flujo-radial-brand.mp4": {
+  "width": 1280,
+  "height": 720
+ },
+ "/media/mangopay/flujo-radial-image.mp4": {
+  "width": 1280,
+  "height": 720
+ },
  "/media/mangopay/mangopay-1.webp": {
   "width": 2232,
   "height": 1424
@@ -3078,13 +3086,5 @@
  "/media/seat/seat-9-result.webp": {
   "width": 2232,
   "height": 1300
- },
- "/media/unassigned/flujo-radial-brand.mp4": {
-  "width": 1280,
-  "height": 720
- },
- "/media/unassigned/flujo-radial-image.mp4": {
-  "width": 1280,
-  "height": 720
  }
 }

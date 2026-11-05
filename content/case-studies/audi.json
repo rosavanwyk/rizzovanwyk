@@ -234,18 +234,18 @@
       "_template": "oneImage"
     },
     {
-      "image": {
-        "src": "/media/audi/audi-37-result.webp",
-        "alt": "Audi 37 result"
-      },
-      "_template": "oneImage"
-    },
-    {
       "_template": "oneImage",
       "image": {
         "src": "/media/audi/audi-vorsprung-08.mp4",
         "alt": "Vorsprung animation"
       }
+    },
+    {
+      "image": {
+        "src": "/media/audi/audi-37-result.webp",
+        "alt": "Audi 37 result"
+      },
+      "_template": "oneImage"
     }
   ],
   "credits": [
