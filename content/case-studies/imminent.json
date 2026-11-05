@@ -30,8 +30,8 @@
     {
       "_template": "oneImage",
       "image": {
-        "src": "/media/imminent/imminent-4.webp",
-        "alt": "Imminent 4"
+        "src": "/media/imminent/imminent-glow.mp4",
+        "alt": "Imminent light animation"
       }
     },
     {
@@ -257,8 +257,8 @@
     {
       "_template": "oneImage",
       "image": {
-        "src": "/media/imminent/imminent-35.webp",
-        "alt": "Imminent 35"
+        "src": "/media/imminent/imminent-tablet.mp4",
+        "alt": "Imminent on tablet"
       }
     },
     {

@@ -2023,6 +2023,10 @@
   "width": 1106,
   "height": 1520
  },
+ "/media/ie/ie-logo-animation.mp4": {
+  "width": 1920,
+  "height": 1080
+ },
  "/media/ie/ie.svg": {
   "width": 52,
   "height": 43
@@ -2295,10 +2299,6 @@
   "width": 2232,
   "height": 1300
  },
- "/media/imminent/imminent-35.webp": {
-  "width": 2232,
-  "height": 1300
- },
  "/media/imminent/imminent-36.webp": {
   "width": 2232,
   "height": 1300
@@ -2306,10 +2306,6 @@
  "/media/imminent/imminent-37.webp": {
   "width": 2232,
   "height": 1796
- },
- "/media/imminent/imminent-4.webp": {
-  "width": 2232,
-  "height": 1300
  },
  "/media/imminent/imminent-5.webp": {
   "width": 2232,
@@ -2331,9 +2327,17 @@
   "width": 2232,
   "height": 1300
  },
+ "/media/imminent/imminent-glow.mp4": {
+  "width": 1280,
+  "height": 720
+ },
  "/media/imminent/imminent-system-of-reveal.webp": {
   "width": 1106,
   "height": 1520
+ },
+ "/media/imminent/imminent-tablet.mp4": {
+  "width": 1280,
+  "height": 720
  },
  "/media/imminent/nav-logo.svg": {
   "width": 53,
