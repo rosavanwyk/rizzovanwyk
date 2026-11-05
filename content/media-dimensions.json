@@ -6843,18 +6843,6 @@
   "width": 2232,
   "height": 1300
  },
- "/media/no-woman-no-spice/nwns-14.w1440.webp": {
-  "width": 1440,
-  "height": 839
- },
- "/media/no-woman-no-spice/nwns-14.w828.webp": {
-  "width": 828,
-  "height": 482
- },
- "/media/no-woman-no-spice/nwns-14.webp": {
-  "width": 2232,
-  "height": 1300
- },
  "/media/no-woman-no-spice/nwns-15.w1440.webp": {
   "width": 1440,
   "height": 981
@@ -6924,18 +6912,6 @@
   "height": 482
  },
  "/media/no-woman-no-spice/nwns-2.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/no-woman-no-spice/nwns-20.w1440.webp": {
-  "width": 1440,
-  "height": 839
- },
- "/media/no-woman-no-spice/nwns-20.w828.webp": {
-  "width": 828,
-  "height": 482
- },
- "/media/no-woman-no-spice/nwns-20.webp": {
   "width": 2232,
   "height": 1300
  },
@@ -7214,6 +7190,14 @@
  "/media/no-woman-no-spice/nwns-hero-v2.webp": {
   "width": 2232,
   "height": 1300
+ },
+ "/media/no-woman-no-spice/nwns-path.mp4": {
+  "width": 1280,
+  "height": 720
+ },
+ "/media/no-woman-no-spice/nwns-tea-picking.mp4": {
+  "width": 1280,
+  "height": 720
  },
  "/media/seat/01-seat.mp4": {
   "height": 656,

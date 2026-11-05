@@ -16,6 +16,13 @@
     {
       "_template": "oneImage",
       "image": {
+        "src": "/media/no-woman-no-spice/nwns-tea-picking.mp4",
+        "alt": "Spice farmer picking leaves on a hillside farm"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
         "src": "/media/no-woman-no-spice/nwns-2.webp",
         "alt": "NWNS 2"
       }
@@ -100,8 +107,8 @@
     {
       "_template": "oneImage",
       "image": {
-        "src": "/media/no-woman-no-spice/nwns-14.webp",
-        "alt": "NWNS 14"
+        "src": "/media/no-woman-no-spice/nwns-path.mp4",
+        "alt": "Spice farmer walking between the plants"
       }
     },
     {
@@ -137,13 +144,6 @@
       "image": {
         "src": "/media/no-woman-no-spice/nwns-19.webp",
         "alt": "NWNS 19"
-      }
-    },
-    {
-      "_template": "oneImage",
-      "image": {
-        "src": "/media/no-woman-no-spice/nwns-20.webp",
-        "alt": "NWNS 20"
       }
     },
     {
