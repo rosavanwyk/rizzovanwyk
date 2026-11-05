@@ -28,4 +28,5 @@ if (process.env.NEXT_PUBLIC_TINA_CLIENT_ID && process.env.TINA_TOKEN) {
 } else {
   console.log('Tina Cloud keys not set: building the site without the /admin editor.')
 }
+run('node scripts/responsive-images.mjs')
 run('npx next build')

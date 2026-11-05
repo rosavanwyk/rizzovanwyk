@@ -93,3 +93,27 @@ export function getPageData(activeSlug: string) {
 }
 
 export type PageData = ReturnType<typeof getPageData>
+
+export const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL || 'https://rizzovanwyk.com').replace(/\/$/, '')
+
+/** Plain facts about a case study for page titles, descriptions and structured data. */
+export function caseStudySeo(slug: string) {
+  const doc = readJson(path.join(caseStudyDir, `${slug}.json`))
+  const intro = doc.intro ?? {}
+  const copy: string = (intro.copy ?? '').replace(/\s+/g, ' ').trim()
+  const description = copy.length > 160 ? `${copy.slice(0, 157).replace(/\s+\S*$/, '')}…` : copy
+  const hero: string | undefined = doc.heroImage?.src
+  return {
+    slug,
+    title: (doc.title as string) ?? slug,
+    category: (doc.category as string) ?? '',
+    subtitle: (intro.subtitle as string) ?? '',
+    description,
+    fullDescription: copy,
+    image: hero && !/\.(mp4|webm)$/i.test(hero) ? hero : undefined,
+    credits: ((doc.credits ?? []) as { name: string; roles?: string[] }[]).map((c) => ({
+      name: c.name,
+      roles: c.roles ?? [],
+    })),
+  }
+}

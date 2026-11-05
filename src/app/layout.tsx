@@ -52,7 +52,7 @@ export const metadata: Metadata = {
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  const language = sanitizeHtmlAttribute(makeSiteSettings.language) || 'en'
+  const language = (sanitizeHtmlAttribute(makeSiteSettings.language) || 'en').toLowerCase()
   const addBypassLinks = makeSiteSettings.accessibility?.addBypassLinks === true
   const customScripts = makeSiteSettings.customScripts
 
@@ -61,23 +61,23 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <head>
         <link
           rel="preload"
-          href="/fonts/helvetica-now/HelveticaNowDisplay-Light.otf"
+          href="/fonts/helvetica-now/HelveticaNowDisplay-Light.woff2"
           as="font"
-          type="font/otf"
+          type="font/woff2"
           crossOrigin="anonymous"
         />
         <link
           rel="preload"
-          href="/fonts/helvetica-now/HelveticaNowDisplay-Regular.otf"
+          href="/fonts/helvetica-now/HelveticaNowDisplay-Regular.woff2"
           as="font"
-          type="font/otf"
+          type="font/woff2"
           crossOrigin="anonymous"
         />
         <link
           rel="preload"
-          href="/fonts/RVW-SemiBold.otf"
+          href="/fonts/RVW-SemiBold.woff2"
           as="font"
-          type="font/otf"
+          type="font/woff2"
           crossOrigin="anonymous"
         />
         {renderHeadCustomCode(customScripts?.headStart, 'head-start')}

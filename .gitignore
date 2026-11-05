@@ -25,3 +25,7 @@ logs/
 # Tina editor build output (generated on deploy)
 public/admin/
 tina/__generated__/
+
+# Resized image copies made at build time
+public/media/**/*.w828.webp
+public/media/**/*.w1440.webp

@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: 'Helvetica Now Display:Light';
-  src: url('/fonts/helvetica-now/HelveticaNowDisplay-Light.otf') format('opentype');
+  src: url('/fonts/helvetica-now/HelveticaNowDisplay-Light.woff2') format('woff2'), url('/fonts/helvetica-now/HelveticaNowDisplay-Light.otf') format('opentype');
   font-style: normal;
   font-weight: 300;
   font-display: swap;
@@ -16,7 +16,7 @@
 
 @font-face {
   font-family: 'Helvetica Now Display:Regular';
-  src: url('/fonts/helvetica-now/HelveticaNowDisplay-Regular.otf') format('opentype');
+  src: url('/fonts/helvetica-now/HelveticaNowDisplay-Regular.woff2') format('woff2'), url('/fonts/helvetica-now/HelveticaNowDisplay-Regular.otf') format('opentype');
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -24,7 +24,7 @@
 
 @font-face {
   font-family: 'Helvetica Now Display:Medium';
-  src: url('/fonts/helvetica-now/HelveticaNowDisplay-Medium.otf') format('opentype');
+  src: url('/fonts/helvetica-now/HelveticaNowDisplay-Medium.woff2') format('woff2'), url('/fonts/helvetica-now/HelveticaNowDisplay-Medium.otf') format('opentype');
   font-style: normal;
   font-weight: 500;
   font-display: swap;
@@ -32,7 +32,7 @@
 
 @font-face {
   font-family: 'RVW';
-  src: url('/fonts/RVW-SemiBold.otf') format('opentype');
+  src: url('/fonts/RVW-SemiBold.woff2') format('woff2'), url('/fonts/RVW-SemiBold.otf') format('opentype');
   font-style: normal;
   font-weight: 600;
   font-display: swap;
@@ -40,7 +40,7 @@
 
 @font-face {
   font-family: 'RVW';
-  src: url('/fonts/RVW-Bold.otf') format('opentype');
+  src: url('/fonts/RVW-Bold.woff2') format('woff2'), url('/fonts/RVW-Bold.otf') format('opentype');
   font-style: normal;
   font-weight: 700;
   font-display: swap;

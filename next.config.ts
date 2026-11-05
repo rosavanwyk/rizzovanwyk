@@ -2,8 +2,10 @@ import type { NextConfig } from 'next'
 
 const nextConfig: NextConfig = {
   images: {
-    // Media is already compressed when it is added, so it is served as-is.
-    unoptimized: true,
+    // Smaller copies of each image are made at build time
+    // (scripts/responsive-images.mjs) and picked by this loader.
+    loader: 'custom',
+    loaderFile: './src/lib/image-loader.ts',
   },
   async redirects() {
     return [

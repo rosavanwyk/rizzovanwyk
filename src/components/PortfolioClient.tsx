@@ -164,7 +164,7 @@ function CmsMedia({
 
   const isVideo = media.mimeType === 'video/mp4' || media.mimeType === 'video/webm'
   const mp4Fallback = mediaDocument(media.mp4Fallback)
-  const preservesAnimation = media.mimeType === 'image/gif' || media.mimeType === 'image/webp'
+  const preservesAnimation = media.mimeType === 'image/gif'
 
   return (
     <figure
