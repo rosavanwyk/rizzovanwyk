@@ -917,13 +917,13 @@
 }
 
 .services-list {
-  font-size: 95%;
+  font-size: 88%;
 }
 
 .services-list {
   padding: 0;
   list-style: none;
-  line-height: 1.32;
+  line-height: 1.26;
 }
 
 .services-list li {
