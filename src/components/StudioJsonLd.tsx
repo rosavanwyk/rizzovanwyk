@@ -5,6 +5,16 @@ import { caseStudySeo, publishedSlugs, siteUrl } from '@/lib/content'
 export default function StudioJsonLd() {
   const work = publishedSlugs().map((slug) => caseStudySeo(slug))
   return (
+    <>
+    <JsonLd
+      data={{
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        name: 'Rizzo / van Wyk',
+        alternateName: ['Rizzo van Wyk', 'RVW'],
+        url: `${siteUrl}/`,
+      }}
+    />
     <JsonLd
       data={{
         '@context': 'https://schema.org',
@@ -30,5 +40,6 @@ export default function StudioJsonLd() {
         })),
       }}
     />
+    </>
   )
 }
