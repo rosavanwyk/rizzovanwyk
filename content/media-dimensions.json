@@ -2355,23 +2355,7 @@
   "width": 53,
   "height": 43
  },
- "/media/khamoro/03-2.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/khamoro/03.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/khamoro/04a-2.webp": {
-  "width": 1104,
-  "height": 1080
- },
  "/media/khamoro/04a.webp": {
-  "width": 1104,
-  "height": 1080
- },
- "/media/khamoro/04b-2.webp": {
   "width": 1104,
   "height": 1080
  },
@@ -2379,15 +2363,7 @@
   "width": 1104,
   "height": 1080
  },
- "/media/khamoro/05a-2.webp": {
-  "width": 1106,
-  "height": 1520
- },
  "/media/khamoro/05a.webp": {
-  "width": 1106,
-  "height": 1520
- },
- "/media/khamoro/05b-2.webp": {
   "width": 1106,
   "height": 1520
  },
@@ -2395,15 +2371,7 @@
   "width": 1106,
   "height": 1520
  },
- "/media/khamoro/06a-2.webp": {
-  "width": 1106,
-  "height": 1300
- },
  "/media/khamoro/06a.webp": {
-  "width": 1106,
-  "height": 1300
- },
- "/media/khamoro/06b-2.webp": {
   "width": 1106,
   "height": 1300
  },
@@ -2411,47 +2379,23 @@
   "width": 1106,
   "height": 1300
  },
- "/media/khamoro/07a-2.webp": {
+ "/media/khamoro/07a-v2.webp": {
   "width": 1106,
   "height": 1300
  },
- "/media/khamoro/07a.webp": {
+ "/media/khamoro/07b-v2.webp": {
   "width": 1106,
   "height": 1300
  },
- "/media/khamoro/07b-2.webp": {
+ "/media/khamoro/08a-v2.webp": {
   "width": 1106,
   "height": 1300
  },
- "/media/khamoro/07b.webp": {
+ "/media/khamoro/08b-v2.webp": {
   "width": 1106,
-  "height": 1300
- },
- "/media/khamoro/08a-2.webp": {
-  "width": 1106,
-  "height": 1300
- },
- "/media/khamoro/08a.webp": {
-  "width": 1106,
-  "height": 1300
- },
- "/media/khamoro/08b-2.webp": {
-  "width": 1106,
-  "height": 1300
- },
- "/media/khamoro/08b.webp": {
-  "width": 1106,
-  "height": 1300
- },
- "/media/khamoro/09-2.webp": {
-  "width": 2232,
   "height": 1300
  },
  "/media/khamoro/09.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/khamoro/10-2.webp": {
   "width": 2232,
   "height": 1300
  },
@@ -2459,15 +2403,7 @@
   "width": 2232,
   "height": 1300
  },
- "/media/khamoro/11a-2.webp": {
-  "width": 1106,
-  "height": 1520
- },
  "/media/khamoro/11a.webp": {
-  "width": 1106,
-  "height": 1520
- },
- "/media/khamoro/11b-2.webp": {
   "width": 1106,
   "height": 1520
  },
@@ -2475,15 +2411,7 @@
   "width": 1106,
   "height": 1520
  },
- "/media/khamoro/12a-2.webp": {
-  "width": 1106,
-  "height": 1520
- },
  "/media/khamoro/12a.webp": {
-  "width": 1106,
-  "height": 1520
- },
- "/media/khamoro/12b-2.webp": {
   "width": 1106,
   "height": 1520
  },
@@ -2491,15 +2419,7 @@
   "width": 1106,
   "height": 1520
  },
- "/media/khamoro/13-2.webp": {
-  "width": 2232,
-  "height": 1300
- },
  "/media/khamoro/13.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/khamoro/14-2.webp": {
   "width": 2232,
   "height": 1300
  },
@@ -2507,15 +2427,7 @@
   "width": 2232,
   "height": 1300
  },
- "/media/khamoro/15a-2.webp": {
-  "width": 1106,
-  "height": 1520
- },
  "/media/khamoro/15a.webp": {
-  "width": 1106,
-  "height": 1520
- },
- "/media/khamoro/15b-2.webp": {
   "width": 1106,
   "height": 1520
  },
@@ -2523,23 +2435,7 @@
   "width": 1106,
   "height": 1520
  },
- "/media/khamoro/16-2.webp": {
-  "width": 2232,
-  "height": 1300
- },
  "/media/khamoro/16.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/khamoro/17-2.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/khamoro/17.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/khamoro/18-2.webp": {
   "width": 2232,
   "height": 1300
  },
@@ -2547,23 +2443,7 @@
   "width": 2232,
   "height": 1300
  },
- "/media/khamoro/19-2.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/khamoro/19.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/khamoro/20-2.webp": {
-  "width": 2232,
-  "height": 1300
- },
  "/media/khamoro/20.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/khamoro/21-2.webp": {
   "width": 2232,
   "height": 1300
  },
@@ -2571,39 +2451,11 @@
   "width": 2232,
   "height": 1300
  },
- "/media/khamoro/22-2.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/khamoro/22.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/khamoro/23-2.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/khamoro/23.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/khamoro/24-2.webp": {
-  "width": 2232,
-  "height": 1300
- },
  "/media/khamoro/24.webp": {
   "width": 2232,
   "height": 1300
  },
- "/media/khamoro/25a-2.webp": {
-  "width": 1106,
-  "height": 1520
- },
  "/media/khamoro/25a.webp": {
-  "width": 1106,
-  "height": 1520
- },
- "/media/khamoro/25b-2.webp": {
   "width": 1106,
   "height": 1520
  },
@@ -2611,15 +2463,7 @@
   "width": 1106,
   "height": 1520
  },
- "/media/khamoro/26-2.webp": {
-  "width": 2232,
-  "height": 1300
- },
  "/media/khamoro/26.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/khamoro/27-2.webp": {
   "width": 2232,
   "height": 1300
  },
@@ -2627,15 +2471,7 @@
   "width": 2232,
   "height": 1300
  },
- "/media/khamoro/28-2.webp": {
-  "width": 2232,
-  "height": 1300
- },
  "/media/khamoro/28.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/khamoro/29-2.webp": {
   "width": 2232,
   "height": 1300
  },
@@ -2643,15 +2479,7 @@
   "width": 2232,
   "height": 1300
  },
- "/media/khamoro/30-2.webp": {
-  "width": 2232,
-  "height": 1300
- },
  "/media/khamoro/30.webp": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/khamoro/31-2.webp": {
   "width": 2232,
   "height": 1300
  },
@@ -2659,23 +2487,11 @@
   "width": 2232,
   "height": 1300
  },
- "/media/khamoro/32-2.webp": {
-  "width": 2232,
-  "height": 1300
- },
  "/media/khamoro/32.webp": {
   "width": 2232,
   "height": 1300
  },
- "/media/khamoro/33a-2.webp": {
-  "width": 1106,
-  "height": 1520
- },
  "/media/khamoro/33a.webp": {
-  "width": 1106,
-  "height": 1520
- },
- "/media/khamoro/33b-2.webp": {
   "width": 1106,
   "height": 1520
  },
@@ -2683,13 +2499,9 @@
   "width": 1106,
   "height": 1520
  },
- "/media/khamoro/34-2.webp": {
+ "/media/khamoro/34-v2.webp": {
   "width": 2228,
-  "height": 2987
- },
- "/media/khamoro/34.webp": {
-  "width": 2228,
-  "height": 2987
+  "height": 2786
  },
  "/media/khamoro/b1.webp": {
   "width": 2232,
@@ -2703,6 +2515,14 @@
   "width": 2232,
   "height": 1300
  },
+ "/media/khamoro/khamoro-photography.webp": {
+  "width": 1106,
+  "height": 1300
+ },
+ "/media/khamoro/khamoro-social.webp": {
+  "width": 1106,
+  "height": 1520
+ },
  "/media/khamoro/khamoro-system-v2.mp4": {
   "width": 1106,
   "height": 1520
@@ -2710,10 +2530,6 @@
  "/media/khamoro/khamoro-system-v3.mp4": {
   "width": 2232,
   "height": 1300
- },
- "/media/khamoro/khamoro.svg": {
-  "width": 34,
-  "height": 33
  },
  "/media/khamoro/nav-logo.svg": {
   "width": 52,
