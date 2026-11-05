@@ -2639,10 +2639,6 @@
   "width": 828,
   "height": 474
  },
- "/media/cupra/cupra-1-result.webp": {
-  "width": 2232,
-  "height": 1278
- },
  "/media/cupra/cupra-10-result-v2.w1440.webp": {
   "width": 1106,
   "height": 1300
@@ -3076,6 +3072,10 @@
   "height": 1300
  },
  "/media/cupra/cupra-ci-layout.mp4": {
+  "width": 1920,
+  "height": 1080
+ },
+ "/media/cupra/cupra-header.mp4": {
   "width": 1920,
   "height": 1080
  },
@@ -4607,6 +4607,14 @@
   "width": 2232,
   "height": 1744
  },
+ "/media/grand/grand-compliance.w1440.webp": {
+  "width": 1440,
+  "height": 839
+ },
+ "/media/grand/grand-compliance.w828.webp": {
+  "width": 828,
+  "height": 482
+ },
  "/media/grand/grand-compliance.webp": {
   "width": 2232,
   "height": 1300
@@ -4630,6 +4638,14 @@
  "/media/grand/grand-logo-technology.webp": {
   "width": 1106,
   "height": 1300
+ },
+ "/media/grand/grand-profile.w1440.webp": {
+  "width": 1440,
+  "height": 839
+ },
+ "/media/grand/grand-profile.w828.webp": {
+  "width": 828,
+  "height": 482
  },
  "/media/grand/grand-profile.webp": {
   "width": 2232,
