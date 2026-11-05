@@ -14,50 +14,57 @@
   },
   "blocks": [
     {
+      "_template": "oneImage",
       "image": {
-        "src": "/media/media/Audi_symbol_1920.webm",
-        "alt": "Audi Vorsprung 05"
-      },
-      "_template": "oneImage"
+        "src": "/media/audi/audi-symbol.mp4",
+        "alt": "Audi rings animation"
+      }
     },
     {
+      "_template": "twoText",
       "leftText": "Manifesto",
-      "rightText": "It is not a word. \nIt is a mindset.\nThe instinct to stay a few steps ahead.\nNot a destination you reach, but a direction you keep choosing.\nMoving without knowing what you are capable of. And discovering the magic that happens after.\nTo lead is to face whatever comes next. \nNo excuses. No looking down on others. Only beyond the horizon.\nProgress. Setting the pace. Failing forward. \nFollowing the light. Jumping into the unknown. Being bolder than bold.\nVorsprung has its own language. \nIts own place. Its own borders. Its own rules. Its own beauty.\nBeyond the expected, there is a place.\n\nWe will meet you there.\n\nAudi Vorsprung",
-      "_template": "twoText"
+      "rightText": "It is not a word. It is a mindset.\nThe instinct to stay a few steps ahead.\nNot a destination you reach, but a direction you keep choosing.\nMoving without knowing what you are capable of. And discovering the magic that happens after.\nTo lead is to face whatever comes next. No excuses. No looking down on others. Only beyond the horizon.\nProgress. Setting the pace. Failing forward. Following the light. Jumping into the unknown. Being bolder than bold.\nVorsprung has its own language. Its own place. Its own borders. Its own rules. Its own beauty.\nBeyond the expected, there is a place.\n\nWe will meet you there.\n\nAudi Vorsprung"
     },
     {
+      "_template": "twoImages",
       "images": [
         {
-          "src": "/media/media/Audi_Vorsprung.webm",
-          "alt": "Audi Vorsprung 01"
+          "src": "/media/audi/audi-vorsprung-wordmark.mp4",
+          "alt": "Vorsprung wordmark animation"
         },
         {
-          "src": "/media/media/Audi_symbol_square.webm",
-          "alt": "Audi Vorsprung 02"
+          "src": "/media/audi/audi-symbol-square.mp4",
+          "alt": "Audi rings animation"
         }
-      ],
-      "_template": "twoImages"
+      ]
     },
     {
+      "_template": "oneImage",
       "image": {
-        "alt": "Audi 8 result"
-      },
-      "_template": "oneImage"
+        "src": "/media/audi/audi-vorsprung-05.mp4",
+        "alt": "A Q5 typography animation"
+      }
     },
     {
+      "_template": "oneImage",
       "image": {
-        "src": "/media/media/Audi_colours.webm",
-        "alt": "Audi 36 result"
-      },
-      "_template": "oneImage"
+        "src": "/media/audi/audi-colours.mp4",
+        "alt": "Audi colour palette animation"
+      }
     },
     {
+      "_template": "oneImage",
       "image": {
-        "src": "/media/audi/audi-vorsprung-04.webm",
-        "alt": "Audi Vorsprung 04",
-        "mp4Fallback": "/media/audi/audi-vorsprung-04.mp4"
-      },
-      "_template": "oneImage"
+        "src": "/media/audi/audi-models-grid.webp",
+        "alt": "Audi model names system"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-vorsprung-04.mp4",
+        "alt": "New Q5 typography animation"
+      }
     },
     {
       "image": {
@@ -95,11 +102,18 @@
       "_template": "oneImage"
     },
     {
+      "_template": "oneImage",
       "image": {
-        "src": "/media/audi/audi-grouped-3-result.webp",
+        "src": "/media/audi/audi-grouped-3-result-v2.webp",
         "alt": "AUDI GROUPED 3 result"
-      },
-      "_template": "oneImage"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-q5-cards.webp",
+        "alt": "Q5 cards"
+      }
     },
     {
       "image": {
@@ -225,6 +239,13 @@
         "alt": "Audi 37 result"
       },
       "_template": "oneImage"
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/audi/audi-vorsprung-08.mp4",
+        "alt": "Vorsprung animation"
+      }
     }
   ],
   "credits": [

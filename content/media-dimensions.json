@@ -311,10 +311,6 @@
   "width": 52,
   "height": 43
  },
- "/media/audi/17b90.svg": {
-  "width": 52,
-  "height": 43
- },
  "/media/audi/audi-1-result.webp": {
   "width": 2232,
   "height": 1278
@@ -383,15 +379,11 @@
   "width": 2232,
   "height": 1300
  },
- "/media/audi/audi-36-result.webp": {
-  "width": 2232,
-  "height": 1300
- },
  "/media/audi/audi-37-result.webp": {
   "width": 2232,
   "height": 1300
  },
- "/media/audi/audi-8-result.webp": {
+ "/media/audi/audi-colours.mp4": {
   "width": 2232,
   "height": 1300
  },
@@ -403,7 +395,7 @@
   "width": 2232,
   "height": 1200
  },
- "/media/audi/audi-grouped-3-result.webp": {
+ "/media/audi/audi-grouped-3-result-v2.webp": {
   "width": 2232,
   "height": 1200
  },
@@ -415,35 +407,23 @@
   "width": 2232,
   "height": 1300
  },
- "/media/audi/audi-vorsprung-01.mp4": {
-  "height": 2400,
-  "width": 2212
+ "/media/audi/audi-models-grid.webp": {
+  "width": 2232,
+  "height": 1258
  },
- "/media/audi/audi-vorsprung-01.webm": {
-  "height": 2400,
-  "width": 2212
+ "/media/audi/audi-q5-cards.webp": {
+  "width": 2232,
+  "height": 1200
  },
- "/media/audi/audi-vorsprung-02.mp4": {
-  "height": 2400,
-  "width": 2212
+ "/media/audi/audi-symbol-square.mp4": {
+  "width": 2212,
+  "height": 2400
  },
- "/media/audi/audi-vorsprung-02.webm": {
-  "height": 2400,
-  "width": 2212
- },
- "/media/audi/audi-vorsprung-03.mp4": {
-  "height": 1300,
-  "width": 2232
- },
- "/media/audi/audi-vorsprung-03.webm": {
-  "height": 1300,
-  "width": 2232
+ "/media/audi/audi-symbol.mp4": {
+  "width": 2232,
+  "height": 1300
  },
  "/media/audi/audi-vorsprung-04.mp4": {
-  "height": 1300,
-  "width": 2232
- },
- "/media/audi/audi-vorsprung-04.webm": {
   "height": 1300,
   "width": 2232
  },
@@ -451,17 +431,21 @@
   "height": 1300,
   "width": 2232
  },
- "/media/audi/audi-vorsprung-05.webm": {
-  "height": 1300,
-  "width": 2232
- },
  "/media/audi/audi-vorsprung-07.mp4": {
+  "width": 2232,
+  "height": 1256
+ },
+ "/media/audi/audi-vorsprung-08.mp4": {
   "width": 2232,
   "height": 1256
  },
  "/media/audi/audi-vorsprung-09.mp4": {
   "width": 1920,
   "height": 1280
+ },
+ "/media/audi/audi-vorsprung-wordmark.mp4": {
+  "width": 2212,
+  "height": 2400
  },
  "/media/audi/audio-woman-red-result.webp": {
   "width": 2232,
@@ -2822,22 +2806,6 @@
  "/media/media/AUDI/ALBATROSS/Albatross_construction_01.webm": {
   "width": 2232,
   "height": 1300
- },
- "/media/media/Audi_Vorsprung.webm": {
-  "width": 2212,
-  "height": 2400
- },
- "/media/media/Audi_colours.webm": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/media/Audi_symbol_1920.webm": {
-  "width": 2232,
-  "height": 1300
- },
- "/media/media/Audi_symbol_square.webm": {
-  "width": 2212,
-  "height": 2400
  },
  "/media/no-woman-no-spice/d1-result.webp": {
   "width": 2232,

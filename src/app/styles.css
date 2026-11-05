@@ -465,6 +465,8 @@
 }
 
 .case-study-text-panel {
+  /* Keep line breaks typed in the editor (e.g. the Audi manifesto) */
+  white-space: pre-line;
   display: flex;
   width: 100%;
   min-width: 0;
