@@ -137,6 +137,13 @@
     {
       "_template": "oneImage",
       "image": {
+        "src": "/media/cupra/cupra-ci-layout.mp4",
+        "alt": "CUPRA Tavascan layout system in motion"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
         "src": "/media/cupra/cupra-20-result.webp",
         "alt": "Cupra 20 result"
       }
