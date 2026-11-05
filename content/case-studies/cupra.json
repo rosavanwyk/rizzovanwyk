@@ -94,19 +94,6 @@
       ]
     },
     {
-      "_template": "twoImages",
-      "images": [
-        {
-          "src": "/media/cupra/cupra-14-result.webp",
-          "alt": "Cupra 14 result"
-        },
-        {
-          "src": "/media/cupra/cupra-15-result.webp",
-          "alt": "Cupra 15 result"
-        }
-      ]
-    },
-    {
       "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-16-result.webp",
