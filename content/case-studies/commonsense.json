@@ -14,11 +14,14 @@
   },
   "blocks": [
     {
-      "_template": "oneImage",
+      "_template": "imageTextLeft",
       "image": {
         "src": "/media/commonsense/common-sense-2.webp",
         "alt": "Common Sense 2"
-      }
+      },
+      "title": "CommonSense",
+      "subtitle": "Creating the symbol",
+      "copy": "The symbol is constructed from two interlocking circular rings, starting with two identical circles whose centres are placed on the edge of the other, creating an intersection at the centre. These circles are transformed into thick rings, and specific sections are cut or removed to give the impression that the rings are interwoven.\n\nThe construction lines highlight the intersections that define the final shapes, resulting in a symmetrical and visually balanced design that suggests interconnectedness, unity and infinite cycles."
     },
     {
       "_template": "twoImages",
@@ -46,6 +49,11 @@
         "src": "/media/commonsense/common-sense-6.webp",
         "alt": "Common Sense 6"
       }
+    },
+    {
+      "_template": "twoText",
+      "leftText": "Creative patterns",
+      "rightText": "We build portfolios that help high-net-worth individuals and institutions to invest in crypto with common sense."
     },
     {
       "_template": "oneImage",
@@ -109,11 +117,26 @@
       ]
     },
     {
+      "_template": "imageTextLeft",
+      "image": {
+        "src": "/media/commonsense/commonsense-textures.webp",
+        "alt": "CommonSense textures"
+      },
+      "title": "CommonSense",
+      "subtitle": "Textures",
+      "copy": "Built on the concept of “Roots of Trust”, these images reinforce the connection between humanity and transparency in the crypto world.\n\nThe portraits show real people in a simple, approachable way, emphasising that behind the technology and transactions are committed individuals. Natural elements such as fruit and organic objects represent the connection with nature and transparency. Combined with the direct, unaffected expression of the people, they reinforce the message that the platform is not abstract or distant, but an ecosystem driven by real people who bring solidity and trust to the project.\n\nMinimal settings and visual clarity keep the focus on honesty and simplicity, key values of the brand."
+    },
+    {
       "_template": "oneImage",
       "image": {
         "src": "/media/commonsense/common-sense-16.webp",
         "alt": "Common Sense 16"
       }
+    },
+    {
+      "_template": "twoText",
+      "leftText": "Applications",
+      "rightText": ""
     },
     {
       "_template": "oneImage",
@@ -141,6 +164,48 @@
       "image": {
         "src": "/media/commonsense/common-sense-20.webp",
         "alt": "Common Sense 20"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/commonsense-21.webp",
+        "alt": "CommonSense applications"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/commonsense-22.webp",
+        "alt": "CommonSense applications"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/commonsense-23.webp",
+        "alt": "CommonSense applications"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/commonsense-24.webp",
+        "alt": "CommonSense applications"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/commonsense-25.webp",
+        "alt": "CommonSense applications"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/commonsense/commonsense-resume.webp",
+        "alt": "CommonSense brand overview"
       }
     }
   ],
