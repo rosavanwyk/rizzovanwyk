@@ -48,6 +48,13 @@
       }
     },
     {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/cibc/cibc-lapel-pin.webp",
+        "alt": "CIBC lapel pin"
+      }
+    },
+    {
       "_template": "twoImages",
       "images": [
         {
