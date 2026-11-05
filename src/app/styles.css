@@ -545,7 +545,8 @@
 }
 
 .case-study-text-panel p {
-  font-size: 95%;
+  font-size: 88%;
+  line-height: 1.25;
 }
 
 .bird-case-study {
@@ -1630,5 +1631,16 @@
   .case-study-text-panel--half {
     aspect-ratio: 1106 / 1520;
     min-height: auto;
+  }
+}
+
+/* Phones: About text runs closer to the edges, with natural line breaks */
+@media (max-width: 600px) {
+  .about-panel {
+    padding: 30px 22px 32px;
+  }
+
+  .panel-copy {
+    text-wrap: wrap;
   }
 }
