@@ -38,6 +38,7 @@ function toMedia(value: Json | string | null | undefined, dims: Dimensions, mark
     width: dims[key]?.width ?? null,
     height: dims[key]?.height ?? null,
     mp4Fallback: fallbackSrc ? { id: fallbackSrc, url: fallbackSrc, mimeType: mimeOf(fallbackSrc) } : null,
+    caption: typeof value === 'object' ? value?.caption ?? null : null,
     tinaField: marker,
   }
 }

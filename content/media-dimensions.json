@@ -2347,15 +2347,11 @@
   "width": 1104,
   "height": 1080
  },
- "/media/khamoro/05a.webp": {
-  "width": 1106,
-  "height": 1520
- },
  "/media/khamoro/05b.webp": {
   "width": 1106,
   "height": 1520
  },
- "/media/khamoro/06a.webp": {
+ "/media/khamoro/06a-clean.webp": {
   "width": 1106,
   "height": 1300
  },
@@ -2367,11 +2363,11 @@
   "width": 1106,
   "height": 1300
  },
- "/media/khamoro/07b-v2.webp": {
+ "/media/khamoro/07b-clean.webp": {
   "width": 1106,
   "height": 1300
  },
- "/media/khamoro/08a-v2.webp": {
+ "/media/khamoro/08a-clean.webp": {
   "width": 1106,
   "height": 1300
  },
@@ -2386,10 +2382,6 @@
  "/media/khamoro/10.webp": {
   "width": 2232,
   "height": 1300
- },
- "/media/khamoro/11a.webp": {
-  "width": 1106,
-  "height": 1520
  },
  "/media/khamoro/11b.webp": {
   "width": 1106,
@@ -2410,10 +2402,6 @@
  "/media/khamoro/14.webp": {
   "width": 2232,
   "height": 1300
- },
- "/media/khamoro/15a.webp": {
-  "width": 1106,
-  "height": 1520
  },
  "/media/khamoro/15b.webp": {
   "width": 1106,

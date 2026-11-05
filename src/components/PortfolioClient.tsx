@@ -215,6 +215,16 @@ function CmsMedia({
             unoptimized={preservesAnimation}
           />
         ))}
+      {(media.caption?.title || media.caption?.lines) && (
+        <div
+          className={`media-caption media-caption--${media.caption.position === 'middle' ? 'middle' : 'top'} media-caption--${media.caption.tone === 'dark' ? 'dark' : 'light'}`}
+        >
+          <h2>
+            {media.caption.title && <strong>{media.caption.title}</strong>}
+            {media.caption.lines && <span>{media.caption.lines}</span>}
+          </h2>
+        </div>
+      )}
     </figure>
   )
 }

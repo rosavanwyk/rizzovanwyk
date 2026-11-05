@@ -3,7 +3,7 @@
  * same data straight from the JSON files in /content; inside the Tina editor
  * this query is re-run live so edits appear instantly.
  */
-const mediaFields = `src alt mp4Fallback`
+const mediaFields = `src alt mp4Fallback caption { title lines position tone }`
 
 export const pageQuery = /* GraphQL */ `
 query page($relativePath: String!) {

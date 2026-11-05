@@ -44,24 +44,27 @@
       ]
     },
     {
-      "_template": "twoImages",
-      "images": [
-        {
-          "src": "/media/khamoro/05a.webp",
-          "alt": "05a"
-        },
-        {
-          "src": "/media/khamoro/05b.webp",
-          "alt": "05b"
-        }
-      ]
+      "_template": "imageTextLeft",
+      "image": {
+        "src": "/media/khamoro/05b.webp",
+        "alt": "KHA MO RO lettering"
+      },
+      "title": "Khamoro 2026",
+      "subtitle": "Versatility and modern abstraction",
+      "copy": "Built from fluid letterforms and repeatable modules, the system can expand across print, digital, textiles and spatial applications. Its abstract language preserves cultural resonance without reducing it to a single literal image."
     },
     {
       "_template": "twoImages",
       "images": [
         {
-          "src": "/media/khamoro/06a.webp",
-          "alt": "06a"
+          "src": "/media/khamoro/06a-clean.webp",
+          "alt": "Letter duplication",
+          "caption": {
+            "title": "Khamoro 2026",
+            "lines": "Versatility and modern abstraction\n1 Letter / Duplication",
+            "position": "top",
+            "tone": "light"
+          }
         },
         {
           "src": "/media/khamoro/06b.webp",
@@ -77,8 +80,14 @@
           "alt": ""
         },
         {
-          "src": "/media/khamoro/07b-v2.webp",
-          "alt": ""
+          "src": "/media/khamoro/07b-clean.webp",
+          "alt": "Letter duplication",
+          "caption": {
+            "title": "Khamoro 2026",
+            "lines": "Versatility and modern abstraction\n1 Letter / Duplication",
+            "position": "top",
+            "tone": "dark"
+          }
         }
       ]
     },
@@ -86,8 +95,14 @@
       "_template": "twoImages",
       "images": [
         {
-          "src": "/media/khamoro/08a-v2.webp",
-          "alt": ""
+          "src": "/media/khamoro/08a-clean.webp",
+          "alt": "Two-letter pattern",
+          "caption": {
+            "title": "Khamoro 2026",
+            "lines": "Versatility and modern abstraction\n2 Letters / Duplication + Crop",
+            "position": "middle",
+            "tone": "dark"
+          }
         },
         {
           "src": "/media/khamoro/08b-v2.webp",
@@ -110,17 +125,14 @@
       }
     },
     {
-      "_template": "twoImages",
-      "images": [
-        {
-          "src": "/media/khamoro/11a.webp",
-          "alt": "11a"
-        },
-        {
-          "src": "/media/khamoro/11b.webp",
-          "alt": "11b"
-        }
-      ]
+      "_template": "imageTextLeft",
+      "image": {
+        "src": "/media/khamoro/11b.webp",
+        "alt": "Khamoro colour palette"
+      },
+      "title": "Khamoro 2026",
+      "subtitle": "Colour system",
+      "copy": "Red anchors Khamoro's identity, while black and white provide a neutral foundation for clarity and contrast. Pink, orange, yellow and cyan extend the palette into a more expressive register, allowing the system to shift in tone and intensity across different contexts. Colour can change; recognition remains rooted in the custom letterforms, graphic forms and typographic structure."
     },
     {
       "_template": "twoImages",
@@ -150,17 +162,14 @@
       }
     },
     {
-      "_template": "twoImages",
-      "images": [
-        {
-          "src": "/media/khamoro/15a.webp",
-          "alt": "15a"
-        },
-        {
-          "src": "/media/khamoro/15b.webp",
-          "alt": "15b"
-        }
-      ]
+      "_template": "imageTextLeft",
+      "image": {
+        "src": "/media/khamoro/15b.webp",
+        "alt": "Khamoro festival poster"
+      },
+      "title": "Khamoro 2026",
+      "subtitle": "Grid, hierarchy & composition",
+      "copy": "A flexible grid provides the structure for Khamoro's information system. Scale, position and spacing create clear hierarchies while allowing each composition to adapt to different content and formats. The system balances consistency with freedom, giving information room to shift without losing clarity or recognition."
     },
     {
       "_template": "oneImage",

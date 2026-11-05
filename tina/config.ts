@@ -28,6 +28,33 @@ const mediaFields = (folder: (values: Record<string, any>) => string): TinaField
     accept: ['mp4'],
     uploadDir: folder,
   },
+  {
+    name: 'caption',
+    label: 'Text on top of this media (optional)',
+    type: 'object',
+    fields: [
+      { name: 'title', label: 'Title', type: 'string' },
+      { name: 'lines', label: 'Lines below the title', type: 'string', ui: { component: 'textarea' } },
+      {
+        name: 'position',
+        label: 'Position',
+        type: 'string',
+        options: [
+          { value: 'top', label: 'Top' },
+          { value: 'middle', label: 'Middle' },
+        ],
+      },
+      {
+        name: 'tone',
+        label: 'Text colour',
+        type: 'string',
+        options: [
+          { value: 'light', label: 'Light (for dark images)' },
+          { value: 'dark', label: 'Dark (for light images)' },
+        ],
+      },
+    ],
+  },
 ]
 
 const caseStudyFolder = (values: Record<string, any>) =>

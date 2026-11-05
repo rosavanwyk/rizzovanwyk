@@ -1476,3 +1476,46 @@
 .figma-bypass-link:focus {
   transform: translateY(0);
 }
+
+/* Text laid over a media panel, in the same style as the text panels */
+.media-caption {
+  position: absolute;
+  z-index: 2;
+  left: 0;
+  right: 0;
+  padding: 28px 30px;
+  font-family: 'Helvetica Now Display:Light', Arial, sans-serif;
+  font-size: clamp(18px, 1.35vw, 24px);
+  font-weight: 300;
+  line-height: 1.32;
+  white-space: pre-line;
+  pointer-events: none;
+}
+
+.media-caption--top {
+  top: 0;
+}
+
+.media-caption--middle {
+  top: 52%;
+}
+
+.media-caption--light {
+  color: #f4f1ea;
+}
+
+.media-caption--dark {
+  color: #141414;
+}
+
+.media-caption h2 {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  font: inherit;
+}
+
+.media-caption h2 strong {
+  font-family: 'Helvetica Now Display:Regular', Arial, sans-serif;
+  font-weight: 400;
+}
