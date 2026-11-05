@@ -1634,10 +1634,13 @@
   }
 }
 
-/* Phones: About text runs closer to the edges, with natural line breaks */
+/* Phones: About text sits under its title and runs closer to the edges */
 @media (max-width: 600px) {
   .about-panel {
-    padding: 30px 22px 32px;
+    min-height: 0;
+    justify-content: flex-start;
+    gap: 22px;
+    padding: 28px 20px 30px;
   }
 
   .panel-copy {

@@ -552,6 +552,11 @@ function CaseStudyView({
   )
 }
 
+/* Joins short words like "and" to the next word so they never end a line on their own. */
+function keepShortWordsWithNext(text: string) {
+  return text.replace(/(^|\s)(and|a|to|of|the|we|in|on|from)\s+/gi, (_, space, word) => `${space}${word}\u00A0`)
+}
+
 function AboutPage({ about }: { about: AboutContent }) {
   const f = about.tinaFields || {}
   const portraits = about.portraits
@@ -581,7 +586,7 @@ function AboutPage({ about }: { about: AboutContent }) {
           <h2 data-tina-field={f.aboutTitle}>{about.aboutTitle}</h2>
           <div className="panel-copy" data-tina-field={f.aboutParagraphs}>
             {(about.aboutParagraphs || []).map((paragraph, index) => (
-              <p key={index}>{paragraph}</p>
+              <p key={index}>{keepShortWordsWithNext(paragraph)}</p>
             ))}
           </div>
         </article>
