@@ -14,19 +14,36 @@
   },
   "blocks": [
     {
-      "_template": "oneImage",
-      "image": {
-        "src": "/media/cupra-raval/07-cupra-raval-007.webm",
-        "alt": "07 Cupra Raval 007",
-        "mp4Fallback": "/media/cupra-raval/07-cupra-raval-007-1.mp4"
-      }
+      "_template": "twoText",
+      "leftText": "Concept",
+      "rightText": "Raval is Not a Font\n\nA neighbourhood where every letter has its accent. Where aesthetics do not seek to please, but to express. Where the real blends with the modern, and the modern does not disguise itself as luxury, but as life.\n\nHere, nothing is uniform. Everything coexists: the digital and the analogue, the curved and the sharp, the classic and the new.\n\nRaval is not ordered.\nIt is felt. It is walked. It is heard.\n\nThis is not design.\nIt is visual territory.\nIt is identity in motion."
     },
     {
       "_template": "oneImage",
       "image": {
-        "src": "/media/cupra-raval/raval-2.webp",
-        "alt": "Raval 2"
+        "src": "/media/cupra-raval/cupra-raval-film.mp4",
+        "alt": "Cupra Raval film"
       }
+    },
+    {
+      "_template": "imageTextLeft",
+      "image": {
+        "src": "/media/cupra-raval/raval-2.webp",
+        "alt": "Cupra Raval symbol variations"
+      },
+      "title": "Cupra Raval",
+      "subtitle": "Symbol",
+      "copy": "The symbol does not present itself as a unique and perfect brand. It behaves like the Raval: it changes, erodes, reconfigures, and retains its essence.\n\nThe base form remains, but its variations express the textures of the neighbourhood: graffiti, improvised signage, wear, intervention, and street life.\n\nA stable sign in structure, variable in expression. A brand that exists in the plural, just like its context."
+    },
+    {
+      "_template": "imageTextRight",
+      "image": {
+        "src": "/media/cupra-raval/raval-typography.webp",
+        "alt": "Raval wordmark"
+      },
+      "title": "Cupra Raval",
+      "subtitle": "Typography",
+      "copy": "The typography is built with the same logic as the neighbourhood:\n\nMultiple origins coexisting in the same space. Each letter corresponds to a different structure to reflect the cultural and visual mix of the Raval. It does not seek uniformity. It embraces contrast, layering, and urban character.\n\nIt is a variable and imperfect system by design: identity in motion, like the territory it represents."
     },
     {
       "_template": "oneImage",
@@ -201,15 +218,28 @@
     {
       "name": "Martin Rizzo",
       "roles": [
-        "Creative Direction & Design",
-        "Brand Identity"
+        "Brand evolution",
+        "Visual identity system",
+        "Art Direction",
+        "Design Director"
       ]
     },
     {
-      "name": "Rosa van Wyk",
+      "name": "Denis Paladin",
       "roles": [
-        "Brand Strategy",
-        "Product & UX Design"
+        "3d assets"
+      ]
+    },
+    {
+      "name": "Isa Espona",
+      "roles": [
+        "Creative direction"
+      ]
+    },
+    {
+      "name": "C14torce",
+      "roles": [
+        "Brand Strategy"
       ]
     }
   ]

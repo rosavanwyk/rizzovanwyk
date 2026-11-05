@@ -1255,17 +1255,13 @@
   "width": 52,
   "height": 43
  },
- "/media/cupra-raval/07-cupra-raval-007-1.mp4": {
-  "height": 1080,
-  "width": 1920
- },
- "/media/cupra-raval/07-cupra-raval-007.webm": {
-  "height": 1080,
-  "width": 1920
- },
  "/media/cupra-raval/9f4d4.svg": {
   "width": 52,
   "height": 43
+ },
+ "/media/cupra-raval/cupra-raval-film.mp4": {
+  "width": 1920,
+  "height": 1080
  },
  "/media/cupra-raval/nav-logo.svg": {
   "width": 52,
@@ -1374,6 +1370,10 @@
  "/media/cupra-raval/raval-9.webp": {
   "width": 2232,
   "height": 1520
+ },
+ "/media/cupra-raval/raval-typography.webp": {
+  "width": 1100,
+  "height": 1300
  },
  "/media/fichap/fichap-1-result.webp": {
   "width": 2232,
