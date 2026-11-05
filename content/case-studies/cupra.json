@@ -37,8 +37,8 @@
       "_template": "twoImages",
       "images": [
         {
-          "src": "/media/cupra/27-cupra-icon.gif",
-          "alt": "Cupra 5 result"
+          "src": "/media/cupra/icons-cupra.mp4",
+          "alt": "CUPRA icon animation"
         },
         {
           "src": "/media/cupra/cupra-6-result.webp",
@@ -56,9 +56,8 @@
     {
       "_template": "oneImage",
       "image": {
-        "src": "/media/cupra/26-cupra-tavascan.webm",
-        "alt": "26 Cupra Tavascan",
-        "mp4Fallback": "/media/cupra/26-cupra-tavascan-1.mp4"
+        "src": "/media/cupra/26-cupra-tavascan.mp4",
+        "alt": "26 Cupra Tavascan"
       }
     },
     {

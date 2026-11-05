@@ -36,16 +36,15 @@
     {
       "_template": "oneImage",
       "image": {
-        "src": "/media/seat/seat-5-result.webp",
+        "src": "/media/seat/seat-5-result-v2.webp",
         "alt": "Seat 5 result"
       }
     },
     {
       "_template": "oneImage",
       "image": {
-        "src": "/media/seat/01-seat.webm",
-        "alt": "01 SEAT",
-        "mp4Fallback": "/media/seat/01-seat.mp4"
+        "src": "/media/seat/01-seat.mp4",
+        "alt": "01 SEAT"
       }
     },
     {
@@ -86,11 +85,11 @@
       "_template": "twoImages",
       "images": [
         {
-          "src": "/media/seat/seat-12-result.webp",
+          "src": "/media/seat/seat-12-result-v2.webp",
           "alt": "Seat 12 result"
         },
         {
-          "src": "/media/seat/seat-13-result.webp",
+          "src": "/media/seat/seat-13-result-v2.webp",
           "alt": "Seat 13 result"
         }
       ]
@@ -105,7 +104,7 @@
     {
       "_template": "oneImage",
       "image": {
-        "src": "/media/seat/seat-15-result.webp",
+        "src": "/media/seat/seat-15-result-v2.webp",
         "alt": "Seat 15 result"
       }
     },
@@ -120,7 +119,7 @@
       "_template": "twoImages",
       "images": [
         {
-          "src": "/media/seat/seat-17-result.webp",
+          "src": "/media/seat/seat-17-result-v2.webp",
           "alt": "Seat 17 result"
         },
         {
@@ -133,7 +132,7 @@
       "_template": "twoImages",
       "images": [
         {
-          "src": "/media/seat/seat-19-result.webp",
+          "src": "/media/seat/seat-19-result-v2.webp",
           "alt": "Seat 19 result"
         },
         {
@@ -172,7 +171,7 @@
       "_template": "twoImages",
       "images": [
         {
-          "src": "/media/seat/seat-25-result.webp",
+          "src": "/media/seat/seat-25-result-v2.webp",
           "alt": "Seat 25 result"
         },
         {

@@ -171,6 +171,18 @@
   "width": 2232,
   "height": 1278
  },
+ "/media/albatross/albatross-brand-1.mp4": {
+  "width": 1080,
+  "height": 1440
+ },
+ "/media/albatross/albatross-construction-01.mp4": {
+  "width": 2232,
+  "height": 1300
+ },
+ "/media/albatross/albatross-construction-1.mp4": {
+  "width": 2212,
+  "height": 2600
+ },
  "/media/albatross/nav-logo.svg": {
   "width": 52,
   "height": 43
@@ -442,6 +454,14 @@
  "/media/audi/audi-vorsprung-05.webm": {
   "height": 1300,
   "width": 2232
+ },
+ "/media/audi/audi-vorsprung-07.mp4": {
+  "width": 2232,
+  "height": 1256
+ },
+ "/media/audi/audi-vorsprung-09.mp4": {
+  "width": 1920,
+  "height": 1280
  },
  "/media/audi/audio-woman-red-result.webp": {
   "width": 2232,
@@ -1071,17 +1091,9 @@
   "width": 52,
   "height": 43
  },
- "/media/cupra/26-cupra-tavascan-1.mp4": {
-  "height": 1080,
-  "width": 1920
- },
- "/media/cupra/26-cupra-tavascan.webm": {
-  "height": 1080,
-  "width": 1920
- },
- "/media/cupra/27-cupra-icon.gif": {
-  "width": 553,
-  "height": 650
+ "/media/cupra/26-cupra-tavascan.mp4": {
+  "width": 1920,
+  "height": 1080
  },
  "/media/cupra/308d0.svg": {
   "width": 52,
@@ -1234,6 +1246,10 @@
  "/media/cupra/cupra-9-result-v2.webp": {
   "width": 2232,
   "height": 1300
+ },
+ "/media/cupra/icons-cupra.mp4": {
+  "width": 554,
+  "height": 650
  },
  "/media/cupra/nav-logo.svg": {
   "width": 52,
@@ -1611,6 +1627,10 @@
   "width": 1106,
   "height": 1200
  },
+ "/media/fichap/fichap-logo-transicion.mp4": {
+  "width": 1920,
+  "height": 1080
+ },
  "/media/fichap/fichap-logo.svg": {
   "width": 37,
   "height": 30
@@ -1774,6 +1794,14 @@
  "/media/grand/grand-construccion-01.webm": {
   "height": 1222,
   "width": 1080
+ },
+ "/media/grand/grand-construccion-03.mp4": {
+  "width": 1080,
+  "height": 1484
+ },
+ "/media/grand/grand-construccion-04.mp4": {
+  "width": 1920,
+  "height": 1080
  },
  "/media/grand/grand.svg": {
   "width": 52,
@@ -2671,6 +2699,18 @@
   "width": 1106,
   "height": 1520
  },
+ "/media/khamoro/khamoro-logo-construccion-v5.mp4": {
+  "width": 2232,
+  "height": 1300
+ },
+ "/media/khamoro/khamoro-system-v2.mp4": {
+  "width": 1106,
+  "height": 1520
+ },
+ "/media/khamoro/khamoro-system-v3.mp4": {
+  "width": 2232,
+  "height": 1300
+ },
  "/media/khamoro/khamoro.svg": {
   "width": 34,
   "height": 33
@@ -2758,6 +2798,10 @@
  "/media/mangopay/mangopay-9.webp": {
   "width": 2232,
   "height": 1252
+ },
+ "/media/mangopay/mangopay-animation.mp4": {
+  "width": 1920,
+  "height": 1074
  },
  "/media/mangopay/mangopay-logo-original-2.svg": {
   "width": 52,
@@ -2947,10 +2991,6 @@
   "height": 656,
   "width": 1400
  },
- "/media/seat/01-seat.webm": {
-  "height": 656,
-  "width": 1400
- },
  "/media/seat/8ff6b.svg": {
   "width": 52,
   "height": 43
@@ -2971,11 +3011,11 @@
   "width": 2232,
   "height": 1300
  },
- "/media/seat/seat-12-result.webp": {
+ "/media/seat/seat-12-result-v2.webp": {
   "width": 1106,
   "height": 1300
  },
- "/media/seat/seat-13-result.webp": {
+ "/media/seat/seat-13-result-v2.webp": {
   "width": 1106,
   "height": 1300
  },
@@ -2983,7 +3023,7 @@
   "width": 2232,
   "height": 1258
  },
- "/media/seat/seat-15-result.webp": {
+ "/media/seat/seat-15-result-v2.webp": {
   "width": 2232,
   "height": 1446
  },
@@ -2991,7 +3031,7 @@
   "width": 2232,
   "height": 1258
  },
- "/media/seat/seat-17-result.webp": {
+ "/media/seat/seat-17-result-v2.webp": {
   "width": 1106,
   "height": 1300
  },
@@ -2999,7 +3039,7 @@
   "width": 1106,
   "height": 1300
  },
- "/media/seat/seat-19-result.webp": {
+ "/media/seat/seat-19-result-v2.webp": {
   "width": 1106,
   "height": 1300
  },
@@ -3027,7 +3067,7 @@
   "width": 1106,
   "height": 1300
  },
- "/media/seat/seat-25-result.webp": {
+ "/media/seat/seat-25-result-v2.webp": {
   "width": 1106,
   "height": 1300
  },
@@ -3055,7 +3095,7 @@
   "width": 2232,
   "height": 764
  },
- "/media/seat/seat-5-result.webp": {
+ "/media/seat/seat-5-result-v2.webp": {
   "width": 2232,
   "height": 1106
  },
@@ -3070,5 +3110,13 @@
  "/media/seat/seat-9-result.webp": {
   "width": 2232,
   "height": 1300
+ },
+ "/media/unassigned/flujo-radial-brand.mp4": {
+  "width": 1280,
+  "height": 720
+ },
+ "/media/unassigned/flujo-radial-image.mp4": {
+  "width": 1280,
+  "height": 720
  }
 }
