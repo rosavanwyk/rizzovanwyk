@@ -77,7 +77,7 @@
     {
       "_template": "twoText",
       "leftText": "Imagery",
-      "rightText": "The imagery emphasises the concept of a unified humanity seamlessly integrated with technology, illustrating the harmonious fusion of human potential and digital advancement. Each image highlights different aspects of the platform's value proposition and attributes, effectively reinforcing these ideas while imagining a future where human and technological evolution converge to create greater synergy and collective growth."
+      "rightText": "Albatross helps people make decisions with real-time AI, so the imagery keeps people at the centre. Portraits, hands and everyday moments are layered with the brand's glass forms and blue-to-orange light, showing the technology working alongside human judgement rather than replacing it. The result feels warm and human, while staying unmistakably precise and digital."
     },
     {
       "_template": "oneImage",
@@ -136,6 +136,13 @@
     {
       "_template": "oneImage",
       "image": {
+        "src": "/media/albatross/albatross-typography.webp",
+        "alt": "Typography"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
         "src": "/media/albatross/albatros-17-result-v2.webp",
         "alt": "Albatros 17 result"
       }
@@ -158,6 +165,13 @@
       "image": {
         "src": "/media/albatross/albatros-20-result.webp",
         "alt": "Albatros 20 result"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/albatross/albatross-illustration.webp",
+        "alt": "Illustration"
       }
     },
     {
@@ -202,6 +216,13 @@
       }
     },
     {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/albatross/albatross-data.webp",
+        "alt": "Data"
+      }
+    },
+    {
       "_template": "twoImages",
       "images": [
         {
@@ -213,6 +234,13 @@
           "alt": "Albatros 28 result"
         }
       ]
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/albatross/albatross-icons.webp",
+        "alt": "Icons"
+      }
     },
     {
       "_template": "twoImages",
@@ -258,6 +286,13 @@
     {
       "_template": "oneImage",
       "image": {
+        "src": "/media/albatross/albatross-stickers.webp",
+        "alt": "Albatross laptop stickers"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
         "src": "/media/albatross/albatros-36-result.webp",
         "alt": "Albatros 36 result"
       }
@@ -289,13 +324,6 @@
         "src": "/media/albatross/albatros-40-result.webp",
         "alt": "Albatros 40 result"
       }
-    },
-    {
-      "_template": "oneImage",
-      "image": {
-        "src": "/media/albatross/albatros-10-result-2.webp",
-        "alt": "Albatros 10 result"
-      }
     }
   ],
   "credits": [
@@ -304,6 +332,12 @@
       "roles": [
         "Creative Direction & Design",
         "Brand Identity"
+      ]
+    },
+    {
+      "name": "Luciano Insua",
+      "roles": [
+        "Photography"
       ]
     },
     {
