@@ -908,12 +908,11 @@
 
 .panel-copy {
   display: flex;
-  width: 86%;
+  width: 100%;
   flex-direction: column;
   gap: 18px;
   font-size: 88%;
   line-height: 1.26;
-  text-wrap: pretty;
 }
 
 .services-list {
