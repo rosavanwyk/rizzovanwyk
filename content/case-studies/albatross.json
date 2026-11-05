@@ -14,10 +14,23 @@
   },
   "blocks": [
     {
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/albatross/albatross-construction-1.mp4",
+          "alt": "Albatross logo construction"
+        },
+        {
+          "src": "/media/albatross/albatross-brand-1.mp4",
+          "alt": "Albatross brand system"
+        }
+      ]
+    },
+    {
       "_template": "oneImage",
       "image": {
-        "src": "/media/albatross/albatros-2-result.webp",
-        "alt": "Albatros 2 result"
+        "src": "/media/albatross/albatross-construction-01.mp4",
+        "alt": "Albatross logotype construction"
       }
     },
     {
@@ -60,6 +73,11 @@
         "src": "/media/albatross/albatros-8-result.webp",
         "alt": "Albatros 8 result"
       }
+    },
+    {
+      "_template": "twoText",
+      "leftText": "Imagery",
+      "rightText": "The imagery emphasises the concept of a unified humanity seamlessly integrated with technology, illustrating the harmonious fusion of human potential and digital advancement. Each image highlights different aspects of the platform's value proposition and attributes, effectively reinforcing these ideas while imagining a future where human and technological evolution converge to create greater synergy and collective growth."
     },
     {
       "_template": "oneImage",
@@ -118,7 +136,7 @@
     {
       "_template": "oneImage",
       "image": {
-        "src": "/media/albatross/albatros-17-result.webp",
+        "src": "/media/albatross/albatros-17-result-v2.webp",
         "alt": "Albatros 17 result"
       }
     },
