@@ -78,13 +78,6 @@
     {
       "_template": "oneImage",
       "image": {
-        "src": "/media/mangopay/mangopay-life.webp",
-        "alt": "What's life at Mangopay like?"
-      }
-    },
-    {
-      "_template": "oneImage",
-      "image": {
         "src": "/media/mangopay/mangopay-9.webp",
         "alt": "Mangopay 9"
       }
