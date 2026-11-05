@@ -4,8 +4,8 @@
   "draft": false,
   "navigationLogo": "/media/cupra-raval/nav-logo.svg",
   "heroImage": {
-    "src": "/media/cupra-raval/raval-1.webp",
-    "alt": "Raval 1"
+    "src": "/media/cupra-raval/cupra-raval-film.mp4",
+    "alt": "Cupra Raval film"
   },
   "intro": {
     "copy": "Barcelona's Raval is a collision of cultures, languages and identities. Naming a car after it called for something more interesting than a conventional automotive campaign.\n\nWe created a typographic language where every letter has a different personality, reflecting the diversity of the streets that inspired it. The identity shifts between expressive and minimal, analogue and digital, always grounded in the raw energy of the neighbourhood.",
@@ -21,8 +21,8 @@
     {
       "_template": "oneImage",
       "image": {
-        "src": "/media/cupra-raval/cupra-raval-film.mp4",
-        "alt": "Cupra Raval film"
+        "src": "/media/cupra-raval/raval-1.webp",
+        "alt": "Raval 1"
       }
     },
     {
