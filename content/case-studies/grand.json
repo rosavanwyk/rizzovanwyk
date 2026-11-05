@@ -262,8 +262,15 @@
     {
       "_template": "oneImage",
       "image": {
-        "src": "/media/grand/a44.webp",
-        "alt": "Grand case study panel A44"
+        "src": "/media/grand/grand-compliance.webp",
+        "alt": "Grand platform: from complex compliance to continuous intelligence"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/grand/grand-profile.webp",
+        "alt": "Grand partner profile score"
       }
     },
     {

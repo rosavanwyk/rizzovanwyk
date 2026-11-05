@@ -1,8 +1,4 @@
 {
- "/media/about/about-intro.mp4": {
-  "width": 1440,
-  "height": 884
- },
  "/media/about/about-us-nav.png": {
   "width": 132,
   "height": 102
@@ -4595,10 +4591,6 @@
   "width": 828,
   "height": 482
  },
- "/media/grand/a44.webp": {
-  "width": 2232,
-  "height": 1300
- },
  "/media/grand/a46.w1440.webp": {
   "width": 1440,
   "height": 1125
@@ -4610,6 +4602,10 @@
  "/media/grand/a46.webp": {
   "width": 2232,
   "height": 1744
+ },
+ "/media/grand/grand-compliance.webp": {
+  "width": 2232,
+  "height": 1300
  },
  "/media/grand/grand-construccion-03.mp4": {
   "width": 1080,
@@ -4629,6 +4625,10 @@
  },
  "/media/grand/grand-logo-technology.webp": {
   "width": 1106,
+  "height": 1300
+ },
+ "/media/grand/grand-profile.webp": {
+  "width": 2232,
   "height": 1300
  },
  "/media/grand/nav-logo.svg": {
