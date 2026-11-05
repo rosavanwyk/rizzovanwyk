@@ -641,10 +641,9 @@ export default function PortfolioClient({
   const activeSlug = pathnameSlug
   const activeProject = activeCaseStudy?.slug === activeSlug ? activeCaseStudy : undefined
   const isMenu = !activeSlug
-  const shouldShowContent = !isMenu || showFirstCaseStudyAfterAbout
   const initialVisibleContentSlug = activeSlug || (showFirstCaseStudyAfterAbout ? 'about' : '')
   const [isLight, setIsLight] = useState(false)
-  const [isMobileContentOpen, setIsMobileContentOpen] = useState(shouldShowContent)
+  const [isMobileContentOpen, setIsMobileContentOpen] = useState(!isMenu) // phones land on the project menu at /
   const [isMenuHeaderCompact, setIsMenuHeaderCompact] = useState(retainedSidebarScrollTop > 40)
   const [isContentHeaderVisible, setIsContentHeaderVisible] = useState(true)
   const [visibleContentSlug, setVisibleContentSlug] = useState(initialVisibleContentSlug)
@@ -674,12 +673,12 @@ export default function PortfolioClient({
   }, [])
 
   useEffect(() => {
-    setIsMobileContentOpen(shouldShowContent)
+    setIsMobileContentOpen(!isMenu)
     setIsContentHeaderVisible(true)
     setVisibleContentSlug(initialVisibleContentSlug)
     lastContentScrollTop.current = 0
     caseStudiesRef.current?.scrollTo({ top: 0 })
-  }, [initialVisibleContentSlug, pathname, shouldShowContent])
+  }, [initialVisibleContentSlug, pathname, isMenu])
 
   const selectPath = (path: string) => {
     setIsMobileContentOpen(true)
