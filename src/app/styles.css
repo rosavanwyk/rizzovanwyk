@@ -244,8 +244,9 @@
 }
 
 .project-button.is-active {
-  background: #141d2a;
-  color: #cac6c4;
+  /* MR_Black_02: case studies use grey when active; blue is only for the studio button */
+  background: #1e1e1e;
+  color: #e9e9e9;
 }
 
 .about-button {
@@ -817,7 +818,7 @@
   position: relative;
   height: 666px;
   overflow: hidden;
-  background: #1a1919;
+  background: #141414;
 }
 
 .hero-marks {
@@ -1000,7 +1001,7 @@
 }
 
 .light-mode .about-hero {
-  background: #e9e9e9;
+  background: #e2dfdf;
 }
 
 .light-mode .about-panel {
