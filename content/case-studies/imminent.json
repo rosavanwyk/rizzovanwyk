@@ -84,6 +84,16 @@
       }
     },
     {
+      "_template": "imageTextLeft",
+      "image": {
+        "src": "/media/imminent/imminent-system-of-reveal.webp",
+        "alt": "Gold-leaf portrait"
+      },
+      "title": "A system of reveal",
+      "subtitle": "One identity. Four states of perception.",
+      "copy": "The image system moves through four distinct states. Each one represents a different relationship between the subject and the viewer. Together, they create a flexible visual language that can move continuously between uncertainty and clarity."
+    },
+    {
       "_template": "oneImage",
       "image": {
         "src": "/media/imminent/imminent-12.webp",

@@ -1643,10 +1643,6 @@
   "width": 2232,
   "height": 1300
  },
- "/media/grand/02.webp": {
-  "width": 2232,
-  "height": 1300
- },
  "/media/grand/04.webp": {
   "width": 1106,
   "height": 1520
@@ -1665,10 +1661,6 @@
  },
  "/media/grand/08.webp": {
   "width": 2232,
-  "height": 1300
- },
- "/media/grand/09.webp": {
-  "width": 1106,
   "height": 1300
  },
  "/media/grand/10.webp": {
@@ -1787,14 +1779,6 @@
   "width": 2232,
   "height": 1744
  },
- "/media/grand/grand-construccion-01.mp4": {
-  "height": 1222,
-  "width": 1080
- },
- "/media/grand/grand-construccion-01.webm": {
-  "height": 1222,
-  "width": 1080
- },
  "/media/grand/grand-construccion-03.mp4": {
   "width": 1080,
   "height": 1484
@@ -1803,9 +1787,9 @@
   "width": 1920,
   "height": 1080
  },
- "/media/grand/grand.svg": {
-  "width": 52,
-  "height": 43
+ "/media/grand/grand-logo-technology.webp": {
+  "width": 1106,
+  "height": 1300
  },
  "/media/grand/nav-logo.svg": {
   "width": 52,
@@ -2347,9 +2331,9 @@
   "width": 2232,
   "height": 1300
  },
- "/media/imminent/imminent-logos-original-1.svg": {
-  "width": 53,
-  "height": 43
+ "/media/imminent/imminent-system-of-reveal.webp": {
+  "width": 1106,
+  "height": 1520
  },
  "/media/imminent/nav-logo.svg": {
   "width": 53,
@@ -2647,10 +2631,6 @@
   "width": 2232,
   "height": 1300
  },
- "/media/no-woman-no-spice/d1-result.webp": {
-  "width": 2232,
-  "height": 1300
- },
  "/media/no-woman-no-spice/nav-logo.svg": {
   "width": 52,
   "height": 43
@@ -2791,9 +2771,9 @@
   "width": 2232,
   "height": 1300
  },
- "/media/no-woman-no-spice/nwns.svg": {
-  "width": 41,
-  "height": 41
+ "/media/no-woman-no-spice/nwns-hero-v2.webp": {
+  "width": 2232,
+  "height": 1300
  },
  "/media/seat/01-seat.mp4": {
   "height": 656,

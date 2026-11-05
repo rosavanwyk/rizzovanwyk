@@ -16,17 +16,16 @@
     {
       "_template": "oneImage",
       "image": {
-        "src": "/media/grand/02.webp",
-        "alt": "Grand case study panel 02"
+        "src": "/media/grand/grand-construccion-04.mp4",
+        "alt": "Grand wordmark construction"
       }
     },
     {
       "_template": "twoImages",
       "images": [
         {
-          "src": "/media/grand/grand-construccion-01.webm",
-          "alt": "Grand construccion 01",
-          "mp4Fallback": "/media/grand/grand-construccion-01.mp4"
+          "src": "/media/grand/grand-construccion-03.mp4",
+          "alt": "Grand symbol construction"
         },
         {
           "src": "/media/grand/04.webp",
@@ -65,8 +64,8 @@
       "_template": "twoImages",
       "images": [
         {
-          "src": "/media/grand/09.webp",
-          "alt": "Grand case study panel 09"
+          "src": "/media/grand/grand-logo-technology.webp",
+          "alt": "Grand logo"
         },
         {
           "src": "/media/grand/10.webp",
