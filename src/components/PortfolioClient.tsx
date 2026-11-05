@@ -552,6 +552,33 @@ function CaseStudyView({
   )
 }
 
+/* Plays the work reel once over the About header, then fades away to reveal the header.
+   Never blocks: the page is usable underneath, and it is skipped for reduced motion. */
+function AboutIntroVideo() {
+  const [state, setState] = useState<'playing' | 'done' | 'skipped'>('playing')
+
+  useEffect(() => {
+    if (window.matchMedia?.('(prefers-reduced-motion: reduce)').matches) setState('skipped')
+  }, [])
+
+  if (state === 'skipped') return null
+
+  return (
+    <video
+      className={`about-intro-video ${state === 'done' ? 'is-done' : ''}`}
+      src="/media/about/about-intro.mp4"
+      autoPlay
+      muted
+      playsInline
+      preload="auto"
+      aria-hidden="true"
+      onEnded={() => setState('done')}
+      onError={() => setState('skipped')}
+      onTransitionEnd={() => state === 'done' && setState('skipped')}
+    />
+  )
+}
+
 function AboutPage({ about }: { about: AboutContent }) {
   const f = about.tinaFields || {}
   const portraits = about.portraits
@@ -571,6 +598,7 @@ function AboutPage({ about }: { about: AboutContent }) {
             data-tina-field={portraits.tinaField}
           />
         )}
+        <AboutIntroVideo />
         <div className="hero-statement">
           <span data-tina-field={f.statementLine1}>{about.statementLine1}</span>
           <strong data-tina-field={f.statementLine2}>{about.statementLine2}</strong>
