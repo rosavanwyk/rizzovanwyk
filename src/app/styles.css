@@ -1546,7 +1546,7 @@
   align-self: stretch;
 }
 
-/* Work reel that plays once over the About header, then fades out */
+/* Short work reel that plays once over the About header, then cuts to it */
 .about-intro-video {
   position: absolute;
   inset: 0;
@@ -1555,11 +1555,5 @@
   height: 100%;
   object-fit: cover;
   background: #141414;
-  opacity: 1;
-  transition: opacity 0.9s ease;
   pointer-events: none;
-}
-
-.about-intro-video.is-done {
-  opacity: 0;
 }

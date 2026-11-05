@@ -552,10 +552,10 @@ function CaseStudyView({
   )
 }
 
-/* Plays the work reel once over the About header, then fades away to reveal the header.
+/* Plays the short work reel once over the About header, then cuts straight to the header.
    Never blocks: the page is usable underneath, and it is skipped for reduced motion. */
 function AboutIntroVideo() {
-  const [state, setState] = useState<'playing' | 'done' | 'skipped'>('playing')
+  const [state, setState] = useState<'playing' | 'skipped'>('playing')
 
   useEffect(() => {
     if (window.matchMedia?.('(prefers-reduced-motion: reduce)').matches) setState('skipped')
@@ -565,16 +565,15 @@ function AboutIntroVideo() {
 
   return (
     <video
-      className={`about-intro-video ${state === 'done' ? 'is-done' : ''}`}
+      className="about-intro-video"
       src="/media/about/about-intro.mp4"
       autoPlay
       muted
       playsInline
       preload="auto"
       aria-hidden="true"
-      onEnded={() => setState('done')}
+      onEnded={() => setState('skipped')}
       onError={() => setState('skipped')}
-      onTransitionEnd={() => state === 'done' && setState('skipped')}
     />
   )
 }
