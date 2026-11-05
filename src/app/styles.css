@@ -1549,3 +1549,86 @@
 }
 
 
+
+/* Image + text rows stack on phones and smaller iPads: text first, then the image */
+@media (max-width: 1024px) {
+  .case-study-half-text-row {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+  }
+
+  .case-study-half-text-row--right .case-study-text-panel,
+  .case-study-half-text-row--left .case-study-text-panel {
+    grid-column: 1;
+    grid-row: 1;
+    aspect-ratio: auto;
+    min-height: 0;
+  }
+
+  .case-study-half-text-row .grand-panel,
+  .case-study-half-text-row--left .grand-panel {
+    grid-column: 1;
+    grid-row: 2;
+    height: auto;
+    aspect-ratio: 0.85 !important;
+  }
+}
+
+/* Small desktops and large iPads (1025–1366px) keep the two-column layout.
+   Panels grow with their text instead of keeping a fixed shape, so nothing gets
+   squeezed thin and long. Phones and smaller iPads (up to 1024px) stack. */
+@media (min-width: 1025px) and (max-width: 1366px) {
+  .about-panels,
+  .grand-panel-group--split,
+  .grand-panel-group--half,
+  .grand-text-panels,
+  .bird-text-row,
+  .bird-tall-row,
+  .nwns-text-row,
+  .case-study-intro,
+  .case-study-half-text-row {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .case-study-intro {
+    grid-auto-rows: auto;
+    gap: 10px;
+  }
+
+  .case-study-intro > .case-study-text-panel:first-child,
+  .case-study-intro > .case-study-text-panel + .case-study-text-panel {
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .case-study-text-panel--intro {
+    aspect-ratio: auto;
+    min-height: 220px;
+  }
+
+  .case-study-half-text-row--right .case-study-text-panel {
+    grid-column: 2;
+    grid-row: 1;
+  }
+
+  .case-study-half-text-row--left .case-study-text-panel {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .case-study-half-text-row--right .grand-panel {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .case-study-half-text-row--left .grand-panel {
+    grid-column: 2;
+    grid-row: 1;
+  }
+
+  /* Keep the tall shape, but let long copy grow the panel rather than clip */
+  .case-study-text-panel--half {
+    aspect-ratio: 1106 / 1520;
+    min-height: auto;
+  }
+}
