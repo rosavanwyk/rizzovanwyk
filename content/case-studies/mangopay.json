@@ -49,17 +49,23 @@
       }
     },
     {
-      "_template": "oneImage",
-      "image": {
-        "src": "/media/mangopay/mangopay-7.webp",
-        "alt": "Mangopay 7"
-      }
+      "_template": "twoImages",
+      "images": [
+        {
+          "src": "/media/mangopay/flujo-radial-brand.mp4",
+          "alt": "Radial flow animation, brand colours"
+        },
+        {
+          "src": "/media/mangopay/flujo-radial-image.mp4",
+          "alt": "Radial flow animation, image colours"
+        }
+      ]
     },
     {
       "_template": "oneImage",
       "image": {
-        "src": "/media/mangopay/mangopay-20.webp",
-        "alt": "Mangopay 20"
+        "src": "/media/mangopay/mangopay-7.webp",
+        "alt": "Mangopay 7"
       }
     },
     {
@@ -72,8 +78,8 @@
     {
       "_template": "oneImage",
       "image": {
-        "src": "/media/mangopay/mangopay-19.webp",
-        "alt": "Mangopay 19"
+        "src": "/media/mangopay/mangopay-life.webp",
+        "alt": "What's life at Mangopay like?"
       }
     },
     {
@@ -81,6 +87,13 @@
       "image": {
         "src": "/media/mangopay/mangopay-9.webp",
         "alt": "Mangopay 9"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/mangopay/mangopay-animation.mp4",
+        "alt": "Mangopay dashboard animation"
       }
     },
     {
@@ -144,6 +157,20 @@
       "image": {
         "src": "/media/mangopay/mangopay-18.webp",
         "alt": "Mangopay 18"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/mangopay/mangopay-19.webp",
+        "alt": "Mangopay 19"
+      }
+    },
+    {
+      "_template": "oneImage",
+      "image": {
+        "src": "/media/mangopay/mangopay-20.webp",
+        "alt": "Mangopay 20"
       }
     }
   ],
