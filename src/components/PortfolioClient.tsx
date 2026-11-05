@@ -154,6 +154,33 @@ function CmsMedia({
     return () => observer.disconnect()
   }, [eager, media.height, media.url, media.width])
 
+  // Phones only autoplay a video if it is definitely muted, and some (e.g. iPhone
+  // Low Power Mode, in-app browsers) still refuse. Force the mute, start it
+  // ourselves, and retry on the visitor's first touch so no play button shows.
+  useEffect(() => {
+    const video = videoRef.current
+    if (!video) return
+    video.muted = true
+    video.defaultMuted = true
+    video.setAttribute('muted', '')
+    video.setAttribute('playsinline', '')
+    const tryPlay = () => {
+      if (video.paused) video.play().catch(() => {})
+    }
+    tryPlay()
+    video.addEventListener('loadeddata', tryPlay)
+    video.addEventListener('canplay', tryPlay)
+    const onFirstTouch = () => tryPlay()
+    window.addEventListener('touchstart', onFirstTouch, { passive: true })
+    window.addEventListener('scroll', onFirstTouch, { passive: true, capture: true })
+    return () => {
+      video.removeEventListener('loadeddata', tryPlay)
+      video.removeEventListener('canplay', tryPlay)
+      window.removeEventListener('touchstart', onFirstTouch)
+      window.removeEventListener('scroll', onFirstTouch, { capture: true })
+    }
+  }, [media.url, shouldPrefetch])
+
   useEffect(() => {
     if (imageRef.current?.complete || (videoRef.current?.readyState ?? 0) >= 2) {
       setIsLoaded(true)

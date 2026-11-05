@@ -1647,3 +1647,11 @@
     text-wrap: wrap;
   }
 }
+
+/* Never show the browser's own play button over looping videos */
+video.grand-panel-image::-webkit-media-controls,
+video.grand-panel-image::-webkit-media-controls-start-playback-button,
+video.grand-panel-image::-webkit-media-controls-overlay-play-button {
+  display: none !important;
+  -webkit-appearance: none;
+}
