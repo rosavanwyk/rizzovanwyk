@@ -83,12 +83,7 @@ function IntroText({ project }: { project: CaseStudy }) {
     >
       <article className="case-study-text-panel case-study-text-panel--intro case-study-text-panel--lead">
         <h2>
-          <strong>
-            <span data-tina-field={project.tinaFields?.introTitle}>{project.intro.title}</span>
-            {project.intro.year ? (
-              <span data-tina-field={project.tinaFields?.introYear}> {project.intro.year}</span>
-            ) : null}
-          </strong>
+          <strong data-tina-field={project.tinaFields?.introTitle}>{project.intro.title}</strong>
         </h2>
         {project.intro.services && project.intro.services.length > 0 ? (
           <ul className="case-study-intro-services" data-tina-field={project.tinaFields?.introServices}>

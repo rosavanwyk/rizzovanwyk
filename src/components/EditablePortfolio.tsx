@@ -100,7 +100,6 @@ function toCaseStudy(doc: Json | null | undefined, dims: Dimensions): CaseStudy 
       title: doc.intro?.title ?? '',
       subtitle: doc.intro?.subtitle ?? '',
       copy: doc.intro?.copy ?? '',
-      year: doc.intro?.year ?? '',
       services: (doc.intro?.services ?? []).filter(Boolean),
     },
     tinaFields: {
@@ -108,7 +107,6 @@ function toCaseStudy(doc: Json | null | undefined, dims: Dimensions): CaseStudy 
       introTitle: field(doc.intro, 'title'),
       introSubtitle: field(doc.intro, 'subtitle'),
       introCopy: field(doc.intro, 'copy'),
-      introYear: field(doc.intro, 'year'),
       introServices: field(doc.intro, 'services'),
       credits: field(doc, 'credits'),
     },
