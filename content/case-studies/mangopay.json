@@ -8,53 +8,54 @@
     "alt": "Mangopay 1"
   },
   "intro": {
-    "copy": "Payments infrastructure is complicated. Using it shouldn't be. At Mangopay, the challenge was to make sophisticated financial services easier to understand and navigate without compromising the regulatory requirements behind them. The work spanned customer onboarding, identity verification and product communications, simplifying complex journeys and making technical subjects more accessible. Clearer interactions, more intuitive experiences and a visual language that helped make the invisible machinery of payments understandable.",
     "title": "Mangopay",
     "subtitle": "Making complex payments simple.",
+    "copy": "Payments infrastructure is complicated. Using it shouldn't be. At Mangopay, the challenge was to make sophisticated financial services easier to understand and navigate, without compromising the regulatory requirements behind them.\n\nThe work spanned product experience, customer onboarding, identity verification and product communications. From simplifying complex journeys to establishing a clearer visual language, the focus was on making payments infrastructure more intuitive, accessible and consistent across every touchpoint.",
     "services": [
-      "Visual Identity",
-      "Art Direction",
-      "Branding"
+      "Product Strategy",
+      "UX/UI Design ",
+      "Product Marketing",
+      "Brand & Visual Identity",
+      "Creative Direction"
     ]
   },
   "blocks": [
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-2.webp",
         "alt": "Mangopay 2"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-3.webp",
         "alt": "Mangopay 3"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-4.webp",
         "alt": "Mangopay 4"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-5.webp",
         "alt": "Mangopay 5"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-6.webp",
         "alt": "Mangopay 6"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/mangopay/flujo-radial-brand.mp4",
@@ -64,112 +65,113 @@
           "src": "/media/mangopay/flujo-radial-image.mp4",
           "alt": "Radial flow animation, image colours"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-7.webp",
         "alt": "Mangopay 7"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-8.webp",
         "alt": "Mangopay 8"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-9.webp",
         "alt": "Mangopay 9"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-animation.mp4",
         "alt": "Mangopay dashboard animation"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-10.webp",
         "alt": "Mangopay 10"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-11.webp",
         "alt": "Mangopay 11"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-12.webp",
         "alt": "Mangopay 12"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-13.webp",
         "alt": "Mangopay 13"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-14.webp",
         "alt": "Mangopay 14"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-15.webp",
         "alt": "Mangopay 15"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-16.webp",
         "alt": "Mangopay 16"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-17.webp",
         "alt": "Mangopay 17"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-18.webp",
         "alt": "Mangopay 18"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-19.webp",
         "alt": "Mangopay 19"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/mangopay/mangopay-20.webp",
         "alt": "Mangopay 20"
-      }
+      },
+      "_template": "oneImage"
     }
   ],
   "credits": [
