@@ -77,7 +77,7 @@ const withFullStop = (value: string) => {
 function IntroText({ project }: { project: CaseStudy }) {
   return (
     <section
-      className="case-study-intro"
+      className="case-study-intro case-study-intro--lead"
       aria-label={`${project.title} introduction`}
       data-text-block="INTRO TEXT"
     >

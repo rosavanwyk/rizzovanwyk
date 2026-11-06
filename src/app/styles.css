@@ -1682,3 +1682,15 @@ video.grand-panel-image::-webkit-media-controls-overlay-play-button {
   margin-top: auto;
   padding-top: 24px;
 }
+
+/* The opening pair stays as two separate boxes on phones and small tablets */
+@media (max-width: 1024px) {
+  .case-study-intro.case-study-intro--lead {
+    gap: 10px;
+  }
+
+  .case-study-intro.case-study-intro--lead > .case-study-text-panel {
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+}
