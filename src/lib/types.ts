@@ -31,7 +31,7 @@ export type CaseStudyNavigationItem = {
 }
 
 export type CaseStudy = CaseStudyNavigationItem & {
-  intro: TextFields
+  intro: TextFields & { year?: string; services?: string[] }
   blocks: CaseStudyBlock[]
   credits: Array<{ id: string; name: string; roles: Array<{ id: string; role: string }>; tinaField?: string }>
 }

@@ -175,7 +175,11 @@ export default defineConfig({
             name: 'intro',
             label: 'Intro',
             type: 'object',
-            fields: textFields,
+            fields: [
+              ...textFields,
+              { name: 'year', label: 'Year (shown after the title)', type: 'string' },
+              { name: 'services', label: 'Services (bottom of the first box)', type: 'string', list: true },
+            ],
           },
           {
             name: 'blocks',

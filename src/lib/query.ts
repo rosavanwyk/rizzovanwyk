@@ -39,7 +39,7 @@ query page($relativePath: String!) {
     draft
     navigationLogo
     heroImage { ${mediaFields} }
-    intro { title subtitle copy }
+    intro { title subtitle copy year services }
     blocks {
       __typename
       ... on CaseStudyBlocksOneImage { image { ${mediaFields} } }

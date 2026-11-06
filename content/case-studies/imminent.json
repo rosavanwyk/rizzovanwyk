@@ -10,7 +10,12 @@
   "intro": {
     "copy": "Imminent is a creative agency named after the moment just before something happens. We turned that sense of anticipation into the identity itself. Blur becomes a visual language of curiosity, controlling how much is revealed and how much remains just out of reach. Four distinct image treatments move between texture, obstruction and near-clarity. An identity that makes the act of discovery part of the experience.",
     "title": "Imminent",
-    "subtitle": "Never fully revealed. Never fully hidden."
+    "subtitle": "Never fully revealed. Never fully hidden.",
+    "services": [
+      "Visual Identity",
+      "Art Direction",
+      "Branding"
+    ]
   },
   "blocks": [
     {

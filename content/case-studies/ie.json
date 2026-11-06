@@ -10,7 +10,12 @@
   "intro": {
     "copy": "A university is never just one thing. Different schools, programmes and audiences need room to express themselves, without losing their connection to the institution. For IE University, we developed a system built around six shared brand principles, including a circle derived from the letterforms of the logo. These common elements create consistency while leaving space for each school to establish its own character. One recognisable institution, with the flexibility to speak in many voices.",
     "title": "IE University",
-    "subtitle": "Many voices. One circle."
+    "subtitle": "Many voices. One circle.",
+    "services": [
+      "Visual Identity",
+      "Art Direction",
+      "Branding"
+    ]
   },
   "blocks": [
     {

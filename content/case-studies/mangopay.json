@@ -10,7 +10,12 @@
   "intro": {
     "copy": "Payments infrastructure is complicated. Using it shouldn't be. At Mangopay, the challenge was to make sophisticated financial services easier to understand and navigate without compromising the regulatory requirements behind them. The work spanned customer onboarding, identity verification and product communications, simplifying complex journeys and making technical subjects more accessible. Clearer interactions, more intuitive experiences and a visual language that helped make the invisible machinery of payments understandable.",
     "title": "Mangopay",
-    "subtitle": "Making complex payments simple."
+    "subtitle": "Making complex payments simple.",
+    "services": [
+      "Visual Identity",
+      "Art Direction",
+      "Branding"
+    ]
   },
   "blocks": [
     {
