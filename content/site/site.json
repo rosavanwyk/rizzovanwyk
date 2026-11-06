@@ -61,25 +61,24 @@
       "alt": "Rosa and Martin"
     },
     "navImage": "/media/about/about-us-nav.png",
+    "navTagline": "Full-stack Design Duo",
     "statementLine1": "BIG THINKING.",
     "statementLine2": "BEAUTIFULLY MADE",
     "aboutTitle": "About us",
     "aboutParagraphs": [
-      "We bring together big-picture thinking and exceptional craft to build and evolve brands, products and experiences.",
-      "We approach creative challenges from different perspectives: Martin through brand, identity and visual culture; Rosa through product and human behaviour. Together, we take projects from strategy and positioning through to execution and launch."
+      "Brand and product usually get built by different teams, and it shows. We bring them together from day one.\n\nWe bring together big-picture thinking and exceptional craft to build and evolve brands, products and experiences, and take projects from strategy and positioning through to execution and launch."
     ],
     "servicesTitle": "Services",
     "services": [
       "Strategy & positioning",
       "Brand thinking",
+      "Behavioural insights",
       "Identity systems",
+      "Product & UX design",
+      "AI & automation",
       "Art direction",
       "Environmental design",
-      "Concepts & prototypes",
-      "Behavioural insights",
-      "Product & UX design",
-      "AI & automation"
-    ],
-    "navTagline": "Full-stack Design Duo"
+      "Concepts & prototypes"
+    ]
   }
 }
