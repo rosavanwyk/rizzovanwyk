@@ -612,7 +612,7 @@ function AboutPage({ about }: { about: AboutContent }) {
         <article className="about-panel">
           <h2 data-tina-field={f.aboutTitle}>{about.aboutTitle}</h2>
           <div className="panel-copy" data-tina-field={f.aboutParagraphs}>
-            {(about.aboutParagraphs || []).map((paragraph, index) => (
+            {(about.aboutParagraphs || []).flatMap((text) => text.split(/\n\s*\n/)).filter((paragraph) => paragraph.trim()).map((paragraph, index) => (
               <p key={index}>{keepShortWordsWithNext(paragraph)}</p>
             ))}
           </div>
