@@ -8,9 +8,9 @@
     "alt": "CIBC 1 result"
   },
   "intro": {
-    "copy": "CIBC set out to modernise its mobile banking app, making everyday banking simpler, more intuitive and accessible for millions of customers.\n\nThrough workshops, customer journey mapping and usability testing, the work focused on simplifying complex banking tasks, improving navigation and creating a more consistent experience.\n\nWorking closely with designers, researchers and CIBC stakeholders, we developed and tested concepts, refined key interactions and established a cohesive design direction for a customer-centred banking experience at scale.",
     "title": "CIBC",
     "subtitle": "Reimagining mobile banking for one of Canada's largest banks.",
+    "copy": "CIBC set out to modernise its mobile banking app, making everyday banking simpler, more intuitive and accessible for millions of customers.\n\nThrough workshops, journey mapping and usability testing, we worked with CIBC’s teams to simplify complex tasks, refine key interactions and establish a cohesive, customer-centred design direction at scale.",
     "services": [
       "Visual Identity",
       "Art Direction",
@@ -19,21 +19,20 @@
   },
   "blocks": [
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cibc/cibc-2-result.webp",
         "alt": "CIBC 2 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cibc/cibc-4-result.webp",
         "alt": "CIBC 4 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/cibc/cibc-6b-result.webp",
@@ -43,24 +42,24 @@
           "src": "/media/cibc/cibc-6a-result.webp",
           "alt": "CIBC 6a result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cibc/cibc-7-result.webp",
         "alt": "CIBC 7 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cibc/cibc-lapel-pin.webp",
         "alt": "CIBC lapel pin"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/cibc/cibc-8b-result.webp",
@@ -70,10 +69,10 @@
           "src": "/media/cibc/cibc-8a-result.webp",
           "alt": "CIBC 8a result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/cibc/cibc-9b-result.webp",
@@ -83,38 +82,38 @@
           "src": "/media/cibc/cibc-9a-result.webp",
           "alt": "CIBC 9a result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cibc/cibc-10-result.webp",
         "alt": "CIBC 10 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cibc/cibc-11-result.webp",
         "alt": "CIBC 11 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cibc/cibc-12-result.webp",
         "alt": "CIBC 12 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cibc/cibc-13-result.webp",
         "alt": "CIBC 13 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/cibc/cibc-14b-result.webp",
@@ -124,10 +123,10 @@
           "src": "/media/cibc/cibc-14a-result.webp",
           "alt": "CIBC 14a result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/cibc/cibc-15b-result.webp",
@@ -137,10 +136,10 @@
           "src": "/media/cibc/cibc-15a-result.webp",
           "alt": "CIBC 15a result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/cibc/cibc-16b-result.webp",
@@ -150,7 +149,8 @@
           "src": "/media/cibc/cibc-16a-result.webp",
           "alt": "CIBC 16a result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     }
   ],
   "credits": [
