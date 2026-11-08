@@ -8,215 +8,216 @@
     "alt": "Cupra Raval film"
   },
   "intro": {
-    "copy": "Barcelona's Raval is a collision of cultures, languages and identities. Naming a car after it called for something more interesting than a conventional automotive campaign.\n\nWe created a typographic language where every letter has a different personality, reflecting the diversity of the streets that inspired it. The identity shifts between expressive and minimal, analogue and digital, always grounded in the raw energy of the neighbourhood.",
     "title": "Cupra Raval",
     "subtitle": "A car with a character of its own.",
+    "copy": "Barcelona's Raval is a collision of cultures, languages and identities. Naming a car after it called for something more interesting than a conventional automotive campaign.\n\nWe created a typographic language where every letter has a different personality, reflecting the diversity of the streets that inspired it. The identity shifts between expressive and minimal, analogue and digital, always grounded in the raw energy of the neighbourhood.",
     "services": [
-      "Visual Identity",
-      "Art Direction",
-      "Branding"
+      "Visual Identity System ",
+      "Custom Typography",
+      "Layout System",
+      "Art Direction"
     ]
   },
   "blocks": [
     {
-      "_template": "twoText",
       "leftText": "Concept",
-      "rightText": "Raval is Not a Font\n\nA neighbourhood where every letter has its accent. Where aesthetics do not seek to please, but to express. Where the real blends with the modern, and the modern does not disguise itself as luxury, but as life.\n\nHere, nothing is uniform. Everything coexists: the digital and the analogue, the curved and the sharp, the classic and the new.\n\nRaval is not ordered.\nIt is felt. It is walked. It is heard.\n\nThis is not design.\nIt is visual territory.\nIt is identity in motion."
+      "rightText": "Raval is Not a Font\n\nA neighbourhood where every letter has its accent. Where aesthetics do not seek to please, but to express. Where the real blends with the modern, and the modern does not disguise itself as luxury, but as life.\n\nHere, nothing is uniform. Everything coexists: the digital and the analogue, the curved and the sharp, the classic and the new.\n\nRaval is not ordered.\nIt is felt. It is walked. It is heard.\n\nThis is not design.\nIt is visual territory.\nIt is identity in motion.",
+      "_template": "twoText"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-1.webp",
         "alt": "Raval 1"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "imageTextLeft",
       "image": {
         "src": "/media/cupra-raval/raval-2.webp",
         "alt": "Cupra Raval symbol variations"
       },
       "title": "Cupra Raval",
       "subtitle": "Symbol",
-      "copy": "The symbol does not present itself as a unique and perfect brand. It behaves like the Raval: it changes, erodes, reconfigures, and retains its essence.\n\nThe base form remains, but its variations express the textures of the neighbourhood: graffiti, improvised signage, wear, intervention, and street life.\n\nA stable sign in structure, variable in expression. A brand that exists in the plural, just like its context."
+      "copy": "The symbol does not present itself as a unique and perfect brand. It behaves like the Raval: it changes, erodes, reconfigures, and retains its essence.\n\nThe base form remains, but its variations express the textures of the neighbourhood: graffiti, improvised signage, wear, intervention, and street life.\n\nA stable sign in structure, variable in expression. A brand that exists in the plural, just like its context.",
+      "_template": "imageTextLeft"
     },
     {
-      "_template": "imageTextRight",
       "image": {
         "src": "/media/cupra-raval/raval-typography.webp",
         "alt": "Raval wordmark"
       },
       "title": "Cupra Raval",
       "subtitle": "Typography",
-      "copy": "The typography is built with the same logic as the neighbourhood:\n\nMultiple origins coexisting in the same space. Each letter corresponds to a different structure to reflect the cultural and visual mix of the Raval. It does not seek uniformity. It embraces contrast, layering, and urban character.\n\nIt is a variable and imperfect system by design: identity in motion, like the territory it represents."
+      "copy": "The typography is built with the same logic as the neighbourhood:\n\nMultiple origins coexisting in the same space. Each letter corresponds to a different structure to reflect the cultural and visual mix of the Raval. It does not seek uniformity. It embraces contrast, layering, and urban character.\n\nIt is a variable and imperfect system by design: identity in motion, like the territory it represents.",
+      "_template": "imageTextRight"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-3.webp",
         "alt": "Raval 3"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-4.webp",
         "alt": "Raval 4"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-5.webp",
         "alt": "Raval 5"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-6.webp",
         "alt": "Raval 6"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-7.webp",
         "alt": "Raval 7"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-8.webp",
         "alt": "Raval 8"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-9.webp",
         "alt": "Raval 9"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-10.webp",
         "alt": "Raval 10"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-11.webp",
         "alt": "Raval 11"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-12.webp",
         "alt": "Raval 12"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-13.webp",
         "alt": "Raval 13"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-14.webp",
         "alt": "Raval 14"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-15.webp",
         "alt": "Raval 15"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-16.webp",
         "alt": "Raval 16"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-17.webp",
         "alt": "Raval 17"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-18.webp",
         "alt": "Raval 18"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-19.webp",
         "alt": "Raval 19"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-20.webp",
         "alt": "Raval 20"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-21.webp",
         "alt": "Raval 21"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-22.webp",
         "alt": "Raval 22"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-23.webp",
         "alt": "Raval 23"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-24.webp",
         "alt": "Raval 24"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-25.webp",
         "alt": "Raval 25"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra-raval/raval-26.webp",
         "alt": "Raval 26"
-      }
+      },
+      "_template": "oneImage"
     }
   ],
   "credits": [
