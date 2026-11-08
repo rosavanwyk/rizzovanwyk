@@ -4,16 +4,19 @@
       "caseStudy": "content/case-studies/cupra.json"
     },
     {
-      "caseStudy": "content/case-studies/ie.json"
-    },
-    {
       "caseStudy": "content/case-studies/albatross.json"
     },
     {
       "caseStudy": "content/case-studies/audi.json"
     },
     {
+      "caseStudy": "content/case-studies/imminent.json"
+    },
+    {
       "caseStudy": "content/case-studies/cupra-raval.json"
+    },
+    {
+      "caseStudy": "content/case-studies/ie.json"
     },
     {
       "caseStudy": "content/case-studies/khamoro.json"
@@ -25,13 +28,13 @@
       "caseStudy": "content/case-studies/bird.json"
     },
     {
+      "caseStudy": "content/case-studies/no-woman-no-spice.json"
+    },
+    {
       "caseStudy": "content/case-studies/cibc.json"
     },
     {
       "caseStudy": "content/case-studies/seat.json"
-    },
-    {
-      "caseStudy": "content/case-studies/imminent.json"
     },
     {
       "caseStudy": "content/case-studies/grand.json"
@@ -44,9 +47,6 @@
     },
     {
       "caseStudy": "content/case-studies/commonsense.json"
-    },
-    {
-      "caseStudy": "content/case-studies/no-woman-no-spice.json"
     },
     {
       "caseStudy": "content/case-studies/fichap.json"
