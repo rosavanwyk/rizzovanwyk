@@ -8,23 +8,24 @@
     "alt": "Ie 1"
   },
   "intro": {
-    "copy": "A university is never just one thing. Different schools, programmes and audiences need room to express themselves, without losing their connection to the institution. For IE University, we developed a system built around six shared brand principles, including a circle derived from the letterforms of the logo. These common elements create consistency while leaving space for each school to establish its own character. One recognisable institution, with the flexibility to speak in many voices.",
     "title": "IE University",
     "subtitle": "Many voices. One circle.",
+    "copy": "A university is never just one thing. Different schools, programmes and audiences need room to express themselves, without losing their connection to the institution. For IE University, we developed a system built around six shared brand principles, including a circle derived from the letterforms of the logo. These common elements create consistency while leaving space for each school to establish its own character. One recognisable institution, with the flexibility to speak in many voices.",
     "services": [
-      "Visual Identity",
-      "Art Direction",
-      "Branding"
+      "Brand System",
+      "Sub-brand Identities",
+      "Colour & Typography Tokens",
+      "Illustration System ",
+      "Grid & Layout"
     ]
   },
   "blocks": [
     {
-      "_template": "twoText",
       "leftText": "The challenge",
-      "rightText": "The primary challenge was to achieve consistent communication across a global institution with multiple departments spread across different regions, with its headquarters in Madrid.\n\nThe task was to identify a brand asset that not only embodied the corporate identity but also possessed the flexibility to be adapted across various applications, ensuring its maximum versatility and effective use in diverse contexts and cultures."
+      "rightText": "The primary challenge was to achieve consistent communication across a global institution with multiple departments spread across different regions, with its headquarters in Madrid.\n\nThe task was to identify a brand asset that not only embodied the corporate identity but also possessed the flexibility to be adapted across various applications, ensuring its maximum versatility and effective use in diverse contexts and cultures.",
+      "_template": "twoText"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-before.webp",
         "alt": "IE University materials before the rebrand",
@@ -33,41 +34,41 @@
           "position": "top",
           "tone": "dark"
         }
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoText",
       "leftText": "Solution",
-      "rightText": "Given that the previous brand identity frequently incorporated the circle and drew upon key elements from the logo—such as the distinctively coloured dot above the letter “i” and the circular form of the lowercase “e”—I determined that the circle should serve as the cornerstone of our brand strategy and identity.\n\nConsequently, the design of all internal identities required by the institution was anchored in the circle, presenting a substantial creative challenge in maintaining brand consistency over the long term."
+      "rightText": "Given that the previous brand identity frequently incorporated the circle and drew upon key elements from the logo—such as the distinctively coloured dot above the letter “i” and the circular form of the lowercase “e”—I determined that the circle should serve as the cornerstone of our brand strategy and identity.\n\nConsequently, the design of all internal identities required by the institution was anchored in the circle, presenting a substantial creative challenge in maintaining brand consistency over the long term.",
+      "_template": "twoText"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-2.webp",
         "alt": "Ie 2"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-logo-animation.mp4",
         "alt": "IE University logo animation"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-4.webp",
         "alt": "Ie 4"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoText",
       "leftText": "Colours",
-      "rightText": "Colour tokens define a palette of colours and their associated values, ensuring that all design elements maintain a uniform and cohesive colour scheme. These tokens are used to ensure brand consistency and create a recognisable and harmonious visual identity across various materials and platforms.\n\nHere we can see both IE main branding colours: good contrast for small text (below 18pt) and great contrast for large text (above 18pt or bold above 14pt)."
+      "rightText": "Colour tokens define a palette of colours and their associated values, ensuring that all design elements maintain a uniform and cohesive colour scheme. These tokens are used to ensure brand consistency and create a recognisable and harmonious visual identity across various materials and platforms.\n\nHere we can see both IE main branding colours: good contrast for small text (below 18pt) and great contrast for large text (above 18pt or bold above 14pt).",
+      "_template": "twoText"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/ie/ie-5.webp",
@@ -77,29 +78,29 @@
           "src": "/media/ie/ie-6.webp",
           "alt": "Ie 6"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-7.webp",
         "alt": "Ie 7"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-8.webp",
         "alt": "Ie 8"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoText",
       "leftText": "Typography",
-      "rightText": "The use and selection of the variables mentioned here should be decided according to the amount of text and optimal reading contrast."
+      "rightText": "The use and selection of the variables mentioned here should be decided according to the amount of text and optimal reading contrast.",
+      "_template": "twoText"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/ie/ie-9.webp",
@@ -109,81 +110,81 @@
           "src": "/media/ie/ie-10.webp",
           "alt": "Ie 10"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-11.webp",
         "alt": "Ie 11"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoText",
       "leftText": "Grid",
-      "rightText": "Create different visual identities so that the IE University brand can adapt itself in order to cover different purposes. Visual identities with different voices, that align between each other and with the IE University brand.\n\nAlthough it is expressed differently depending on the message wanted to be transmitted, it has common factors. Even though the brand has different voices, you always know that it is IE University who is speaking."
+      "rightText": "Create different visual identities so that the IE University brand can adapt itself in order to cover different purposes. Visual identities with different voices, that align between each other and with the IE University brand.\n\nAlthough it is expressed differently depending on the message wanted to be transmitted, it has common factors. Even though the brand has different voices, you always know that it is IE University who is speaking.",
+      "_template": "twoText"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-12.webp",
         "alt": "Ie 12"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-13.webp",
         "alt": "Ie 13"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-14.webp",
         "alt": "Ie 14"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoText",
       "leftText": "Illustration",
-      "rightText": "The approach to illustration focuses on using strokes that convey a more human touch, aiming to counterbalance the inherent rigidity of the circle within the visual identity. However, these illustrations will always be contained and organised through a grid system to ensure visual coherence and balance.\n\nThere are two primary methods for developing the illustrations: the first involves freehand drawing, tailored to the specifications of the relevant brief; the second method is based on an existing image, over which elements or people can be highlighted through drawing. In both cases, only the corporate colours will be used. Below are some examples that demonstrate these approaches."
+      "rightText": "The approach to illustration focuses on using strokes that convey a more human touch, aiming to counterbalance the inherent rigidity of the circle within the visual identity. However, these illustrations will always be contained and organised through a grid system to ensure visual coherence and balance.\n\nThere are two primary methods for developing the illustrations: the first involves freehand drawing, tailored to the specifications of the relevant brief; the second method is based on an existing image, over which elements or people can be highlighted through drawing. In both cases, only the corporate colours will be used. Below are some examples that demonstrate these approaches.",
+      "_template": "twoText"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-15.webp",
         "alt": "Ie 15"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-16.webp",
         "alt": "Ie 16"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-17.webp",
         "alt": "Ie 17"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoText",
       "leftText": "IE Women",
-      "rightText": ""
+      "rightText": "",
+      "_template": "twoText"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-18.webp",
         "alt": "Ie 18"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/ie/ie-19.webp",
@@ -193,71 +194,71 @@
           "src": "/media/ie/ie-20.webp",
           "alt": "Ie 20"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-21.webp",
         "alt": "Ie 21"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-22.webp",
         "alt": "Ie 22"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-23.webp",
         "alt": "Ie 23"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoText",
       "leftText": "IE Rankings",
-      "rightText": ""
+      "rightText": "",
+      "_template": "twoText"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-24.webp",
         "alt": "Ie 24"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-25.webp",
         "alt": "Ie 25"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-26.webp",
         "alt": "Ie 26"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-27.webp",
         "alt": "Ie 27"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-29.webp",
         "alt": "Ie 29"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/ie/ie-31.webp",
@@ -267,15 +268,15 @@
           "src": "/media/ie/ie-30.webp",
           "alt": "Ie 30"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "twoText",
       "leftText": "IE The Next Fifty",
-      "rightText": ""
+      "rightText": "",
+      "_template": "twoText"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/ie/ie-33.webp",
@@ -285,10 +286,10 @@
           "src": "/media/ie/ie-32.webp",
           "alt": "Ie 32"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/ie/ie-35.webp",
@@ -298,10 +299,10 @@
           "src": "/media/ie/ie-34.webp",
           "alt": "Ie 34"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/ie/ie-36.webp",
@@ -311,59 +312,60 @@
           "src": "/media/ie/ie-37.webp",
           "alt": "Ie 37"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-38.webp",
         "alt": "Ie 38"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoText",
       "leftText": "Other identities",
-      "rightText": ""
+      "rightText": "",
+      "_template": "twoText"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-39.webp",
         "alt": "Ie 39"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-40.webp",
         "alt": "Ie 40"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-41.webp",
         "alt": "Ie 41"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-42.webp",
         "alt": "Ie 42"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoText",
       "leftText": "Resume",
-      "rightText": ""
+      "rightText": "",
+      "_template": "twoText"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/ie/ie-resume.webp",
         "alt": "IE University"
-      }
+      },
+      "_template": "oneImage"
     }
   ],
   "credits": [
