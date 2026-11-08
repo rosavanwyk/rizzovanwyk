@@ -74,7 +74,7 @@
     {
       "image": {
         "src": "/media/media/Fichap/Fichap_color_palette_v2.webm",
-        "alt": "Fichap 10 result"
+        "alt": "Fichap Colours"
       },
       "_template": "oneImage"
     },
@@ -85,7 +85,7 @@
     },
     {
       "image": {
-        "src": "/media/fichap/fichap-colour-variants.webp",
+        "src": "/media/media/Fichap/Colorify_color_variants.webm",
         "alt": "Colour variants"
       },
       "_template": "oneImage"
