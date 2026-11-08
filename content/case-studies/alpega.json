@@ -8,217 +8,217 @@
     "alt": "Alpine 1"
   },
   "intro": {
-    "copy": "Not every brand needs to start again. Alpega already had a recognisable symbol; what it needed was a stronger visual language around it. We refined the existing mark and gave its triangular geometry a more active role. The triangle became a device for framing photography, structuring layouts and directing attention. A considered evolution that made more of what the brand already owned.",
     "title": "Alpega",
     "subtitle": "Same symbol, sharper brand.",
+    "copy": "Not every brand needs to start again. Alpega already had a recognisable symbol; what it needed was a stronger visual language around it. We refined the existing mark and gave its triangular geometry a more active role. The triangle became a device for framing photography, structuring layouts and directing attention. A considered evolution that made more of what the brand already owned.",
     "services": [
+      "Rebranding",
       "Visual Identity",
-      "Art Direction",
-      "Branding"
+      "Art Direction"
     ]
   },
   "blocks": [
     {
-      "_template": "imageTextLeft",
       "image": {
         "src": "/media/alpega/alpega-challenge.webp",
         "alt": "Alpega brand before the evolution"
       },
       "title": "Alpega",
       "subtitle": "The challenge",
-      "copy": "Alpega did not need another identity. It needed a sharper expression of the one it already had.\n\nThe challenge was to modernise the brand without losing recognition—and to move beyond the predictable visual codes of logistics.\n\nEvery change needed to create progress without erasing familiarity. New, but unmistakably Alpega."
+      "copy": "Alpega did not need another identity. It needed a sharper expression of the one it already had.\n\nThe challenge was to modernise the brand without losing recognition—and to move beyond the predictable visual codes of logistics.\n\nEvery change needed to create progress without erasing familiarity. New, but unmistakably Alpega.",
+      "_template": "imageTextLeft"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-2.webp",
         "alt": "Alpine 2"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoText",
       "leftText": "The solution",
-      "rightText": "The triangle was already central to Alpega. We gave it a more purposeful role.\n\nMoving beyond repetition and decorative collage, it became a system for framing imagery, shaping layouts and guiding attention. What was once a familiar motif became a sophisticated design principle—clearer, more distinctive and built to scale."
+      "rightText": "The triangle was already central to Alpega. We gave it a more purposeful role.\n\nMoving beyond repetition and decorative collage, it became a system for framing imagery, shaping layouts and guiding attention. What was once a familiar motif became a sophisticated design principle—clearer, more distinctive and built to scale.",
+      "_template": "twoText"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-3.webp",
         "alt": "Alpine 3"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-4.webp",
         "alt": "Alpine 4"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoText",
       "leftText": "A familiar shape became a flexible visual language.",
-      "rightText": ""
+      "rightText": "",
+      "_template": "twoText"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-6.webp",
         "alt": "Alpine 6"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-7.webp",
         "alt": "Alpine 7"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-8.webp",
         "alt": "Alpine 8"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-9.webp",
         "alt": "Alpine 9"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-10.webp",
         "alt": "Alpine 10"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-11.webp",
         "alt": "Alpine 11"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpega-logotype-motion.mp4",
         "alt": "Alpega logotype in motion"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-13.webp",
         "alt": "Alpine 13"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-14.webp",
         "alt": "Alpine 14"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-15.webp",
         "alt": "Alpine 15"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-16.webp",
         "alt": "Alpine 16"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-17.webp",
         "alt": "Alpine 17"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-18.webp",
         "alt": "Alpine 18"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpega-icons.webp",
         "alt": "Alpega icon set"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-20.webp",
         "alt": "Alpine 20"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-21.webp",
         "alt": "Alpine 21"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-22.webp",
         "alt": "Alpine 22"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-23.webp",
         "alt": "Alpine 23"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-24.webp",
         "alt": "Alpine 24"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-25.webp",
         "alt": "Alpine 25"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-27.webp",
         "alt": "Alpine 27"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-28.webp",
         "alt": "Alpine 28"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/alpega/alpine-29.webp",
         "alt": "Alpine 29"
-      }
+      },
+      "_template": "oneImage"
     }
   ],
   "credits": [
