@@ -8,253 +8,254 @@
     "alt": "No Woman No Spice"
   },
   "intro": {
-    "copy": "Behind every spice is a story. Too often, the women growing it are missing from the picture. For a Canadian company sourcing spices from women farmers in East Africa, we made those women the centre of the brand. Patterns inspired by scarves sent by the growers sit alongside bold portraits, connecting the product on the kitchen shelf to the people and places behind it. Packaging that makes the origin of every flavour impossible to overlook.",
     "title": "No Women. No Spice.",
     "subtitle": "Putting women at the heart of the spice trade.",
+    "copy": "Behind every spice is a story. Too often, the women growing it are missing from the picture. For a Canadian company sourcing spices from women farmers in East Africa, we made those women the centre of the brand. Patterns inspired by scarves sent by the growers sit alongside bold portraits, connecting the product on the kitchen shelf to the people and places behind it. Packaging that makes the origin of every flavour impossible to overlook.",
     "services": [
-      "Visual Identity",
-      "Art Direction",
-      "Branding"
+      "Visual Identity System",
+      "Packaging Design",
+      "Pattern Design ",
+      "Portrait Art Direction"
     ]
   },
   "blocks": [
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-tea-picking.mp4",
         "alt": "Spice farmer picking leaves on a hillside farm"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-2.webp",
         "alt": "NWNS 2"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-3.webp",
         "alt": "NWNS 3"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-4.webp",
         "alt": "NWNS 4"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-5.webp",
         "alt": "NWNS 5"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-6.webp",
         "alt": "NWNS 6"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-7.webp",
         "alt": "NWNS 7"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-8.webp",
         "alt": "NWNS 8"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-9.webp",
         "alt": "NWNS 9"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-10.webp",
         "alt": "NWNS 10"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-11.webp",
         "alt": "NWNS 11"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-12.webp",
         "alt": "NWNS 12"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-13.webp",
         "alt": "NWNS 13"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-path.mp4",
         "alt": "Spice farmer walking between the plants"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-15.webp",
         "alt": "NWNS 15"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-16.webp",
         "alt": "NWNS 16"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-17.webp",
         "alt": "NWNS 17"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-18.webp",
         "alt": "NWNS 18"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-19.webp",
         "alt": "NWNS 19"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-21.webp",
         "alt": "NWNS 21"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-22.webp",
         "alt": "NWNS 22"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-23.webp",
         "alt": "NWNS 23"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-24.webp",
         "alt": "NWNS 24"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-25.webp",
         "alt": "NWNS 25"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-26.webp",
         "alt": "NWNS 26"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-27.webp",
         "alt": "NWNS 27"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-28.webp",
         "alt": "NWNS 28"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-29.webp",
         "alt": "NWNS 29"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-30.webp",
         "alt": "NWNS 30"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-31.webp",
         "alt": "NWNS 31"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-32.webp",
         "alt": "NWNS 32"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-33.webp",
         "alt": "NWNS 33"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-34.webp",
         "alt": "NWNS 34"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/no-woman-no-spice/nwns-35.webp",
         "alt": "NWNS 35"
-      }
+      },
+      "_template": "oneImage"
     }
   ],
   "credits": [
