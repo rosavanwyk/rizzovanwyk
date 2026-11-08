@@ -33,7 +33,7 @@
     },
     {
       "image": {
-        "src": "/media/cupra-raval/raval-2.webp",
+        "src": "/media/media/CUPRA_glitch.webm",
         "alt": "Cupra Raval symbol variations"
       },
       "title": "Cupra Raval",
@@ -53,7 +53,7 @@
     },
     {
       "image": {
-        "src": "/media/cupra-raval/raval-3.webp",
+        "src": "/media/media/RAVAL_glitch.webm",
         "alt": "Raval 3"
       },
       "_template": "oneImage"
