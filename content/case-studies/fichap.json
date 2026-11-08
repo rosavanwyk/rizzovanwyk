@@ -465,5 +465,15 @@
       "_template": "twoImages"
     }
   ],
-  "credits": []
+  "credits": [
+    {
+      "name": "Martin Rizzo",
+      "roles": [
+        "Brand Evolution",
+        "Graphic Language",
+        "Typography",
+        "Data Visualisation"
+      ]
+    }
+  ]
 }
