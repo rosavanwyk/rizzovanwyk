@@ -8,25 +8,26 @@
     "alt": "CUPRA brand film"
   },
   "intro": {
-    "copy": "A distinctive identity doesn't need endless elements. It needs one powerful idea. Hidden in the geometry of CUPRA's symbol, we found a triangle that could become the foundation for an entire visual language. From layouts and iconography to campaigns across markets, every element follows the same underlying principle. A simple shape with the power to hold a whole brand together.",
     "title": "CUPRA",
     "subtitle": "One symbol. An entire visual world.",
+    "copy": "A distinctive identity doesn't need endless elements. It needs one powerful idea. Hidden in the geometry of CUPRA's symbol, we found a triangle that could become the foundation for an entire visual language. From layouts and iconography to campaigns across markets, every element follows the same underlying principle. A simple shape with the power to hold a whole brand together.",
     "services": [
-      "Visual Identity",
-      "Art Direction",
-      "Branding"
+      "Symbol Construction",
+      "Visual Identity System",
+      "Campaign Design",
+      "Layout System",
+      "Iconography"
     ]
   },
   "blocks": [
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-2-result.webp",
         "alt": "Cupra 2 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/cupra/cupra-3-result.webp",
@@ -36,10 +37,10 @@
           "src": "/media/cupra/cupra-4-result.webp",
           "alt": "Cupra 4 result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/cupra/icons-cupra.mp4",
@@ -49,31 +50,31 @@
           "src": "/media/cupra/cupra-6-result.webp",
           "alt": "Cupra 6 result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-7-result-v2.webp",
         "alt": "Cupra 7 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/26-cupra-tavascan.mp4",
         "alt": "26 Cupra Tavascan"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-9-result-v2.webp",
         "alt": "Cupra 9 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/cupra/cupra-10-result-v2.webp",
@@ -83,10 +84,10 @@
           "src": "/media/cupra/cupra-11-result-v2.webp",
           "alt": "Cupra 11 result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/cupra/cupra-12-result.webp",
@@ -96,106 +97,106 @@
           "src": "/media/cupra/cupra-13-result.webp",
           "alt": "Cupra 13 result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-16-result.webp",
         "alt": "Cupra 16 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-17-result.webp",
         "alt": "Cupra 17 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-18-result.webp",
         "alt": "Cupra 18 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-19-result.webp",
         "alt": "Cupra 19 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-ci-layout.mp4",
         "alt": "CUPRA Tavascan layout system in motion"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-20-result.webp",
         "alt": "Cupra 20 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-21-result.webp",
         "alt": "Cupra 21 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-22-result-v2.webp",
         "alt": "Cupra 22 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-23-result-v2.webp",
         "alt": "Cupra 23 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-24-result-v2.webp",
         "alt": "Cupra 24 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-25-result-v2.webp",
         "alt": "Cupra 25 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoText",
       "leftText": "Process construction",
-      "rightText": "By combining the aforementioned constants and adding certain features such as the circle and the cut to shape 04, the end result is the creation of the pictogram."
+      "rightText": "By combining the aforementioned constants and adding certain features such as the circle and the cut to shape 04, the end result is the creation of the pictogram.",
+      "_template": "twoText"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-26-result-v2.webp",
         "alt": "Cupra 26 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-27-result.webp",
         "alt": "Cupra 27 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/cupra/cupra-28-result-v2.webp",
@@ -205,38 +206,38 @@
           "src": "/media/cupra/cupra-29-result-v2.webp",
           "alt": "Cupra 29 result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-30-result-v2.webp",
         "alt": "Cupra 30 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-31-result.webp",
         "alt": "Cupra 31 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-32-result.webp",
         "alt": "Cupra 32 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-33-result-v2.webp",
         "alt": "Cupra 33 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/cupra/cupra-34-result.webp",
@@ -246,10 +247,10 @@
           "src": "/media/cupra/cupra-35-result.webp",
           "alt": "Cupra 35 result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/cupra/cupra-36-result.webp",
@@ -259,21 +260,22 @@
           "src": "/media/cupra/cupra-37-result.webp",
           "alt": "Cupra 37 result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-38-result.webp",
         "alt": "Cupra 38 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/cupra/cupra-39-result.webp",
         "alt": "Cupra 39 result"
-      }
+      },
+      "_template": "oneImage"
     }
   ],
   "credits": [
