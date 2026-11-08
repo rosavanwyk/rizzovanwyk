@@ -4,25 +4,31 @@
       "caseStudy": "content/case-studies/cupra.json"
     },
     {
-      "caseStudy": "content/case-studies/seat.json"
-    },
-    {
-      "caseStudy": "content/case-studies/mangopay.json"
-    },
-    {
-      "caseStudy": "content/case-studies/audi.json"
+      "caseStudy": "content/case-studies/ie.json"
     },
     {
       "caseStudy": "content/case-studies/albatross.json"
     },
     {
-      "caseStudy": "content/case-studies/cibc.json"
+      "caseStudy": "content/case-studies/audi.json"
     },
     {
       "caseStudy": "content/case-studies/cupra-raval.json"
     },
     {
       "caseStudy": "content/case-studies/khamoro.json"
+    },
+    {
+      "caseStudy": "content/case-studies/mangopay.json"
+    },
+    {
+      "caseStudy": "content/case-studies/bird.json"
+    },
+    {
+      "caseStudy": "content/case-studies/cibc.json"
+    },
+    {
+      "caseStudy": "content/case-studies/seat.json"
     },
     {
       "caseStudy": "content/case-studies/imminent.json"
@@ -34,13 +40,7 @@
       "caseStudy": "content/case-studies/imab.json"
     },
     {
-      "caseStudy": "content/case-studies/bird.json"
-    },
-    {
       "caseStudy": "content/case-studies/alpega.json"
-    },
-    {
-      "caseStudy": "content/case-studies/ie.json"
     },
     {
       "caseStudy": "content/case-studies/commonsense.json"
