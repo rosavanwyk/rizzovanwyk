@@ -8,144 +8,145 @@
     "alt": "C1 result"
   },
   "intro": {
-    "copy": "Bird is a self-initiated exploration of the possibilities hidden in simple geometry. Free from a fixed meaning or function, its shapes move between graphic design and physical objects, becoming prints, textiles, lighting and games.\n\nAn open-ended visual system designed to move beyond the screen and into the physical world. We're looking for the right production partner to bring it to life.",
     "title": "Bird",
     "subtitle": "From simple shapes to endless expression.",
+    "copy": "Bird is a self-initiated exploration of the possibilities hidden in simple geometry. Free from a fixed meaning or function, its shapes move between graphic design and physical objects, becoming prints, textiles, lighting and games.\n\nAn open-ended visual system designed to move beyond the screen and into the physical world. We're looking for the right production partner to bring it to life.",
     "services": [
-      "Visual Identity",
-      "Art Direction",
-      "Branding"
+      "Branding",
+      "Illustration",
+      "Geometry ",
+      "Product"
     ]
   },
   "blocks": [
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/bird/bird-2.webp",
         "alt": "Bird 2"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/bird/bird-3.webp",
         "alt": "Bird 3"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/bird/bird-4.webp",
         "alt": "Bird 4"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "imageTextLeft",
       "image": {
         "src": "/media/bird/bird-5.webp",
         "alt": "Bird 5"
       },
       "title": "Bird",
       "subtitle": "An identity designed to take many forms.",
-      "copy": "Built from fluid letterforms and bold geometric shapes, Bird's identity transforms a simple wordmark into a distinctive visual language.\n\nEach letter becomes a graphic element in its own right, creating a modular system that can be rearranged, repeated and scaled across digital, print, textiles and physical spaces.\n\nThe result is an expressive, contemporary identity that remains instantly recognisable, however it takes shape."
+      "copy": "Built from fluid letterforms and bold geometric shapes, Bird's identity transforms a simple wordmark into a distinctive visual language.\n\nEach letter becomes a graphic element in its own right, creating a modular system that can be rearranged, repeated and scaled across digital, print, textiles and physical spaces.\n\nThe result is an expressive, contemporary identity that remains instantly recognisable, however it takes shape.",
+      "_template": "imageTextLeft"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/bird/bird-6.webp",
         "alt": "Bird 6"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/bird/bird-7.webp",
         "alt": "Bird 7"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/bird/bird-8.webp",
         "alt": "Bird 8"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/bird/bird-9.webp",
         "alt": "Bird 9"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/bird/bird-10.webp",
         "alt": "Bird 10"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/bird/bird-11.webp",
         "alt": "Bird 11"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/bird/bird-12.webp",
         "alt": "Bird 12"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/bird/bird-13.webp",
         "alt": "Bird 13"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/bird/bird-14.webp",
         "alt": "Bird 14"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/bird/bird-15.webp",
         "alt": "Bird 15"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/bird/bird-16.webp",
         "alt": "Bird 16"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/bird/bird-17.webp",
         "alt": "Bird 17"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/bird/bird-18.webp",
         "alt": "Bird 18"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/bird/bird-19.webp",
         "alt": "Bird 19"
-      }
+      },
+      "_template": "oneImage"
     }
   ],
   "credits": [
