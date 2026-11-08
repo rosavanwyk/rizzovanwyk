@@ -8,35 +8,36 @@
     "alt": "Khamoro case study panel B1"
   },
   "intro": {
-    "copy": "Khamoro means sun in Romani. For Prague's World Roma Festival, we wanted an identity that expressed the richness and movement of the culture itself. Inspired by the folds, forms and rhythm of traditional Romani dress, we redrew the festival's lettering into a distinctive visual language. Individual characters become patterns, compositions and bold graphic statements. A system that can change endlessly without losing its identity.",
     "title": "Khamoro",
     "subtitle": "An identity drawn from Romani dress.",
+    "copy": "Khamoro means sun in Romani. For Prague's World Roma Festival, we wanted an identity that expressed the richness and movement of the culture itself. Inspired by the folds, forms and rhythm of traditional Romani dress, we redrew the festival's lettering into a distinctive visual language. Individual characters become patterns, compositions and bold graphic statements. A system that can change endlessly without losing its identity.",
     "services": [
-      "Visual Identity",
-      "Art Direction",
-      "Branding"
+      "Visual Identity System",
+      "Custom Logotype",
+      "Art direction",
+      " Social media Applications",
+      "Environmental Applications"
     ]
   },
   "blocks": [
     {
-      "_template": "imageTextRight",
       "image": {
         "src": "/media/khamoro/khamoro-2.webp",
         "alt": "Khamoro 2"
       },
       "title": "Khamoro 2026",
       "subtitle": "The Logotype",
-      "copy": "The Khamoro logotype takes inspiration from the movement, volume and flowing silhouettes found in Romani dress and performance. Folds and curves are abstracted into custom letterforms, connecting the identity to its cultural context without relying on literal symbols."
+      "copy": "The Khamoro logotype takes inspiration from the movement, volume and flowing silhouettes found in Romani dress and performance. Folds and curves are abstracted into custom letterforms, connecting the identity to its cultural context without relying on literal symbols.",
+      "_template": "imageTextRight"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/khamoro-logo-construccion-v5.mp4",
         "alt": "Khamoro logo construction"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/khamoro/04a.webp",
@@ -46,20 +47,20 @@
           "src": "/media/khamoro/04b.webp",
           "alt": "04b"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "imageTextLeft",
       "image": {
         "src": "/media/khamoro/05b.webp",
         "alt": "KHA MO RO lettering"
       },
       "title": "Khamoro 2026",
       "subtitle": "Versatility and modern abstraction",
-      "copy": "Built from fluid letterforms and repeatable modules, the system can expand across print, digital, textiles and spatial applications. Its abstract language preserves cultural resonance without reducing it to a single literal image."
+      "copy": "Built from fluid letterforms and repeatable modules, the system can expand across print, digital, textiles and spatial applications. Its abstract language preserves cultural resonance without reducing it to a single literal image.",
+      "_template": "imageTextLeft"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/khamoro/06a-graphic.webp",
@@ -76,10 +77,10 @@
           "src": "/media/khamoro/06b.webp",
           "alt": "06b"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/khamoro/07a-v2.webp",
@@ -96,10 +97,10 @@
             "background": "#e9e9e9"
           }
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/khamoro/08a-graphic.webp",
@@ -116,34 +117,34 @@
           "src": "/media/khamoro/08b-v2.webp",
           "alt": ""
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/09.webp",
         "alt": "09"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/10.webp",
         "alt": "10"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "imageTextLeft",
       "image": {
         "src": "/media/khamoro/khamoro-palette.mp4",
         "alt": "Khamoro colour palette animation"
       },
       "title": "Khamoro 2026",
       "subtitle": "Colour system",
-      "copy": "Red anchors Khamoro's identity, while black and white provide a neutral foundation for clarity and contrast. Pink, orange, yellow and cyan extend the palette into a more expressive register, allowing the system to shift in tone and intensity across different contexts. Colour can change; recognition remains rooted in the custom letterforms, graphic forms and typographic structure."
+      "copy": "Red anchors Khamoro's identity, while black and white provide a neutral foundation for clarity and contrast. Pink, orange, yellow and cyan extend the palette into a more expressive register, allowing the system to shift in tone and intensity across different contexts. Colour can change; recognition remains rooted in the custom letterforms, graphic forms and typographic structure.",
+      "_template": "imageTextLeft"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/khamoro/12a.webp",
@@ -153,106 +154,106 @@
           "src": "/media/khamoro/12b.webp",
           "alt": "12b"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/13.webp",
         "alt": "13"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/14.webp",
         "alt": "14"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "imageTextLeft",
       "image": {
         "src": "/media/khamoro/15b.webp",
         "alt": "Khamoro festival poster"
       },
       "title": "Khamoro 2026",
       "subtitle": "Grid, hierarchy & composition",
-      "copy": "A flexible grid provides the structure for Khamoro's information system. Scale, position and spacing create clear hierarchies while allowing each composition to adapt to different content and formats. The system balances consistency with freedom, giving information room to shift without losing clarity or recognition."
+      "copy": "A flexible grid provides the structure for Khamoro's information system. Scale, position and spacing create clear hierarchies while allowing each composition to adapt to different content and formats. The system balances consistency with freedom, giving information room to shift without losing clarity or recognition.",
+      "_template": "imageTextLeft"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/16.webp",
         "alt": "16"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "imageTextLeft",
       "image": {
         "src": "/media/khamoro/khamoro-system-v2.mp4",
         "alt": "Khamoro grid system animation"
       },
       "title": "Khamoro 2026",
       "subtitle": "Grid, hierarchy & composition",
-      "copy": "A flexible grid provides the structure for Khamoro's information system. Scale, position and spacing create clear hierarchies while allowing each composition to adapt to different content and formats. The system balances consistency with freedom, giving information room to shift without losing clarity or recognition."
+      "copy": "A flexible grid provides the structure for Khamoro's information system. Scale, position and spacing create clear hierarchies while allowing each composition to adapt to different content and formats. The system balances consistency with freedom, giving information room to shift without losing clarity or recognition.",
+      "_template": "imageTextLeft"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/18.webp",
         "alt": "18"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "imageTextRight",
       "image": {
         "src": "/media/khamoro/khamoro-photography.webp",
         "alt": "Khamoro festival photography"
       },
       "title": "Khamoro 2026",
       "subtitle": "Photography within the system",
-      "copy": "When photography can be commissioned, Khamoro follows a clear direction: close, energetic and immersive images that capture the festival from within. In practice, much of its imagery comes from different people, sources and contexts. The identity is designed to support both realities. Typography, colour and graphic forms give directed photography a distinctive voice, while allowing spontaneous or inconsistent images to sit naturally within the same recognisable system."
+      "copy": "When photography can be commissioned, Khamoro follows a clear direction: close, energetic and immersive images that capture the festival from within. In practice, much of its imagery comes from different people, sources and contexts. The identity is designed to support both realities. Typography, colour and graphic forms give directed photography a distinctive voice, while allowing spontaneous or inconsistent images to sit naturally within the same recognisable system.",
+      "_template": "imageTextRight"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/20.webp",
         "alt": "20"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/21.webp",
         "alt": "21"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "imageTextLeft",
       "image": {
         "src": "/media/khamoro/khamoro-social.webp",
         "alt": "Khamoro social media posts"
       },
       "title": "Khamoro 2026",
       "subtitle": "Flexible compositions",
-      "copy": "The visual system adapts naturally to social media, combining typography, photography, colour and graphic forms within a flexible composition. Each layout can shift according to the content while maintaining a consistent visual language, allowing Khamoro to communicate different artists, events and information without relying on a fixed template."
+      "copy": "The visual system adapts naturally to social media, combining typography, photography, colour and graphic forms within a flexible composition. Each layout can shift according to the content while maintaining a consistent visual language, allowing Khamoro to communicate different artists, events and information without relying on a fixed template.",
+      "_template": "imageTextLeft"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/khamoro-system-v3.mp4",
         "alt": "Khamoro system animation"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/24.webp",
         "alt": "24"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/khamoro/25a.webp",
@@ -262,59 +263,59 @@
           "src": "/media/khamoro/25b.webp",
           "alt": "25b"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/26.webp",
         "alt": "26"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/27.webp",
         "alt": "27"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/28.webp",
         "alt": "28"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/29.webp",
         "alt": "29"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/30.webp",
         "alt": "30"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/31.webp",
         "alt": "31"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/32.webp",
         "alt": "32"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/khamoro/33a.webp",
@@ -324,14 +325,15 @@
           "src": "/media/khamoro/33b.webp",
           "alt": "33b"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/khamoro/34-v2.webp",
         "alt": "34"
-      }
+      },
+      "_template": "oneImage"
     }
   ],
   "credits": [
