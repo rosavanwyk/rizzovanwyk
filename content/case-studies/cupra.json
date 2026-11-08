@@ -216,14 +216,12 @@
     },
     {
       "image": {
-        "src": "/media/cupra/cupra-31-result.webp",
         "alt": "Cupra 31 result"
       },
       "_template": "oneImage"
     },
     {
       "image": {
-        "src": "/media/cupra/cupra-32-result.webp",
         "alt": "Cupra 32 result"
       },
       "_template": "oneImage"
