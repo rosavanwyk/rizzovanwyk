@@ -8,18 +8,19 @@
     "alt": "Coptown 1 result"
   },
   "intro": {
-    "copy": "How do you turn a much-loved local food business into a brand ready to travel? For this Sydney-based empanada company, the answer was hiding in the pastry. We renamed Copetín as Coptown and built the identity around the repulgue, the traditional hand-crimped edge of an empanada. Its distinctive form became both the letter C and a playful wave, bringing a little Sydney surf culture into the mix. Different crimps, colours and characters give every flavour its own personality.",
     "title": "Coptown",
     "subtitle": "An empanada that learned to surf.",
+    "copy": "How do you turn a much-loved local food business into a brand ready to travel? For this Sydney-based empanada company, the answer was hiding in the pastry. We renamed Copetín as Coptown and built the identity around the repulgue, the traditional hand-crimped edge of an empanada. Its distinctive form became both the letter C and a playful wave, bringing a little Sydney surf culture into the mix. Different crimps, colours and characters give every flavour its own personality.",
     "services": [
       "Visual Identity",
-      "Art Direction",
-      "Branding"
+      "Character Design",
+      "Flavour System",
+      "Logo Design",
+      "Naming"
     ]
   },
   "blocks": [
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/coptown/coptown-2-result.webp",
@@ -29,45 +30,45 @@
           "src": "/media/coptown/coptown-3-result.webp",
           "alt": "Coptown 3 result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-4-result.webp",
         "alt": "Coptown 4 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-5-result.webp",
         "alt": "Coptown 5 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-6-result.webp",
         "alt": "Coptown 6 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-7-result.webp",
         "alt": "Coptown 7 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-8-result.webp",
         "alt": "Coptown 8 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/coptown/coptown-9-result.webp",
@@ -77,10 +78,10 @@
           "src": "/media/coptown/coptown-10-result.webp",
           "alt": "Coptown 10 result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/coptown/coptown-11-result.webp",
@@ -90,10 +91,10 @@
           "src": "/media/coptown/coptown-12-result.webp",
           "alt": "Coptown 12 result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/coptown/coptown-13-result.webp",
@@ -103,17 +104,17 @@
           "src": "/media/coptown/coptown-14-result.webp",
           "alt": "Coptown 14 result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-15-result.webp",
         "alt": "Coptown 15 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/coptown/coptown-16-result.webp",
@@ -123,24 +124,24 @@
           "src": "/media/coptown/coptown-17-result.webp",
           "alt": "Coptown 17 result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-18-result.webp",
         "alt": "Coptown 18 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-19-result.webp",
         "alt": "Coptown 19 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/coptown/coptown-20-result.webp",
@@ -150,17 +151,17 @@
           "src": "/media/coptown/coptown-21-result.webp",
           "alt": "Coptown 21 result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-22-result.webp",
         "alt": "Coptown 22 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/coptown/coptown-23-result.webp",
@@ -170,38 +171,38 @@
           "src": "/media/coptown/coptown-24-result.webp",
           "alt": "Coptown 24 result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-25-result.webp",
         "alt": "Coptown 25 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-26-result.webp",
         "alt": "Coptown 26 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-27-result.webp",
         "alt": "Coptown 27 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-28-result.webp",
         "alt": "Coptown 28 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/coptown/coptown-29-result.webp",
@@ -211,10 +212,10 @@
           "src": "/media/coptown/coptown-30-result.webp",
           "alt": "Coptown 30 result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "twoImages",
       "images": [
         {
           "src": "/media/coptown/coptown-31-result.webp",
@@ -224,91 +225,92 @@
           "src": "/media/coptown/coptown-32-result.webp",
           "alt": "Coptown 32 result"
         }
-      ]
+      ],
+      "_template": "twoImages"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-33-result.webp",
         "alt": "Coptown 33 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-34-result.webp",
         "alt": "Coptown 34 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-35-result.webp",
         "alt": "Coptown 35 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-36-result.webp",
         "alt": "Coptown 36 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-37-result.webp",
         "alt": "Coptown 37 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-38-result.webp",
         "alt": "Coptown 38 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-39-result.webp",
         "alt": "Coptown 39 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-40-result.webp",
         "alt": "Coptown 40 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-41-result.webp",
         "alt": "Coptown 41 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-42-result.webp",
         "alt": "Coptown 42 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-43-result.webp",
         "alt": "Coptown 43 result"
-      }
+      },
+      "_template": "oneImage"
     },
     {
-      "_template": "oneImage",
       "image": {
         "src": "/media/coptown/coptown-44-result.webp",
         "alt": "Coptown 44 result"
-      }
+      },
+      "_template": "oneImage"
     }
   ],
   "credits": [
