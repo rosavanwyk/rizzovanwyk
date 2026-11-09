@@ -35,13 +35,6 @@
     },
     {
       "image": {
-        "src": "/media/bird/bird-4.webp",
-        "alt": "Bird 4"
-      },
-      "_template": "oneImage"
-    },
-    {
-      "image": {
         "src": "/media/bird/bird-5.webp",
         "alt": "Bird 5"
       },
@@ -49,13 +42,6 @@
       "subtitle": "An identity designed to take many forms.",
       "copy": "Built from fluid letterforms and bold geometric shapes, Bird's identity transforms a simple wordmark into a distinctive visual language.\n\nEach letter becomes a graphic element in its own right, creating a modular system that can be rearranged, repeated and scaled across digital, print, textiles and physical spaces.\n\nThe result is an expressive, contemporary identity that remains instantly recognisable, however it takes shape.",
       "_template": "imageTextLeft"
-    },
-    {
-      "image": {
-        "src": "/media/bird/bird-6.webp",
-        "alt": "Bird 6"
-      },
-      "_template": "oneImage"
     },
     {
       "image": {
@@ -94,6 +80,13 @@
     },
     {
       "image": {
+        "src": "/media/bird/bird-4.webp",
+        "alt": "Bird 4"
+      },
+      "_template": "oneImage"
+    },
+    {
+      "image": {
         "src": "/media/bird/bird-12.webp",
         "alt": "Bird 12"
       },
@@ -110,6 +103,13 @@
       "image": {
         "src": "/media/bird/bird-14.webp",
         "alt": "Bird 14"
+      },
+      "_template": "oneImage"
+    },
+    {
+      "image": {
+        "src": "/media/bird/bird-6.webp",
+        "alt": "Bird 6"
       },
       "_template": "oneImage"
     },
