@@ -491,11 +491,11 @@
 }
 
 .case-study-text-panel--intro > p {
-  margin-top: auto;
+  margin-top: 0;
 }
 
 .case-study-intro-services {
-  margin: auto 0 0;
+  margin: 24px 0 0;
   padding: 0;
   list-style: none;
   font-size: 88%;
@@ -505,7 +505,8 @@
 
 .case-study-text-panel--half {
   aspect-ratio: 1106 / 1520;
-  justify-content: space-between;
+  justify-content: flex-start;
+  gap: 24px;
 }
 
 .case-study-half-text-row {
@@ -1695,7 +1696,7 @@ video.grand-panel-image::-webkit-media-controls-overlay-play-button {
 }
 
 .case-study-text-panel.case-study-text-panel--lead > p {
-  margin-top: auto;
+  margin-top: 0;
   padding-top: 24px;
 }
 
