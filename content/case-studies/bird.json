@@ -28,13 +28,6 @@
     },
     {
       "image": {
-        "src": "/media/bird/bird-3.webp",
-        "alt": "Bird 3"
-      },
-      "_template": "oneImage"
-    },
-    {
-      "image": {
         "src": "/media/bird/bird-5.webp",
         "alt": "Bird 5"
       },
@@ -45,8 +38,8 @@
     },
     {
       "image": {
-        "src": "/media/bird/bird-7.webp",
-        "alt": "Bird 7"
+        "src": "/media/bird/bird-3.webp",
+        "alt": "Bird 3"
       },
       "_template": "oneImage"
     },
@@ -80,13 +73,6 @@
     },
     {
       "image": {
-        "src": "/media/bird/bird-4.webp",
-        "alt": "Bird 4"
-      },
-      "_template": "oneImage"
-    },
-    {
-      "image": {
         "src": "/media/bird/bird-12.webp",
         "alt": "Bird 12"
       },
@@ -103,13 +89,6 @@
       "image": {
         "src": "/media/bird/bird-14.webp",
         "alt": "Bird 14"
-      },
-      "_template": "oneImage"
-    },
-    {
-      "image": {
-        "src": "/media/bird/bird-6.webp",
-        "alt": "Bird 6"
       },
       "_template": "oneImage"
     },
@@ -145,6 +124,27 @@
       "image": {
         "src": "/media/bird/bird-19.webp",
         "alt": "Bird 19"
+      },
+      "_template": "oneImage"
+    },
+    {
+      "image": {
+        "src": "/media/bird/bird-4.webp",
+        "alt": "Bird 4"
+      },
+      "_template": "oneImage"
+    },
+    {
+      "image": {
+        "src": "/media/bird/bird-6.webp",
+        "alt": "Bird 6"
+      },
+      "_template": "oneImage"
+    },
+    {
+      "image": {
+        "src": "/media/bird/bird-7.webp",
+        "alt": "Bird 7"
       },
       "_template": "oneImage"
     }
