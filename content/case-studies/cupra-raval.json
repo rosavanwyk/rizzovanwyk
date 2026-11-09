@@ -20,11 +20,6 @@
   },
   "blocks": [
     {
-      "leftText": "Concept",
-      "rightText": "Raval is Not a Font\n\nA neighbourhood where every letter has its accent. Where aesthetics do not seek to please, but to express. Where the real blends with the modern, and the modern does not disguise itself as luxury, but as life.\n\nHere, nothing is uniform. Everything coexists: the digital and the analogue, the curved and the sharp, the classic and the new.\n\nRaval is not ordered.\nIt is felt. It is walked. It is heard.\n\nThis is not design.\nIt is visual territory.\nIt is identity in motion.",
-      "_template": "twoText"
-    },
-    {
       "image": {
         "src": "/media/cupra-raval/raval-1.webp",
         "alt": "Raval 1"
