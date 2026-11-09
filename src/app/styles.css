@@ -1876,3 +1876,10 @@ video.grand-panel-image::-webkit-media-controls-overlay-play-button {
     transition: none;
   }
 }
+
+/* Phones and small tablets: a pair of text panels merged into one box gets breathing room underneath */
+@media (max-width: 1024px) {
+  .case-study-intro:not(.case-study-intro--lead) > .case-study-text-panel:last-child {
+    padding-bottom: 80px;
+  }
+}
