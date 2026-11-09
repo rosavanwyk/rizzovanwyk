@@ -52,7 +52,6 @@
     },
     {
       "image": {
-        "src": "/media/bird/bird-9.webp",
         "alt": "Bird 9"
       },
       "_template": "oneImage"
@@ -80,7 +79,7 @@
     },
     {
       "image": {
-        "src": "/media/bird/bird-13.webp",
+        "src": "/media/media/Bird_011.png",
         "alt": "Bird 13"
       },
       "_template": "oneImage"
