@@ -1748,3 +1748,76 @@ video.grand-panel-image::-webkit-media-controls-overlay-play-button {
     padding-bottom: 28px;
   }
 }
+
+/* Phones: the menu header matches the page header exactly (same height, logo size and
+   position), with the close cross where the hamburger sits, so opening the menu doesn't jump. */
+@media (max-width: 1180px), (max-width: 1366px) and (pointer: coarse) {
+  .portfolio {
+    --menu-pad-r: max(20px, calc(8px + env(safe-area-inset-right)));
+    --menu-pad-l: max(20px, calc(8px + env(safe-area-inset-left)));
+    padding: 0;
+  }
+
+  .portfolio .sidebar {
+    padding: 0 var(--menu-pad-r) max(20px, calc(8px + env(safe-area-inset-bottom))) var(--menu-pad-l);
+  }
+
+  .portfolio .brand-row,
+  .portfolio .brand-row--compact {
+    display: grid;
+    min-height: calc(58px + env(safe-area-inset-top));
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    align-items: center;
+    margin: 0 calc(-1 * var(--menu-pad-r)) 0 calc(-1 * var(--menu-pad-l));
+    padding: env(safe-area-inset-top) max(14px, env(safe-area-inset-right)) 0
+      max(14px, env(safe-area-inset-left));
+    border-bottom: 1px solid rgb(233 233 233 / 10%);
+    background: rgb(0 0 0 / 88%);
+    backdrop-filter: blur(14px);
+  }
+
+  .portfolio .brand-row::after {
+    display: none;
+  }
+
+  .portfolio .brand-row .mobile-menu-close {
+    grid-column: 1;
+    grid-row: 1;
+    width: 22px;
+    height: 22px;
+    margin: 0;
+  }
+
+  .portfolio .brand-row .mobile-menu-close span::before,
+  .portfolio .brand-row .mobile-menu-close span::after {
+    left: 0;
+  }
+
+  .portfolio .brand-row .brand-home-button {
+    grid-column: 2;
+    grid-row: 1;
+    margin-left: clamp(32px, 10vw, 120px);
+    justify-self: start;
+  }
+
+  .portfolio .brand-row .wordmark {
+    position: static;
+    width: 58px;
+    height: auto;
+  }
+
+  .portfolio .brand-row .theme-toggle {
+    grid-column: 3;
+    grid-row: 1;
+    margin: 0;
+  }
+
+  .portfolio .contact {
+    margin-top: clamp(120px, 24vh, 200px);
+  }
+
+  .portfolio.light-mode .brand-row {
+    border-bottom-color: rgb(26 25 25 / 10%);
+    background: rgb(233 233 233 / 88%);
+  }
+}
