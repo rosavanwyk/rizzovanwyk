@@ -1681,10 +1681,11 @@ video.grand-panel-image::-webkit-media-controls-overlay-play-button {
   -webkit-appearance: none;
 }
 
-/* Case study opening boxes: nearly square side by side, as in Figma */
+/* Case study opening boxes side by side: 20% shorter than the original near-square Figma shape
+   (was 1106 / 1016) now that the text sits at the top */
 @media (min-width: 1025px) {
   .case-study-intro .case-study-text-panel--lead {
-    aspect-ratio: 1106 / 1016;
+    aspect-ratio: 1106 / 813;
     min-height: auto;
   }
 }
