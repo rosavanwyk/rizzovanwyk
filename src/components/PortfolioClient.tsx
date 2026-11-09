@@ -811,6 +811,22 @@ export default function PortfolioClient({
         isMobileContentOpen ? 'mobile-content-open' : ''
       }`}
     >
+      {/* Phones: one menu button that sits over both headers, so the lines can morph into a cross. */}
+      <button
+        className={`mobile-menu-toggle ${isMobileContentOpen ? '' : 'is-open'} ${
+          isMobileContentOpen && !isContentHeaderVisible ? 'mobile-header-is-hidden' : ''
+        }`}
+        type="button"
+        onClick={() => setIsMobileContentOpen((open) => !open)}
+        aria-label={isMobileContentOpen ? 'Open menu' : 'Close menu'}
+        aria-expanded={!isMobileContentOpen}
+      >
+        <span className="menu-icon" aria-hidden="true">
+          <span />
+          <span />
+          <span />
+        </span>
+      </button>
       <aside
         ref={sidebarRef}
         className="sidebar"
@@ -837,14 +853,7 @@ export default function PortfolioClient({
               <img className="brand-mark brand-mark--moon" src="/assets/4eff2.svg" alt="" />
               <img className="brand-mark brand-mark--sun" src="/assets/sun.svg" alt="" />
             </button>
-            <button
-              className="mobile-menu-close"
-              type="button"
-              onClick={() => setIsMobileContentOpen(true)}
-              aria-label="Close menu"
-            >
-              <span aria-hidden="true" />
-            </button>
+            <span className="mobile-menu-spacer" aria-hidden="true" />
           </header>
           <div className="contact">
             <a href="mailto:hi@rizzovanwyk.com">hi@rizzovanwyk.com</a>
@@ -917,18 +926,7 @@ export default function PortfolioClient({
             isContentHeaderVisible ? '' : 'mobile-header-is-hidden'
           }`}
         >
-          <button
-            className="mobile-back-button"
-            type="button"
-            onClick={() => setIsMobileContentOpen(false)}
-            aria-label="Open menu"
-          >
-            <span className="menu-icon" aria-hidden="true">
-              <span />
-              <span />
-              <span />
-            </span>
-          </button>
+          <span className="mobile-menu-spacer" aria-hidden="true" />
           <button
             className="mobile-header-home-button"
             type="button"
