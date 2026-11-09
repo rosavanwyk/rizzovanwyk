@@ -182,6 +182,10 @@
   cursor: pointer;
 }
 
+.mobile-menu-close {
+  display: none;
+}
+
 .theme-toggle:focus-visible {
   outline: none;
   background: rgb(127 127 127 / 15%);
@@ -1292,9 +1296,59 @@
     outline-offset: 6px;
   }
 
-  .mobile-back-button span:first-child {
-    font-size: 22px;
-    line-height: 1;
+  .menu-icon {
+    display: flex;
+    width: 22px;
+    height: 22px;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+  }
+
+  .menu-icon span {
+    display: block;
+    height: 1.5px;
+    background: currentColor;
+  }
+
+  .brand-row .theme-toggle {
+    margin-left: auto;
+  }
+
+  .mobile-menu-close {
+    position: relative;
+    display: block;
+    width: 28px;
+    height: 28px;
+    flex: none;
+    margin-left: 18px;
+    border-radius: 0;
+    color: inherit;
+    cursor: pointer;
+  }
+
+  .mobile-menu-close span::before,
+  .mobile-menu-close span::after {
+    position: absolute;
+    top: 50%;
+    left: 3px;
+    width: 22px;
+    height: 1.5px;
+    background: currentColor;
+    content: '';
+  }
+
+  .mobile-menu-close span::before {
+    transform: rotate(45deg);
+  }
+
+  .mobile-menu-close span::after {
+    transform: rotate(-45deg);
+  }
+
+  .mobile-menu-close:focus-visible {
+    outline: 1px solid currentColor;
+    outline-offset: 4px;
   }
 
   .mobile-header-home-button {

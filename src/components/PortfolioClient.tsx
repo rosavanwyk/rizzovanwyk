@@ -649,10 +649,9 @@ export default function PortfolioClient({
   const pathnameSlug = pathname.replace(/^\/|\/$/g, '')
   const activeSlug = pathnameSlug
   const activeProject = activeCaseStudy?.slug === activeSlug ? activeCaseStudy : undefined
-  const isMenu = !activeSlug
   const initialVisibleContentSlug = activeSlug || (showFirstCaseStudyAfterAbout ? 'about' : '')
   const [isLight, setIsLight] = useState(false)
-  const [isMobileContentOpen, setIsMobileContentOpen] = useState(!isMenu) // phones land on the project menu at /
+  const [isMobileContentOpen, setIsMobileContentOpen] = useState(true) // phones land on About us; the menu opens from the hamburger
   const [isMenuHeaderCompact, setIsMenuHeaderCompact] = useState(retainedSidebarScrollTop > 40)
   const [isContentHeaderVisible, setIsContentHeaderVisible] = useState(true)
   const [visibleContentSlug, setVisibleContentSlug] = useState(initialVisibleContentSlug)
@@ -682,12 +681,12 @@ export default function PortfolioClient({
   }, [])
 
   useEffect(() => {
-    setIsMobileContentOpen(!isMenu)
+    setIsMobileContentOpen(true)
     setIsContentHeaderVisible(true)
     setVisibleContentSlug(initialVisibleContentSlug)
     lastContentScrollTop.current = 0
     caseStudiesRef.current?.scrollTo({ top: 0 })
-  }, [initialVisibleContentSlug, pathname, isMenu])
+  }, [initialVisibleContentSlug, pathname])
 
   const selectPath = (path: string) => {
     setIsMobileContentOpen(true)
@@ -838,6 +837,14 @@ export default function PortfolioClient({
               <img className="brand-mark brand-mark--moon" src="/assets/4eff2.svg" alt="" />
               <img className="brand-mark brand-mark--sun" src="/assets/sun.svg" alt="" />
             </button>
+            <button
+              className="mobile-menu-close"
+              type="button"
+              onClick={() => setIsMobileContentOpen(true)}
+              aria-label="Close menu"
+            >
+              <span aria-hidden="true" />
+            </button>
           </header>
           <div className="contact">
             <a href="mailto:hi@rizzovanwyk.com">hi@rizzovanwyk.com</a>
@@ -914,9 +921,13 @@ export default function PortfolioClient({
             className="mobile-back-button"
             type="button"
             onClick={() => setIsMobileContentOpen(false)}
-            aria-label="Back to project menu"
+            aria-label="Open menu"
           >
-            <span aria-hidden="true">←</span>
+            <span className="menu-icon" aria-hidden="true">
+              <span />
+              <span />
+              <span />
+            </span>
           </button>
           <button
             className="mobile-header-home-button"
